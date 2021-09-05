@@ -1,0 +1,1000 @@
+1	的	的	de	de5	indicates possession, like adding 's to a noun	auxiliary		得		我是他的朋友。	我是他的朋友。	我是他[ ]朋友。	我是他[ ]朋友。	Wǒ shì tā de péngyou.	Wo3 shi4 ta1 de peng2you.	I'm a friend of his.		
+2	我	我	wǒ	wo3	I; me	pronoun				我有一百块钱。	我有一百塊錢。	[ ]有一百块钱。	[ ]有一百塊錢。	Wǒ yǒu yībǎi kuài qián.	Wo3 you3 yi1bai3 kuai4 qian2.	I've got one hundred RMB.		
+3	你	你	nǐ	ni3	you (singular)	pronoun				谢谢你。	謝謝你。	谢谢[ ]。	謝謝[ ]。	Xièxie nǐ.	Xie4xie ni3.	Thank you.		
+4	是	是	shì	shi4	be; is; are; am	verb		试		这是我家。	這是我家。	这[ ]我家。	這[ ]我家。	Zhè shì wǒ jiā.	Zhe4 shi4 wo3 jia1.	This is my house.		
+5	了	了	le	le5	indicates a completed or finished action	auxiliary				我去公园了。	我去公園了。	我去公园[ ]。	我去公園[ ]。	Wǒ qù gōngyuán le.	Wo3 qu4 gong1yuan2 le.	I went to the park.		
+6	不	不	bù	bu4	no; not	adverb		布		请不要大声叫喊。	請不要大聲叫喊。	请[ ]要大声叫喊。	請[ ]要大聲叫喊。	Qǐng búyào dà shēng jiàohǎn.	Qing3 bu2yao4 da4 sheng1 jiao4han3.	Please don't shout.		
+7	在	在	zài	zai4	at; on; in; indicates an action in progress	preposition		再		他一个人在公司。	他一個人在公司。	他一个人[ ]公司。	他一個人[ ]公司。	Tā yí gè rén zài gōngsī.	Ta1 yi2 ge4 ren2 zai4 gong1si1.	He's at the company by himself.		
+8	他	他	tā	ta1	he; him	pronoun		她，它，塌		他走路上班。	他走路上班。	[ ]走路上班。	[ ]走路上班。	Tā zǒulù shàngbān.	Ta1 zou3lu4 shang4ban1.	He commutes to work on foot.		
+9	我们	我們	wǒmen	wo3men5	we; us	pronoun				我们在打包东西。	我們在打包東西。	[ ]在打包东西。	[ ]在打包東西。	Wǒmen zài dǎbāo dōngxi.	Wo3men zai4 da3bao1 dong1xi.	We're packing our stuff.		
+10	好	好	hǎo	hao3	good	adjective				你好！	你好！	你[ ]！	你[ ]！	Nǐ hǎo!	Ni3 hao3!	Hello!		
+11	有	有	yǒu	you3	have	verb				我有一本书。	我有一本書。	我[ ]一本书。	我[ ]一本書。	Wǒ yǒu yì běn shū.	Wo3 you3 yi4 ben3 shu1.	I have a book.		
+12	这	這	zhè	zhe4	this	preposition				这是男厕所。	這是男廁所。	[ ]是男厕所。	[ ]是男廁所。	Zhè shì nán cèsuǒ.	Zhe4 shi4 nan2 ce4suo3.	This is the men's toilet.		
+13	会	會	huì	hui4	meet; can, able	verb				你会说汉语吗？	你會說漢語嗎？	你[ ]说汉语吗？	你[ ]說漢語嗎？	Nǐ huì shuō Hànyǔ ma?	Ni3 hui4 shuo1 Han4yu3 ma?	Can you speak Chinese?		
+14	吗	嗎	ma	ma5	indicates a yes/no question (added to a statement)	modal particle		嘛		她在吃饭吗？	她在吃飯嗎？	她在吃饭[ ]？	她在吃飯[ ]？	Tā zài chīfàn ma?	Ta1 zai4 chi1fan4 ma?	Is she eating now?		
+15	什么	什麼	shénme	shen2me5	what? (replaces the noun to turn a statement into a question)	pronoun				那是什么东西？	那是什麼東西？	那是[ ]东西？	那是[ ]東西？	Nà shì shénme dōngxi?	Na4 shi4 shen2me dong1xi?	What's that?		
+16	说	說	shuō	shuo1	speak	verb				请你再说一遍。	請你再說一遍。	请你再[ ]一遍。	請你再[ ]一遍。	Qǐng nǐ zài shuō yí biàn.	Qing3 ni3 zai4 shuo1 yi2 bian4.	Can you please say it again.		
+17	她	她	tā	ta1	she	pronoun		他，它，塌		她是我的女儿。	她是我的女兒。	[ ]是我的女儿。	[ ]是我的女兒。	Tā shì wǒ de nǚ'ér.	Ta1 shi4 wo3 de nv3'er2.	She's my daughter.		
+18	想	想	xiǎng	xiang3	think; believe; suppose; would like to	verb		响		你在想什么？	你在想什麼？	你在[ ]什么？	你在[ ]什麼？	Nǐ zài xiǎng shénme?	Ni3 zai4 xiang3 shen2me?	What are you thinking about?		
+19	一	一	yī	yi1	one; once; a	numeral				我有一本书。	我有一本書。	我有[ ]本书。	我有[ ]本書。	Wǒ yǒu yì běn shū.	Wo3 you3 yi4 ben3 shu1.	I have a book.		
+20	很	很	hěn	hen3	very; quite	adverb				你做得很好。	你做得很好。	你做得[ ]好。	你做得[ ]好。	Nǐ zuò de hěn hǎo.	Ni3 zuo4 de hen3 hao3.	You've done great.		
+21	人	人	rén	ren2	person; man; people	noun				公园里有很多人。	公園裡有很多人。	公园里有很多[ ]。	公園裡有很多[ ]。	Gōngyuán li yǒu hěn duō rén.	Gong1yuan2 li you3 hen3 duo1 ren2.	There are many people in the park.		
+22	那	那	nà	na4	that; then	pronoun				那个小孩好可爱。	那個小孩好可愛。	[ ]个小孩好可爱。	[ ]個小孩好可愛。	Nàge xiǎohái hǎo kě'ài.	Na4ge xiao3hai2 hao3 ke3'ai4.	That child is really cute.		
+23	来	來	lái	lai2	come; arrive; ever since; next	directional locality				我从美国来。	我從美國來。	我从美国[ ]。	我從美國[ ]。	Wǒ cóng Měiguó lái.	Wo3 cong2 Mei3guo2 lai2.	I'm from America. MN: two birds Come together to meet on tree		
+24	都	都	dōu	dou1	all; both	adverb		兜		我们全家都喜欢看书。	我們全家都喜歡看書。	我们全家[ ]喜欢看书。	我們全家[ ]喜歡看書。	Wǒmen quán jiā dōu xǐhuan kànshū.	Wo3men quan2 jia1 dou1 xi3huan kan4shu1.	Everyone in my family likes to read.		
+25	个	個	ge	ge5	general measure word	classifier				我认识那个人。	我認識那個人。	我认识那[ ]人。	我認識那[ ]人。	Wǒ rènshi nàge rén.	Wo3 ren4shi na4ge ren2.	I know that person.		
+26	能	能	néng	neng2	can; be able	verb				你能说汉语吗？	你能說漢語嗎？	你[ ]说汉语吗？	你[ ]說漢語嗎？	Nǐ néng shuō Hànyǔ ma?	Ni3 neng2 shuo1 Han4yu3 ma?	Can you speak Chinese?		
+27	去	去	qù	qu4	go; to leave	verb				我去公园了。	我去公園了。	我[ ]公园了。	我[ ]公園了。	Wǒ qù gōngyuán le.	Wo3 qu4 gong1yuan2 le.	I went to the park.		
+28	和	和	hé	he2	and; with	conjunction				我和妈妈去超市。	我和媽媽去超市。	我[ ]妈妈去超市。	我[ ]媽媽去超市。	Wǒ hé māma qù chāoshì.	Wo3 he2 ma1ma qu4 chao1shi4.	My mom and I are going to the supermarket.		
+29	做	做	zuò	zuo4	do; make	verb		坐，座		你做得很好。	你做得很好。	你[ ]得很好。	你[ ]得很好。	Nǐ zuò de hěn hǎo.	Ni3 zuo4 de hen3 hao3.	You've done great. MN: person with their tongue tying a knot in a cherry stem		
+30	上	上	shàng	shang4	above; up	directional locality				桌子上有一杯咖啡。	桌子上有一杯咖啡。	桌子[ ]有一杯咖啡。	桌子[ ]有一杯咖啡。	Zhuōzi shàng yǒu yī bēi kāfēi.	Zhuo1zi shang4 you3 yi1 bei1 ka1fei1.	There is a cup of coffee on the table.		
+31	没有	沒有	méiyǒu	mei2you3	not have; there is not	verb				没有车，他只好走路。	沒有車，他只好走路。	[ ]车，他只好走路。	[ ]車，他只好走路。	Méiyǒu chē, tā zhǐhǎo zǒulù.	Mei2you3 che1, ta1 zhi3hao3 zou3lu4.	Without a car, he is forced to walk.		
+32	看	看	kàn	kan4	see; look at; to watch	verb				我们去海边看日出。	我們去海邊看日出。	我们去海边[ ]日出。	我們去海邊[ ]日出。	Wǒmen qù hǎibiān kàn rìchū.	Wo3men qu4 hai3bian1 kan4 ri4chu1.	We went to the beach to see the sunrise.		
+33	怎么	怎麼	zěnme	zen3me5	how?; what	pronoun				她怎么了？	她怎麼了？	她[ ]了？	她[ ]了？	Tā zěnme le?	Ta1 zen3me le?	What happened to her?		
+34	现在	現在	xiànzài	xian4zai4	now	time word				现在几点钟？	現在幾點鐘？	[ ]几点钟？	[ ]幾點鐘？	Xiànzài jǐ diǎn zhōng?	Xian4zai4 ji3 dian3 zhong1?	What time is it now?		
+35	点	點	diǎn	dian3	a dot; a little; o'clock	time word				已经五点了。	已經五點了。	已经五[ ]了。	已經五[ ]了。	Yǐjing wǔ diǎn le.	Yi3jing wu3 dian3 le.	It's already five o'clock.		
+36	呢	呢	ne	ne5	indicates a question; how about...?; indicating continued state or action	modal particle				两岸是否会统一呢？	兩岸是否會統一呢？	两岸是否会统一[ ]？	兩岸是否會統一[ ]？。	Liǎng'Àn shìfǒu huì tǒngyī ne?	Liang3'An4 shi4fou3 hui4 tong3yi1 ne?	Will the mainland and Taiwan be reunified?		
+37	太	太	tài	tai4	too (much)	adverb				今天太热了！	今天太熱了！	今天[ ]热了！	今天[ ]熱了！	Jīntiān tài rè le!	Jin1tian1 tai4 re4 le!	It's so hot today!		
+38	里	裡	lǐ	li3	inside; Chinese mile (~.5 km)	directional locality				他们在图书馆里学习。	他們在圖書館裡學習。	他们在图书馆[ ]学习。	他們在圖書館[ ]學習。	Tāmen zài túshūguǎn lǐ xuéxí.	Ta1men zai4 tu2shu1guan3 li3 xue2xi2.	They're studying in the library.		
+39	听	聽	tīng	ting1	listen; hear	verb				她在听音乐。	她在聽音樂。	她在[ ]音乐。	她在[ ]音樂。	Tā zài tīng yīnyuè.	Ta1 zai4 ting1 yin1yue4.	She's listening to music.		
+40	谁	誰	shéi	shei2	who	pronoun				是谁发现了万有引力？	是誰發現了萬有引力？	是[ ]发现了万有引力？	是[ ]發現了萬有引力？	Shì shéi fāxiànle wànyǒu yǐnlì?	Shi4 shei2 fa1xian4le wan4you3 yin3li4?	Who discovered universal gravitation?		
+41	多	多	duō	duo1	many	adjective				公园里有很多人。	公園裡有很多人。	公园里有很[ ]人。	公園裡有很[ ]人。	Gōngyuán li yǒu hěn duō rén.	Gong1yuan2 li you3 hen3 duo1 ren2.	There are many people in the park.		
+42	时候	時候	shíhou	shi2hou5	time	noun				这时候天黑了。	這時候天黑了。	这[ ]天黑了。	這[ ]天黑了。	Zhè shíhou tiān hēi le.	Zhe4 shi2hou tian1 hei1 le.	The sun went down at this time.		
+43	下	下	xià	xia4	fall; below	directional locality		夏		水往下流。	水往下流。	水往[ ]流。	水往[ ]流。	Shuǐ wǎng xià liú.	Shui3 wang3 xia4 liu2.	The water is flowing down.		
+44	谢谢	謝謝	xièxie	xie4xie5	thank you	verb				谢谢您。	謝謝您。	[ ]您。	[ ]您。	Xièxie nín.	Xie4xie nin2.	Thank you!		
+45	先生	先生	xiānsheng	xian1sheng5	Mr.; Sir; husband	noun				我认识那位先生。	我認識那位先生。	我认识那位[ ]。	我認識那位[ ]。	Wǒ rènshi nà wèi xiānsheng.	Wo3 ren4shi na4 wei4 xian1sheng.	I know that gentleman over there.		
+46	喜欢	喜歡	xǐhuan	xi3huan5	to like	verb				他喜欢看书。	他喜歡看書。	他[ ]看书。	他[ ]看書。	Tā xǐhuan kànshū.	Ta1 xi3huan kan4shu1.	He likes to read.		
+47	大	大	dà	da4	big; large	adjective				这座城市很大。	這座城市很大。	这座城市很[ ]。	這座城市很[ ]。	Zhè zuò chéngshì hěn dà.	Zhe4 zuo4 cheng2shi4 hen3 da4.	This is a huge city.		
+48	东西	東西	dōngxi	dong1xi5	things; stuff	noun				那是什么东西？	那是什麼東西？	那是什么[ ]？	那是什麼[ ]？	Nà shì shénme dōngxi?	Na4 shi4 shen2me dong1xi?	What's that?		
+49	小	小	xiǎo	xiao3	small; young	adjective				小女孩先上车。	小女孩先上車。	[ ]女孩先上车。	[ ]女孩先上車。	Xiǎo nǚhái xiān shàngchē.	Xiao3 nv3hai2 xian1 shang4che1.	The little girl gets on the bus first.		
+50	叫	叫	jiào	jiao4	to be called	verb				你叫什么名字？	你叫什麼名字？	你[ ]什么名字？	你[ ]什麼名字？	Nǐ jiào shénme míngzi?	Ni3 jiao4 shen2me ming2zi?	What's your name?		
+51	爱	愛	ài	ai4	love	verb				我爱我的母亲。	我愛我的母親。	我[ ]我的母亲。	我[ ]我的母亲。	Wǒ ài wǒ de mǔqin.	Wo3 ai4 wo3 de mu3qin.	I love my mother.		
+52	年	年	nián	nian2	year	classifier				新年快乐！	新年快樂！	新[ ]快乐！	新[ ]快樂！	Xīnnián kuàilè!	Xin1nian2 kuai4le4!	Happy New Year!		
+53	请	請	qǐng	qing3	please; invite; to treat someone to something	verb				请给我一杯酒。	請給我一杯酒。	[ ]给我一杯酒。	[ ]給我一杯酒。	Qǐng gěi wǒ yī bēi jiǔ.	Qing3 gei3 wo3 yi1 bei1 jiu3.	Please give me a glass of wine.		
+54	回	回	huí	hui2	to return; to reply; to go back	verb				我回来了。	我回來了。	我[ ]来了。	我[ ]來了。	Wǒ huílái le.	Wo3 hui2lai2 le.	I'm back. Oh, no! What happened?		
+55	工作	工作	gōngzuò	gong1zuo4	work; a job	verb with nominal function				工作完成了。	工作完成了。	[ ]完成了。	[ ]完成了。	Gōngzuò wánchéng le.	Gong1zuo4 wan2cheng2 le.	The work is completed.		
+56	钱	錢	qián	qian2	money; coin	noun				他很有钱。	他很有錢。	他很有[ ]。	他很有[ ]。	Tā hěn yǒu qián.	Ta1 hen3 you3 qian2.	He's a rich man.		
+57	吃	吃	chī	chi1	eat	verb				她在吃早餐。	她在吃早餐。	她在[ ]早餐。	她在[ ]早餐。	Tā zài chī zǎocān.	Ta1 zai4 chi1 zao3can1.	She's eating her breakfast.		
+58	开	開	kāi	kai1	to open; to start; to operate (a vehicle)	verb				开门看看。	開門看看。	[ ]门看看。	[ ]門看看。	Kāimén kànkan.	Kai1men2 kan4kan.	Open the door and take a look.		
+59	家	家	jiā	jia1	family; home	noun				我家在二楼。	我家在二樓。	我[ ]在二楼。	我[ ]在二樓。	Wǒ jiā zài èr lóu.	Wo3 jia1 zai4 er4 lou2.	My home is on the second floor.		
+60	哪	哪	nǎ	na3	which; how	pronoun				哪个比较大？	哪個比較大？	[ ]个比较大？	[ ]個比較大？	Nǎge bǐjiào dà?	Na3ge bi3jiao4 da4?	Which is bigger?		
+61	朋友	朋友	péngyou	peng2you5	friend	noun				我认识了新朋友。	我認識了新朋友。	我认识了新[ ]。	我認識了新[ ]。	Wǒ rènshile xīn péngyou.	Wo3 ren4shile xin1 peng2you.	I have made a new friend.		
+62	妈妈	媽媽	māma	ma1ma5	mom; mum	noun				妈妈很疼爱我。	媽媽很疼愛我。	[ ]很疼爱我。	[ ]很疼愛我。	Māma hěn téng'ài wǒ.	Ma1ma hen3 teng2'ai4 wo3.	Mom loves me very much.		
+63	今天	今天	jīntiān	jin1tian1	today	time word				病人今天好多了。	病人今天好多了。	病人[ ]好多了。	病人[ ]好多了。	Bìngrén jīntiān hǎoduō le.	Bing4ren2 jin1tian1 hao3duo1 le.	The patient is much better today.		
+64	几	幾	jǐ	ji3	how many; several; a few	numeral				现在几点钟？	現在幾點鐘？	现在[ ]点钟？	現在[ ]點鐘？	Xiànzài jǐ diǎn zhōng?	Xian4zai4 ji3 dian3 zhong1?	What time is it now?		
+65	爸爸	爸爸	bàba	ba4ba5	Dad	noun				爸爸比我高很多。	爸爸比我高很多。	[ ]比我高很多。	[ ]比我高很多。	Bàba bǐ wǒ gāo hěn duō.	Ba4ba bi3 wo3 gao1 hen3 duo1.	My father is much taller than me.		
+66	些	些	xiē	xie1	some; few; several; (plural measure word)	classifier		歇		这些花很漂亮。	這些花很漂亮。	这[ ]花很漂亮。	這[ ]花很漂亮。	Zhèxiē huā hěn piàoliang.	Zhe4xie1 hua1 hen3 piao4liang.	These flowers are very beautiful.		
+67	怎么样	怎麼樣	zěnmeyàng	zen3me5yang4	how about?; how is/was it?	pronoun				这件衣服怎么样？	這件衣服怎麼樣？	这件衣服[ ]？	這件衣服[ ]？	Zhè jiàn yīfu zěnmeyàng?	Zhe4 jian4 yi1fu zen3meyang4?	How do you like this dress?		
+68	对不起	對不起	duìbuqǐ	dui4bu5qi3	I'm sorry; excuse me	interjection				对不起让你失望了。	對不起讓你失望了。	[ ]让你失望了。	[ ]讓你失望了。	Duìbuqǐ ràng nǐ shīwàng le.	Dui4buqi3 rang4 ni3 shi1wang4 le.	I'm sorry to have disappointed you.		
+69	住	住	zhù	zhu4	to live; reside; to stop	verb				我住在二楼。	我住在二樓。	我[ ]在二楼。	我[ ]在二樓。	Wǒ zhù zài èr lóu.	Wo3 zhu4 zai4 er4 lou2.	I live on the second floor.		
+70	三	三	sān	san1	three	numeral				我下午三点上课。	我下午三點上課。	我下午[ ]点上课。	我下午[ ]點上課。	Wǒ xiàwǔ sān diǎn shàngkè.	Wo3 xia4wu3 san1 dian3 shang4ke4.	I have a lesson at 3:00 p.m.		
+71	高兴	高興	gāoxìng	gao1xing4	happy; glad	adjective				孩子们玩得非常高兴。	孩子們玩得非常高興。	孩子们玩得非常[ ]。	孩子們玩得非常[ ]。	Háizimen wán de fēicháng gāoxìng.	Hai2zimen wan2 de fei1chang2 gao1xing4.	The children were extremely happy playing. Mn: tall (stacking object on book on box on table) mood		
+72	买	買	mǎi	mai3	to buy	verb				我买了三本书。	我買了三本書。	我[ ]了三本书。	我[ ]了三本書。	Wǒ mǎile sān běn shū.	Wo3 mai3le san1 ben3 shu1.	I bought three books.		
+73	医生	醫生	yīshēng	yi1sheng1	doctor	noun				在中国，医生也叫大夫。	在中國，醫生也叫大夫。	在中国，[ ]也叫大夫。	在中國，[ ]也叫大夫。	Zài Zhōngguó, yīshēng yě jiào dàifu.	Zai4 Zhong1guo2, yi1sheng1 ye3 jiao4 dai4fu.	"In China, doctors are also called ""daifu""."		
+74	哪儿	哪兒	nǎr	na3r5	where? (Beijing accent)	pronoun				这里是哪儿？	這裡是哪兒？	这里是[ ]？	這裡是[ ]？	Zhèli shì nǎr?	Zhe4li shi4 na3r?	Where are we?		
+75	字	字	zì	zi4	letter; character	noun				我不认识这个字。	我不認識這個字。	我不认识这个[ ]。	我不認識這個[ ]。	Wǒ bú rènshi zhège zì.	Wo3 bu2 ren4shi zhe4ge zi4.	I don't know this character.		
+76	名字	名字	míngzi	ming2zi5	name	noun				你叫什么名字？	你叫什麼名字？	你叫什么[ ]？	你叫什麼[ ]？	Nǐ jiào shénme míngzi?	Ni3 jiao4 shen2me ming2zi?	What's your name?		
+77	认识	認識	rènshi	ren4shi5	recognize; know (a person)	verb				我认识这个汉字。	我認識這個漢字。	我[ ]这个汉字。	我[ ]這個漢字。	Wǒ rènshi zhège Hànzì.	Wo3 ren4shi zhe4ge Han4zi4.	I know this Chinese character.		
+78	坐	坐	zuò	zuo4	sit	verb		做，座		请坐。	請坐。	请[ ]。	請[ ]。	Qǐng zuò.	Qing3 zuo4.	Please be seated.		
+79	喝	喝	hē	he1	to drink	verb morpheme		呵		他喜欢喝酒。	他喜歡喝酒。	他喜欢[ ]酒。	他喜歡[ ]酒。	Tā xǐhuan hējiǔ.	Ta1 xi3huan he1jiu3.	He likes drinking alcohol.		
+80	写	寫	xiě	xie3	to write; to compose	verb				他不会写字。	他不會寫字。	他不会[ ]字。	他不會[ ]字。	Tā bú huì xiězì.	Ta1 bu2 hui4 xie3zi4.	He can't write.		
+81	月	月	yuè	yue4	moon; month; flesh (radical)	noun		越		她下个月生孩子。	她下個月生孩子。	她下个[ ]生孩子。	她下個[ ]生孩子。	Tā xià gè yuè shēng háizi.	Ta1 xia4 ge4 yue4 sheng1 hai2zi.	Her baby is due next month.		
+82	号	號	hào	hao4	number; day of a month	classifier				这是我的电话号码。	這是我的電話號碼。	这是我的电话[ ]码。	這是我的電話[ ]碼。	Zhè shì wǒ de diànhuà hàomǎ.	Zhe4 shi4 wo3 de dian4hua4 hao4ma3.	This is my telephone number.		
+83	狗	狗	gǒu	gou3	dog	noun				我有一只小狗。	我有一隻小狗。	我有一只小[ ]。	我有一隻小[ ]。	Wǒ yǒu yī zhī xiǎogǒu.	Wo3 you3 yi1 zhi1 xiao3gou3.	I've got a little dog.		
+84	岁	歲	suì	sui4	years old; age	classifier		碎		他都十岁了。	他都十歲了。	他都十[ ]了。	他都十[ ]了。	Tā dōu shí suì le.	Ta1 dou1 shi2 sui4 le.	He's already ten years old.		
+85	看见	看見	kànjiàn	kan4jian4	see; catch sight of	verb				我看见他了。	我看見他了。	我[ ]他了。	我[ ]他了。	Wǒ kànjiàn tā le.	Wo3 kan4jian4 ta1 le.	I saw him.		
+86	打电话	打電話	dǎ diànhuà	da3 dian4hua4	make a phone call	verb				我明天打电话给你。	我明天打電話給你。	我明天[ ]给你。	我明天[ ]給你。	Wǒ míngtiān dǎ diànhuà gěi nǐ.	Wo3 ming2tian1 da3 dian4hua4 gei3 ni3.	I'll call you tomorrow.		
+87	喂	喂	wèi	wei4	hello (on the phone), hey	interjection			homograph	喂，你好。	喂，你好。	[ ]，你好。	[ ]，你好。	Wèi, nǐ hǎo.	Wei4, ni3 hao3.	Hey, how are you?		
+88	儿子	兒子	érzi	er2zi5	son	noun				他是我的儿子。	他是我的兒子。	他是我的[ ]。	他是我的[ ]。	Tā shì wǒ de érzi.	Ta1 shi4 wo3 de er2zi.	He's my son.		
+89	漂亮	漂亮	piàoliang	piao4liang5	pretty; beautiful	adjective				这朵花很漂亮。	這朵花很漂亮。	这朵花很[ ]。	這朵花很[ ]。	Zhè duǒ huā hěn piàoliang.	Zhe4 duo3 hua1 hen3 piao4liang.	This flower is very pretty.		
+90	分钟	分鐘	fēnzhōng	fen1zhong1	minute; (measure word for time)	classifier				十分钟后开会。	十分鐘後開會。	十[ ]后开会。	十[ ]後開會。	Shí fēnzhōng hòu kāihuì.	Shi2 fen1zhong1 hou4 kai1hui4.	The meeting will start in 10 minutes.		
+91	再见	再見	zàijiàn	zai4jian4	goodbye; see you later	verb				我不想和你说再见。	我不想和你說再見。	我不想和你说[ ]。	我不想和你說[ ]。	Wǒ bù xiǎng hé nǐ shuō zàijiàn.	Wo3 bu4 xiang3 he2 ni3 shuo1 zai4jian4.	I don't want to say goodbye to you.		
+92	本	本	běn	ben3	measure word for books	classifier				那本书是我的。	那本書是我的。	那[ ]书是我的。	那[ ]書是我的。	Nà běn shū shì wǒ de.	Na4 ben3 shu1 shi4 wo3 de.	That book is mine.		
+93	明天	明天	míngtiān	ming2tian1	tomorrow	time word				我希望明天不下雨。	我希望明天不下雨。	我希望[ ]不下雨。	我希望[ ]不下雨。	Wǒ xīwàng míngtiān bú xiàyǔ.	Wo3 xi1wang4 ming2tian1 bu2 xia4yu3.	I hope it won't rain tomorrow.		
+94	少	少	shǎo	shao3	few; little	adjective				路上的行人很少。	路上的行人很少。	路上的行人很[ ]。	路上的行人很[ ]。	Lùshang de xíngrén hěn shǎo.	Lu4shang de xing2ren2 hen3 shao3.	There are very few pedestrians on the street.		
+95	多少	多少	duōshao	duo1shao5	how much?; how many?	pronoun				这件衣服多少钱？	這件衣服多少錢？	这件衣服[ ]钱？	這件衣服[ ]錢？	Zhè jiàn yīfu duōshǎo qián?	Zhe4 jian4 yi1fu duo1shao3 qian2?	How much does the suit cost?		
+96	块	塊	kuài	kuai4	lump; piece; sum of money	classifier		快		我有一百块钱。	我有一百塊錢。	我有一百[ ]钱。	我有一百[ ]錢。	Wǒ yǒu yībǎi kuài qián.	Wo3 you3 yi1bai3 kuai4 qian2.	I've got one hundred RMB.		
+97	女儿	女兒	nǚ'ér	nv3'er2	daughter	noun				他们的女儿很可爱。	他們的女兒很可愛。	他们的[ ]很可爱。	他們的[ ]很可愛。	Tāmen de nǚ'ér hěn kě'ài.	Ta1men de nv3'er2 hen3 ke3'ai4.	Their daughter is lovely.		
+98	小姐	小姐	xiǎojie	xiao3jie5	young lady; miss; Ms.	noun				小姐，你好。	小姐，你好。	[ ]，你好。	[ ]，你好。	Xiǎojie, nǐ hǎo.	Xiao3jie, ni3 hao3.	Hello, Miss.		
+99	衣服	衣服	yīfu	yi1fu5	clothes	noun				这件衣服多少钱？	這件衣服多少錢？	这件[ ]多少钱？	這件[ ]多少錢？	Zhè jiàn yīfu duōshǎo qián?	Zhe4 jian4 yi1fu duo1shao3 qian2?	How much does the suit cost?		
+100	水	水	shuǐ	shui3	water	noun				请给我一杯水。	請給我一杯水。	请给我一杯[ ]。	請給我一杯[ ]。	Qǐng gěi wǒ yì bēi shuǐ.	Qing3 gei3 wo3 yi4 bei1 shui3.	Please give me a glass of water.		
+101	学校	學校	xuéxiào	xue2xiao4	school	noun				学校里很安静。	學校裡很安靜。	[ ]里很安静。	[ ]裡很安靜。	Xuéxiào li hěn ānjìng.	Xue2xiao4 li hen3 an1jing4.	It's very quiet inside the school.		
+102	电影	電影	diànyǐng	dian4ying3	movie; film	noun				我去看电影了。	我去看電影了。	我去看[ ]了。	我去看[ ]了。	Wǒ qù kàn diànyǐng le.	Wo3 qu4 kan4 dian4ying3 le.	I went to see a movie.		
+103	书	書	shū	shu1	book; letter	noun		输		我买了一本书。	我買了一本書。	我买了一本[ ]。	我買了一本[ ]。	Wǒ mǎile yì běn shū.	Wo3 mai3le yi4 ben3 shu1.	I bought a book.		
+104	四	四	sì	si4	four	numeral				我家有四个人。	我家有四個人。	我家有[ ]个人。	我家有[ ]個人。	Wǒ jiā yǒu sì gè rén.	Wo3 jia1 you3 si4 ge4 ren2.	There are four people in my family.		
+105	五	五	wǔ	wu3	five	numeral				已经五点了。	已經五點了。	已经[ ]点了。	已經[ ]點了。	Yǐjing wǔ diǎn le.	Yi3jing wu3 dian3 le.	It's already five o'clock.		
+106	医院	醫院	yīyuàn	yi1yuan4	hospital	noun				妈妈在医院工作。	媽媽在醫院工作。	妈妈在[ ]工作。	媽媽在[ ]工作。	Māma zài yīyuàn gōngzuò.	Ma1ma zai4 yi1yuan4 gong1zuo4.	Mom works in a hospital.		
+107	没关系	沒關系	méi guānxi	mei2 guan1xi5	it doesn't matter; never mind	fixed expression				输一场比赛没关系。	輸一場比賽沒關係。	输一场比赛[ ]。	輸一場比賽沒關係。	Shū yì chǎng bǐsài méiguānxi.	Shu1 yi4 chang3 bi3sai4 mei2guan1xi.	It doesn't matter if you lose one game.		
+108	飞机	飛機	fēijī	fei1ji1	airplane	noun				飞机九点起飞。	飛機九點起飛。	[ ]九点起飞。	[ ]九點起飛。	Fēijī jiǔ diǎn qǐfēi.	Fei1ji1 jiu3 dian3 qi3fei1.	The airplane departs at 9:00.		
+109	二	二	èr	er4	two	numeral				下个月是二月。	下個月是二月。	下个月是[ ]月。	下個月是[ ]月。	Xià gè yuè shì èryuè.	Xia4 ge4 yue4 shi4 er4yue4.	Next month is February.		
+110	电视	電視	diànshì	dian4shi4	television; TV	noun				我在电视台工作。	我在電視臺工作。	我在[ ]台工作。	我在[ ]臺工作。	Wǒ zài diànshìtái gōngzuò.	Wo3 zai4 dian4shi4tai2 gong1zuo4.	I work at a television station.		
+111	读	讀	dú	du2	to read; to study	verb				他们在读一本书。	他們在讀一本書。	他们在[ ]一本书。	他們在[ ]一本書。	Tāmen zài dú yī běn shū.	Ta1men zai4 du2 yi1 ben3 shu1.	They're reading a book.		
+112	后面	后面	hòumian	hou4mian5	back; behind	directional locality				太阳消失在云层后面。	太陽消失在雲層後面。	太阳消失在云层[ ]。	太陽消失在雲層後面。	Tàiyáng xiāoshī zài yúncéng hòumian.	Tai4yang2 xiao1shi1 zai4 yun2ceng2 hou4mian.	The sun is disappearing behind the clouds.		
+113	昨天	昨天	zuótiān	zuo2tian1	yesterday	time word				我从昨天开始戒烟。	我從昨天開始戒煙。	我从[ ]开始戒烟。	我從[ ]開始戒煙。	Wǒ cóng zuótiān kāishǐ jièyān.	Wo3 cong2 zuo2tian1 kai1shi3 jie4yan1.	I've stopped smoking as of yesterday.		
+114	睡觉	睡覺	shuì jiào	shui4 jiao4	to sleep; go to bed	verb				我通常11点睡觉。	我通常11點睡覺。	我通常11点[ ]。	我通常11點[ ]。	Wǒ tōngcháng shíyī diǎn shuìjiào.	Wo3 tong1chang2 shi2yi1 dian3 shui4jiao4.	I usually sleep at eleven o'clock.		
+115	六	六	liù	liu4	six	numeral				我弟弟六岁了。	我弟弟六歲了。	我弟弟[ ]岁了。	我弟弟[ ]歲了。	Wǒ dìdi liù suì le.	Wo3 di4di liu4 sui4 le.	My younger brother is six years old.		
+116	老师	老師	lǎoshī	lao3shi1	teacher	noun				她是我的老师。	她是我的老師。	她是我的[ ]。	她是我的[ ]。	Tā shì wǒ de lǎoshī.	Ta1 shi4 wo3 de lao3shi1.	She's my teacher.		
+117	星期	星期	xīngqī	xing1qi1	week	noun				一个星期有七天。	一個星期有七天。	一个[ ]有七天。	一個[ ]有七天。	Yí gè xīngqī yǒu qī tiān.	Yi2 ge4 xing1qi1 you3 qi1 tian1.	There are seven days in a week.		
+118	十	十	shí	shi2	ten	numeral		拾		我能从一数到十。	我能從一數到十。	我能从一数到[ ]。	我能從一數到[ ]。	Wǒ néng cóng yī shǔ dào shí.	Wo3 neng2 cong2 yi1 shu3 dao4 shi2.	I can count from one to ten.		
+119	猫	貓	māo	mao1	cat	noun				它是我的猫。	牠是我的貓。	它是我的[ ]。	牠是我的[ ]。	Tā shì wǒ de māo.	Ta1 shi4 wo3 de mao1.	It's my cat.		
+120	电脑	電腦	diànnǎo	dian4nao3	computer	noun				电脑的用途很广。	電腦的用途很廣。	[ ]的用途很广。	[ ]的用途很廣。	Diànnǎo de yòngtú hěn guǎng.	Dian4nao3 de yong4tu2 hen3 guang3.	Computers have many uses.		
+121	热	熱	rè	re4	heat; hot	adjective				今天太热了！	今天太熱了！	今天太[ ]了！	今天太[ ]了！	Jīntiān tài rè le!	Jin1tian1 tai4 re4 le!	It's so hot today!		
+122	学生	學生	xuésheng	xue2sheng5	student	noun				他们是外国留学生。	他們是外國留學生。	他们是外国留[ ]。	他們是外國留[ ]。	Tāmen shì wàiguó liúxuéshēng.	Ta1men shi4 wai4guo2 liu2xue2sheng1.	They're foreign students.		
+123	下午	下午	xiàwǔ	xia4wu3	afternoon	time word				我下午三点上课。	我下午三點上課。	我[ ]三点上课。	我[ ]三點上課。	Wǒ xiàwǔ sān diǎn shàngkè.	Wo3 xia4wu3 san1 dian3 shang4ke4.	I have a lesson at 3:00 p.m.		
+124	学习	學習	xuéxí	xue2xi2	learn; to study	verb				他们在图书馆里学习。	他們在圖書館裡學習。	他们在图书馆里[ ]。	他們在圖書館裡[ ]。	Tāmen zài túshūguǎn lǐ xuéxí.	Ta1men zai4 tu2shu1guan3 li3 xue2xi2.	They're studying in the library.		
+125	冷	冷	lěng	leng3	cold	adjective				天气很冷。	天氣很冷。	天气很[ ]。	天氣很[ ]。	Tiānqì hěn lěng.	Tian1qi4 hen3 leng3.	The weather is very cold.		
+126	不客气	不客氣	bụ̀ kèqi	bu3 ke4qi5	you're welcome; don't be polite	stative verb				不客气，我很愿意帮助你！	不客氣，我很願意幫助你！	[ ]，我很愿意帮助你！	[ ]，我很願意幫助你！	Búkèqi, wǒ hěn yuànyì bāngzhù nǐ!	Bu2ke4qi, wo3 hen3 yuan4yi4 bang1zhu4 ni3!	Think nothing of it, I'm happy to help you!		
+127	前面	前面	qiánmiàn	qian2mian4	in front	directional locality				房子前面有一辆车。	房子前面有一輛車。	房子[ ]有一辆车。	房子[ ]有一輛車。	Fángzi qiánmian yǒu yī liàng chē.	Fang2zi qian2mian you3 yi1 liang4 che1.	There's a car in front of the house.		
+128	八	八	bā	ba1	eight	numeral		疤		妹妹八岁了。	妹妹八歲了。	妹妹[ ]岁了。	妹妹[ ]歲了。	Mèimei bā suì le.	Mei4mei ba1 sui4 le.	My younger sister is eight years old.		
+129	中国	中國	Zhōngguó	Zhong1guo2	China	place name				在中国，医生也叫大夫。	在中國，醫生也叫大夫。	在[ ]，医生也叫大夫。	在[ ]，醫生也叫大夫。	Zài Zhōngguó, yīshēng yě jiào dàifu.	Zai4 Zhong1guo2, yi1sheng1 ye3 jiao4 dai4fu.	"In China, doctors are also called ""daifu""."		
+130	七	七	qī	qi1	seven	numeral				长城是七大奇迹之一。	長城是七大奇跡之一。	长城是[ ]大奇迹之一。	長城是[ ]大奇跡之一。	Chángchéng shì qī dà qíjì zhī yī.	Chang2cheng2 shi4 qi1 da4 qi2ji4 zhi1 yi1.	The Great Wall is one of the seven wonders of the world.		
+131	菜	菜	cài	cai4	dish (type of food); vegetables	noun				桌上摆了很多菜。	桌上擺了很多菜。	桌上摆了很多[ ]。	桌上擺了很多[ ]。	Zhuō shàng bǎile hěn duō cài.	Zhuo1 shang4 bai3le hen3 duo1 cai4.	There are a lot of dishes on the table.		
+132	桌子	桌子	zhuōzi	zhuo1zi5	table; desk	noun				桌子上有一杯咖啡。	桌子上有一杯咖啡。	[ ]上有一杯咖啡。	[ ]上有一杯咖啡。	Zhuōzi shàng yǒu yī bēi kāfēi.	Zhuo1zi shang4 you3 yi1 bei1 ka1fei1.	There is a cup of coffee on the table.		
+133	出租车	出租車	chūzūchē	chu1zu1che1	taxi; cab	noun				我乘出租车离开。	我乘出租車離開。	我乘[ ]离开。	我乘[ ]離開。	Wǒ chéng chūzūchē líkāi.	Wo3 cheng2 chu1zu1che1 li2kai1.	I'm leaving by taxi.		
+134	天气	天氣	tiānqì	tian1qi4	weather	noun				今天天气很好。	今天天氣很好。	今天[ ]很好。	今天[ ]很好。	Jīntiān tiānqì hěn hǎo.	Jin1tian1 tian1qi4 hen3 hao3.	The weather is nice today.		
+135	茶	茶	chá	cha2	tea	noun				你喝茶还是咖啡？	你喝茶還是咖啡？	你喝[ ]还是咖啡？	你喝[ ]還是咖啡？	Nǐ hē chá háishi kāfēi?	Ni3 he1 cha2 hai2shi ka1fei1?	Would you prefer tea or coffee?		
+136	九	九	jiǔ	jiu3	nine	numeral		久		现在是九点。	現在是九點。	现在是[ ]点。	現在是[ ]點。	Xiànzài shì jiǔ diǎn.	Xian4zai4 shi4 jiu3 dian3.	It's nine o'clock now.		
+137	商店	商店	shāngdiàn	shang1dian4	shop; store	noun				商店关门了。	商店關門了。	[ ]关门了。	[ ]關門了。	Shāngdiàn guānmén le.	Shang1dian4 guan1men2 le.	The shop is closed.		
+138	椅子	椅子	yǐzi	yi3zi5	chair	noun				这儿有一把椅子。	這兒有一把椅子。	这儿有一把[ ]。	這兒有一把[ ]。	Zhèr yǒu yì bǎ yǐzi.	Zhe4r you3 yi4 ba3 yi3zi.	There is a chair here.		
+139	同学	同學	tóngxué	tong2xue2	fellow student; schoolmate	noun				我和她是同学。	我和她是同學。	我和她是[ ]。	我和她是[ ]。	Wǒ hé tā shì tóngxué.	Wo3 he2 ta1 shi4 tong2xue2.	She and I are schoolmates.		
+140	一点儿	一點兒	yìdiǎnr	yi4dian3r5	a bit; a few	numeral				我只有一点儿钱。		我只有[ ]钱。						
+141	苹果	蘋果	píngguǒ	ping2guo3	apple	noun				这个苹果很大。	這個蘋果很大。	这个[ ]很大。	這個[ ]很大。	Zhège píngguǒ hěn dà.	Zhe4ge ping2guo3 hen3 da4.	This apple is very big.		
+142	饭店	飯店	fàndiàn	fan4dian4	restaurant; hotel	noun				南边有饭店。	南邊有飯店。	南边有[ ]。	南邊有[ ]。	Nánbiān yǒu fàndiàn.	Nan2bian1 you3 fan4dian4.	There is a hotel at the south end.		
+143	中午	中午	zhōngwǔ	zhong1wu3	noon; midday	time word				她一直等到中午。	她一直等到中午。	她一直等到[ ]。	她一直等到[ ]。	Tā yīzhí děngdào zhōngwǔ.	Ta1 yi1zhi2 deng3dao4 zhong1wu3.	She waited all the way till noon.		
+144	上午	上午	shàngwǔ	shang4wu3	late morning (before noon)	time word				今天上午考试。	今天上午考試。	今天[ ]考试。	今天[ ]考試。	Jīntiān shàngwǔ kǎoshì.	Jin1tian1 shang4wu3 kao3shi4.	I'm taking a test this morning.		
+145	水果	水果	shuǐguǒ	shui3guo3	fruit	noun				我买了蔬菜、水果等等。	我買了蔬菜、水果等等。	我买了蔬菜、[ ]等等。	我買了蔬菜、[ ]等等。	Wǒ mǎile shūcài, shuǐguǒ děngděng.	Wo3 mai3le shu1cai4, shui3guo3 deng3deng3.	I bought vegetables, fruits, etc.		
+146	杯子	杯子	bēizi	bei1zi5	cup; glass	noun				桌上放着一个杯子。	桌上放著一個杯子。	桌上放着一个[ ]。	桌上放著一個[ ]。	Zhuō shàng fàngzhe yí gè bēizi.	Zhuo1 shang4 fang4zhe yi2 ge4 bei1zi.	There is a glass on the table.		
+147	下雨	下雨	xiàyǔ	xia4yu3	to rain	verb				外面在下雨。	外面在下雨。	外面在[ ]。	外面在[ ]。	Wàimian zài xiàyǔ.	Wai4mian zai4 xia4yu3.	It's raining outside.		
+148	米饭	米飯	mǐfàn	mi3fan4	(cooked) rice	noun				我们喜欢吃米饭。	我們喜歡吃米飯。	我们喜欢吃[ ]。	我們喜歡吃[ ]。	Wǒmen xǐhuan chī mǐfàn.	Wo3men xi3huan chi1 mi3fan4.	We like eating rice.		
+149	北京	北京	Běijīng	Bei3jing1	Beijing	place name				天安门广场位于北京市中心。	天安門廣場位于北京市中心。	天安门广场位于[ ]市中心。	天安門廣場位于[ ]市中心。	Tiān'ānmén Guǎngchǎng wèiyú Běijīng Shì zhōngxīn.	Tian1'an1men2 Guang3chang3 wei4yu2 Bei3jing1 Shi4 zhong1xin1.	Tiananmen Square is in the center of Beijing.		
+150	汉语	漢語	Hànyǔ	Han4yu3	Chinese language	other proper noun				你会说汉语吗？	你會說漢語嗎？	你会说[ ]吗？	你會說[ ]嗎？	Nǐ huì shuō Hànyǔ ma?	Ni3 hui4 shuo1 Han4yu3 ma?	Can you speak Chinese?		
+151	就	就	jiù	jiu4	then; at once; just; only; with regard to	adverb		旧，救		要是你不来，我就跟你分手。	要是你不來，我就跟你分手。	要是你不来，我[ ]跟你分手。	要是你不來，我[ ]跟你分手。	Yàoshi nǐ bù lái, wǒ jiù gēn nǐ fēnshǒu.	Yao4shi ni3 bu4 lai2, wo3 jiu4 gen1 ni3 fen1shou3.	If you don't come, I am going to break up with you.		
+152	要	要	yào	yao4	to want; to need; will/shall; important	verb		药		吃饭前要洗手。	吃飯前要洗手。	吃饭前[ ]洗手。	吃飯前[ ]洗手。	Chīfàn qián yào xǐshǒu.	Chi1fan4 qian2 yao4 xi3shou3.	We have to wash our hands before eating.		
+153	知道	知道	zhīdao	zhi1dao5	know; be aware of	verb				我不知道这件事。	我不知道這件事。	我不[ ]这件事。	我不[ ]這件事。	Wǒ bù zhīdào zhè jiàn shì.	Wo3 bu4 zhi1dao4 zhe4 jian4 shi4.	I didn't know about that.		
+154	吧	吧	ba	ba5	particle indicating polite suggestion	modal particle				时间很晚了，我们回家吧！	時間很晚了，我們回家吧！	时间很晚了，我们回家[ ]！	時間很晚了，我們回家[ ]！	Shíjiān hěn wǎn le, wǒmen huíjiā ba!	Shi2jian1 hen3 wan3 le, wo3men hui2jia1 ba!	It's very late, so let's go home!		
+155	到	到	dào	dao4	arrive (at a place); until (a time)	verb				火车到站了。	火車到站了。	火车[ ]站了。	火車[ ]站了。	Huǒchē dàozhàn le.	Huo3che1 dao4zhan4 le.	The train arrived in the station.		
+156	对	對	duì	dui4	correct; a pair; to face; be opposite; to; towards	preposition				你做对了。	你做對了。	你做[ ]了。	你做[ ]了。	Nǐ zuòduì le.	Ni3 zuo4dui4 le.	You've done the right thing.		
+157	也	也	yě	ye3	also; too	adverb				我也喜欢看书。	我也喜歡看書。	我[ ]喜欢看书。	我[ ]喜歡看書。	Wǒ yě xǐhuan kànshū.	Wo3 ye3 xi3huan kan4shu1.	I also like to read.		
+158	还	還	hái	hai2	still; yet; in addition; even	adverb			homograph	我还没吃饭。	我還沒吃飯。	我[ ]没吃饭。	我[ ]沒吃飯。	Wǒ hái méi chīfàn.	Wo3 hai2 mei2 chi1fan4.	I haven't eaten yet.		
+159	让	讓	ràng	rang4	let, allow	verb				让我来回答这个问题。	讓我來回答這個問題。	[ ]我来回答这个问题。	[ ]我來回答這個問題。	Ràng wǒ lái huídá zhège wèntí.	Rang4 wo3 lai2 hui2da2 zhe4ge wen4ti2.	Let me answer this question.		
+160	给	給	gěi	gei3	to give; to grant; (passive particle)	preposition				请给我一杯酒。	請給我一杯酒。	请[ ]我一杯酒。	請[ ]我一杯酒。	Qǐng gěi wǒ yī bēi jiǔ.	Qing3 gei3 wo3 yi1 bei1 jiu3.	Please give me a glass of wine.		
+161	过	過	guo	guo	indicates a past experience	auxiliary			homograph	我去过北京。	我去過北京。	我去[ ]北京。	我去[ ]北京。	Wǒ qùguò Běijīng.	Wo3 qu4guo4 Bei3jing1.	I've been to Beijing.		
+162	得	得	de	de5	used to link a verb and the manner clause that follows it	auxiliary		的	homograph	你做得很好。	你做得很好。	你做[ ]很好。	你做[ ]很好。	Nǐ zuò de hěn hǎo.	Ni3 zuo4 de hen3 hao3.	You've done great.		
+163	真	真	zhēn	zhen1	real; true; genuine	adverb				海边的风景真美。	海邊的風景真美。	海边的风景[ ]美。	海邊的風景[ ]美。	Hǎibiān de fēngjǐng zhēn měi.	Hai3bian1 de feng1jing3 zhen1 mei3.	The scenery by the seaside is really beautiful.		
+164	着	著	zhe	zhe5	ing (indicating action in progress)	auxiliary				屋外下着雪。	屋外下著雪。	屋外下[ ]雪。	屋外下[ ]雪。	Wūwài xiàzhe xuě.	Wu1wai4 xia4zhe xue3.	It's snowing outside.		
+165	可以	可以	kěyǐ	ke3yi3	can; may; possible; okay	verb				这部手机可以拨打国际电话。	這部手機可以撥打國際電話。	这部手机[ ]拨打国际电话。	這部手機[ ]撥打國際電話。	Zhè bù shǒujī kěyǐ bōdǎ guójì diànhuà.	Zhe4 bu4 shou3ji1 ke3yi3 bo1da3 guo2ji4 dian4hua4.	This cell phone can make international calls.		
+166	别	別	bié	bie2	don't do something; don't	adverb				别担心。	別擔心。	[ ]担心。	[ ]擔心。	Bié dānxīn.	Bie2 dan1xin1.	Don't worry!		
+167	走	走	zǒu	zou3	to walk; to go; to move (Kangxi radical 156)	verb				他走路上班。	他走路上班。	他[ ]路上班。	他[ ]路上班。	Tā zǒulù shàngbān.	Ta1 zou3lu4 shang4ban1.	He commutes to work on foot.		
+168	告诉	告訴	gàosu	gao4su5	to tell; inform	verb				请告诉我答案。	請告訴我答案。	请[ ]我答案。	請[ ]我答案。	Qǐng gàosu wǒ dá'àn.	Qing3 gao4su wo3 da2'an4.	Please tell me the answer.		
+169	因为	因為	yīnwèi	yin1wei4	because	preposition				因为我病了，所以没去上学。	因為我病了，所以沒去上學。	[ ]我病了，所以没去上学。	[ ]我病了，所以沒去上學。	Yīnwèi wǒ bìng le, suǒyǐ méi qù shàngxué.	Yin1wei4 wo3 bing4 le, suo3yi3 mei2 qu4 shang4xue2.	I didn't go to school because I got sick.		
+170	再	再	zài	zai4	again; once more	adverb		在		请你再说一遍。	請你再說一遍。	请你[ ]说一遍。	請你[ ]說一遍。	Qǐng nǐ zài shuō yí biàn.	Qing3 ni3 zai4 shuo1 yi2 bian4.	Can you please say it again.		
+171	快	快	kuài	kuai4	fast; quick; swift	adjective		块		他写字很快。	他寫字很快。	他写字很[ ]。	他寫字很[ ]。	Tā xiě zì hěn kuài.	Ta1 xie3 zi4 hen3 kuai4.	He writes very quickly.		
+172	但是	但是	dànshì	dan4shi4	but; however	conjunction				雨很大，但是他还是出门了。	雨很大，但是他還是出門了。	雨很大，[ ]他还是出门了。	雨很大，[ ]他還是出門了。	Yǔ hěn dà, dànshì tā háishi chūmén le.	Yu3 hen3 da4, dan4shi4 ta1 hai2shi chu1men2 le.	He went out though it was raining heavily.		
+173	已经	已經	yǐjing	yi3jing5	already	adverb				已经五点了。	已經五點了。	[ ]五点了。	[ ]五點了。	Yǐjing wǔ diǎn le.	Yi3jing wu3 dian3 le.	It's already five o'clock.		
+174	为什么	為什麼	wèishénme	wei4shen2me5	why?; for what reason?	pronoun				为什么？	為什麼？	[ ]？	[ ]？	Wèishénme?	Wei4shen2me?	Why?		
+175	觉得	覺得	juéde	jue2de5	feel; think	verb				她觉得很累。	她覺得很累。	她[ ]很累。	她[ ]很累。	Tā juéde hěn lèi.	Ta1 jue2de hen3 lei4.	She feels very tired.		
+176	它	它	tā	ta1	it	pronoun		他，她，塌		它是我的猫。	牠是我的貓。	[ ]是我的猫。	牠是我的貓。	Tā shì wǒ de māo.	Ta1 shi4 wo3 de mao1.	It's my cat.		
+177	从	從	cóng	cong2	from; obey; observe	preposition		丛		我从美国来。	我從美國來。	我[ ]美国来。	我[ ]美國來。	Wǒ cóng Měiguó lái.	Wo3 cong2 Mei3guo2 lai2.	I'm from America.		
+178	找	找	zhǎo	zhao3	try to find; look for; seek; to give change	verb				我去图书馆找资料。	我去圖書館找資料。	我去图书馆[ ]资料。	我去圖書館[ ]資料。	Wǒ qù túshūguǎn zhǎo zīliào.	Wo3 qu4 tu2shu1guan3 zhao3 zi1liao4.	I'm going to the library to try to find some information/materials.		
+179	最	最	zuì	zui4	the most; -est; (indicator for superlative)	adverb		醉		我最喜欢看书。	我最喜歡看書。	我[ ]喜欢看书。	我[ ]喜歡看書。	Wǒ zuì xǐhuan kànshū.	Wo3 zui4 xi3huan kan4shu1.	I love reading books most.		
+180	可能	可能	kěnéng	ke3neng2	possible; probable; maybe	verb				她可能在教室里。	她可能在教室裡。	她[ ]在教室里。	她[ ]在教室裡。	Tā kěnéng zài jiàoshì li.	Ta1 ke3neng2 zai4 jiao4shi4 li.	She might be in the classroom.		
+181	次	次	cì	ci4	(mw for number of times of occurrence); nth; order	classifier		刺		这是一次事故。	這是一次事故。	这是一[ ]事故。	這是一[ ]事故。	Zhè shì yí cì shìgù.	Zhe4 shi4 yi2 ci4 shi4gu4.	There was an accident.		
+182	出	出	chū	chu1	go out; occur	verb				他要出发了。	他要出發了。	他要[ ]发了。	他要[ ]發了。	Tā yào chūfā le.	Ta1 yao4 chu1fa1 le.	He has to leave.		
+183	孩子	孩子	háizi	hai2zi5	child; children; son or daughter	noun				他还是小孩子。	他還是小孩子。	他还是小[ ]。	他還是小[ ]。	Tā háishi xiǎoháizi.	Ta1 hai2shi xiao3hai2zi.	He's still a child.		
+184	所以	所以	suǒyǐ	suo3yi3	so; therefore; as a result	conjunction				因为我病了，所以没去上学。	因為我病了，所以沒去上學。	因为我病了，[ ]没去上学。	因為我病了，[ ]沒去上學。	Yīnwèi wǒ bìng le, suǒyǐ méi qù shàngxué.	Yin1wei4 wo3 bing4 le, suo3yi3 mei2 qu4 shang4xue2.	I didn't go to school because I got sick.		
+185	两	兩	liǎng	liang3	two; 2; both; (unit of weight equal to 50 grams)	numeral				我有两张门票。	我有兩張門票。	我有[ ]张门票。	我有[ ]張門票。	Wǒ yǒu liǎng zhāng ménpiào.	Wo3 you3 liang3 zhang1 men2piao4.	I've got two tickets.		
+186	错	錯	cuò	cuo4	mistake; error; blunder; miss an opportunity	verb				我认为你错了。	我認為你錯了。	我认为你[ ]了。	我認為你[ ]了。	Wǒ rènwéi nǐ cuò le.	Wo3 ren4wei2 ni3 cuo4 le.	I think you're wrong.		
+187	等	等	děng	deng3	to wait; rank; equal; etc.	verb				大家在等公车。	大家在等公車。	大家在[ ]公车。	大家在[ ]公車。	Dàjiā zài děng gōngchē.	Da4jia1 zai4 deng3 gong1che1.	People are waiting for the bus.		
+188	题	題	tí	ti2	topic; subject; question on a test or assignment	noun		提		这道数学题很难。	這道數學題很難。	这道数学[ ]很难。	這道數學[ ]很難。	Zhè dào shùxué tí hěn nán.	Zhe4 dao4 shu4xue2 ti2 hen3 nan2.	This math problem is very difficult.		
+189	问	問	wèn	wen4	ask; inquire	verb				我可以问你一件事吗？	我可以問你一件事嗎？	我可以[ ]你一件事吗？	我可以[ ]你一件事嗎？	Wǒ kěyǐ wèn nǐ yí jiàn shì ma?	Wo3 ke3yi3 wen4 ni3 yi2 jian4 shi4 ma?	May I ask you a question?		
+190	问题	問題	wèntí	wen4ti2	question; problem	noun				汽车出问题了。	汽車出問題了。	汽车出[ ]了。	汽車出[ ]了。	Qìchē chū wèntí le.	Qi4che1 chu1 wen4ti2 le.	There's something wrong with the car.		
+191	一起	一起	yī̠qǐ	yi1qi3	together; in the same place	space word				男朋友同我一起去旅行。	男朋友同我一起去旅行。	男朋友同我[ ]去旅行。	男朋友同我[ ]去旅行。	Nánpéngyou tóng wǒ yīqǐ qù lǚxíng.	Nan2peng2you tong2 wo3 yi1qi3 qu4 lv3xing2.	My boyfriend and I travel together.		
+192	开始	開始	kāishǐ	kai1shi3	begin; to start; beginning	verb				我从昨天开始戒烟。	我從昨天開始戒煙。	我从昨天[ ]戒烟。	我從昨天[ ]戒煙。	Wǒ cóng zuótiān kāishǐ jièyān.	Wo3 cong2 zuo2tian1 kai1shi3 jie4yan1.	I've stopped smoking as of yesterday.		
+193	时间	時間	shíjiān	shi2jian1	time; period	noun				起床的时间到了。	起床的時間到了。	起床的[ ]到了。	起床的[ ]到了。	Qǐchuáng de shíjiān dào le.	Qi3chuang2 de shi2jian1 dao4 le.	It's time to get up.		
+194	事情	事情	shìqing	shi4qing5	matter; affair; thing; business	noun				还有其他事情吗？	還有其他事情嗎？	还有其他[ ]吗？	還有其他[ ]嗎？	Háiyǒu qítā shìqing ma?	Hai2you3 qi2ta1 shi4qing ma?	Is there anything else?		
+195	一下	一下	yīxià	yi1xia4	a little bit/while; one time; once	numeral				我出去一下。	我出去一下。	我出去[ ]。	我出去[ ]。	Wǒ chūqù yíxià.	Wo3 chu1qu4	I'm going out for a bit.		
+196	非常	非常	fēicháng	fei1chang2	extremely; extraordinary; very	adverb				孩子们玩得非常高兴。	孩子們玩得非常高興。	孩子们玩得[ ]高兴。	孩子們玩得[ ]高興。	Háizimen wán de fēicháng gāoxìng.	Hai2zimen wan2 de fei1chang2 gao1xing4.	The children were extremely happy playing.		
+197	希望	希望	xīwàng	xi1wang4	to hope; wish for; to desire	verb				我希望明天不下雨。	我希望明天不下雨。	我[ ]明天不下雨。	我[ ]明天不下雨。	Wǒ xīwàng míngtiān bú xiàyǔ.	Wo3 xi1wang4 ming2tian1 bu2 xia4yu3.	I hope it won't rain tomorrow.		
+198	准备	准備	zhǔnbèi	zhun3bei4	prepare; get ready	verb				他已经准备好了。	他已經準備好了。	他已经[ ]好了。	他已經準備好了。	Tā yǐjīng zhǔnbèi hǎo le.	Ta1 yi3jing1 zhun3bei4 hao3 le.	He already completed preparations.		
+199	比	比	bǐ	bi3	compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks	preposition				我比他高。	我比他高。	我[ ]他高。	我[ ]他高。	Wǒ bǐ tā gāo.	Wo3 bi3 ta1 gao1.	I am taller than him.		
+200	件	件	jiàn	jian4	(mw for things, clothes, and items)	classifier		剑，溅		这件衣服多少钱？	這件衣服多少錢？	这[ ]衣服多少钱？	這[ ]衣服多少錢？	Zhè jiàn yīfu duōshǎo qián?	Zhe4 jian4 yi1fu duo1shao3 qian2?	How much does the suit cost?		
+201	意思	意思	yìsi	yi4si5	meaning; idea; opinion	noun				你们明白我的意思了吗？	你們明白我的意思了嗎？	你们明白我的[ ]了吗？	你們明白我的[ ]了嗎？	Nǐmen míngbai wǒ de yìsi le ma?	Ni3men ming2bai wo3 de yi4si le ma?	Do you understand what I mean?		
+202	第一	第一	dìyī	di4yi1	num. first; primary; foremost	numeral				我是第一名。	我是第一名。	我是[ ]名。	我是[ ]名。	Wǒ shì dì-yī míng.	Wo3 shi4 di4-yi1 ming2.	I've achieved first place.		
+203	进	進	jìn	jin4	enter; come in	verb		近		有人进去了。	有人進去了。	有人[ ]去了。	有人[ ]去了。	Yǒu rén jìnqù le.	You3 ren2 jin4qu4 le.	Someone went in.		
+204	大家	大家	dàjiā	da4jia1	everyone	pronoun				大家在吃午饭。	大家在吃午飯。	[ ]在吃午饭。	[ ]在吃午飯。	Dàjiā zài chī wǔfàn.	Da4jia1 zai4 chi1 wu3fan4.	Everyone is eating lunch.		
+205	新	新	xīn	xin1	new; Xinjiang autonomous region (abbreviation)	adjective				这是他们的新房子。	這是他們的新房子。	这是他们的[ ]房子。	這是他們的[ ]房子。	Zhè shì tāmen de xīn fángzi.	Zhe4 shi4 ta1men de xin1 fang2zi.	This is their new house.		
+206	您	您	nín	nin2	you (polite)	pronoun				请出示您的护照。	請出示您的護照。	请出示[ ]的护照。	請出示[ ]的護照。	Qǐng chūshì nín de hùzhào.	Qing3 chu1shi4 nin2 de hu4zhao4.	Please show your passport.		
+207	穿	穿	chuān	chuan1	to wear; put on; penetrate	verb				她们穿着相同的衣服。	她們穿著相同的衣服。	她们[ ]着相同的衣服。	她們[ ]著相同的衣服。	Tāmen chuānzhe xiāngtóng de yīfu.	Ta1men chuan1zhe xiang1tong2 de yi1fu.	They're wearing identical clothes.		
+208	送	送	sòng	song4	deliver; to carry; to give; send	verb				这份礼物送给你。	這份禮物送給你。	这份礼物[ ]给你。	這份禮物[ ]給你。	Zhè fèn lǐwù sòng gěi nǐ.	Zhe4 fen4 li3wu4 song4 gei3 ni3.	This gift is for you.		
+209	玩	玩	wán	wan2	to play; have a good time; visit; enjoy	verb		完，丸		孩子们玩得非常高兴。	孩子們玩得非常高興。	孩子们[ ]得非常高兴。	孩子們[ ]得非常高興。	Háizimen wán de fēicháng gāoxìng.	Hai2zimen wan2 de fei1chang2 gao1xing4.	The children were extremely happy playing.		
+210	长	長	cháng	chang2	long; length (Kangxi radical 168)	adjective		尝	homograph	手指甲太长了。	手指甲太長了。	手指甲太[ ]了。	手指甲太[ ]了。	Shǒuzhǐjia tài cháng le.	Shou3zhi3jia tai4 chang2 le.	His fingernails are too long.		
+211	小时	小時	xiǎoshí	xiao3shi2	hour	noun				一小时后见。	一小時後見。	一[ ]后见。	一[ ]後見。	Yì xiǎoshí hòu jiàn.	Yi4 xiao3shi2 hou4 jian4.	We'll meet in an hour.		
+212	完	完	wán	wan2	to finish; be over; complete	verb		玩，丸		水喝完了。	水喝完了。	水喝[ ]了。	水喝[ ]了。	Shuǐ hēwán le.	Shui3 he1wan2 le.	I finished drinking the water.		
+213	每	每	měi	mei3	each; every	pronoun				我每天都刷牙。	我每天都刷牙。	我[ ]天都刷牙。	我[ ]天都刷牙。	Wǒ měi tiān dōu shuāyá.	Wo3 mei3 tian1 dou1 shua1ya2.	I brush my teeth every day.		
+214	公司	公司	gōngsī	gong1si1	company; corporation	noun				他一个人在公司。	他一個人在公司。	他一个人在[ ]。	他一個人在[ ]。	Tā yí gè rén zài gōngsī.	Ta1 yi2 ge4 ren2 zai4 gong1si1.	He's at the company by himself.		
+215	帮助	幫助	bāngzhù	bang1zhu4	help; assist; aid	v./n.				他喜欢帮助别人。	他喜歡幫助別人。	他喜欢[ ]别人。	他喜歡[ ]別人。	Tā xǐhuan bāngzhù biérén.	Ta1 xi3huan bang1zhu4 bie2ren2.	He likes helping others.		
+216	晚上	晚上	wǎnshang	wan3shang5	evening; night	time word				晚上我有事。	晚上我有事。	[ ]我有事。	[ ]我有事。	Wǎnshang wǒ yǒu shì.	Wan3shang wo3 you3 shi4.	I'm busy tonight.		
+217	说话	說話	shuōhuà	shuo1hua4	to talk; speak	verb				他说话说得很大声。	他說話說得很大聲。	他[ ]说得很大声。	他[ ]說得很大聲。	Tā shuōhuà shuō de hěn dàshēng.	Ta1 shuo1hua4 shuo1 de hen3 da4sheng1.	He talks very loudly.		
+218	门	門	mén	men2	door; opening; gate (Kangxi radical 169)	noun				他站在门口。	他站在門口。	他站在[ ]口。	他站在[ ]口。	Tā zhàn zài ménkǒu.	Ta1 zhan4 zai4 men2kou3.	He's standing at the entrance.		
+219	女	女	nǚ	nv3	woman; female (Kangxi radical 38)	non-predicate adjective				那个女人我认识。	那個女人我認識。	那个[ ]人我认识。	那個[ ]人我認識。	Nàge nǚrén wǒ rènshi.	Na4ge nv3ren2 wo3 ren4shi.	I know that woman.		
+220	忙	忙	máng	mang2	busy	verb				妈妈很忙。	媽媽很忙。	妈妈很[ ]。	媽媽很[ ]。	Māma hěn máng.	Ma1ma hen3 mang2.	My mother is very busy.		
+221	卖	賣	mài	mai4	to sell	verb		迈		我把房子卖了。	我把房子賣了。	我把房子[ ]了。	我把房子[ ]了。	Wǒ bǎ fángzi mài le.	Wo3 ba3 fang2zi mai4 le.	I sold the house.		
+222	高	高	gāo	gao1	high; tall (Kangxi radical 189)	adjective				我比他高。	我比他高。	我比他[ ]。	我比他[ ]。	Wǒ bǐ tā gāo.	Wo3 bi3 ta1 gao1.	I am taller than him.		
+223	房间	房間	fángjiān	fang2jian1	room	noun				这个房间是我的。	這個房間是我的。	这个[ ]是我的。	這個[ ]是我的。	Zhège fángjiān shì wǒ de.	Zhe4ge fang2jian1 shi4 wo3 de.	This room is mine.		
+224	路	路	lù	lu4	road; path; journey; route	noun				这条路很长。	這條路很長。	这条路很[ ]。	這條路很[ ]。	Zhè tiáo lù hěn cháng.	Zhe4 tiao2 lu4 hen3 chang2.	This road is very long.		
+225	懂	懂	dǒng	dong3	understand; know	verb				你懂英语吗？	你懂英語嗎？	你[ ]英语吗？	你[ ]英語嗎？	Nǐ dǒng Yīngyǔ ma?	Ni3 dong3 Ying1yu3 ma?	Do you understand English?		
+226	正在	正在	zhèngzài	zheng4zai4	in the process of (doing something); currently	auxiliary				我们正在开会。	我們正在開會。	我们[ ]开会。	我們[ ]開會。	Wǒmen zhèng zài kāihuì.	Wo3men zheng4 zai4 kai1hui4.	We're in a meeting right now.		
+227	笑	笑	xiào	xiao4	to laugh; to smile	verb				伊人在花丛中笑。	伊人在花叢中笑。	伊人在花丛中[ ]。	伊人在花叢中[ ]。	Yīrén zài huācóng zhōng xiào.	Yi1ren2 zai4 hua1cong2 zhong1 xiao4.	She is smiling in the flowers.		
+228	远	遠	yuǎn	yuan3	far; distant; remote	adjective				学校离我家很远。	學校離我家很遠。	学校离我家很[ ]。	學校離我家很[ ]。	Xuéxiào lí wǒ jiā hěn yuǎn.	Xue2xiao4 li2 wo3 jia1 hen3 yuan3.	The school is far away from my home.		
+229	妻子	妻子	qīzi	qi1zi5	wife	noun				我和妻子一起吃晚饭。	我和妻子一起吃晚飯。	我和[ ]一起吃晚饭。	我和[ ]一起吃晚飯。	Wǒ hé qīzi yìqǐ chī wǎnfàn.	Wo3 he2 qi1zi yi4qi3 chi1 wan3fan4.	I had supper with my wife.		
+230	丈夫	丈夫	zhàngfu	zhang4fu5	husband; man	noun				他是我的丈夫。	他是我的丈夫。	他是我的[ ]。	他是我的[ ]。	Tā shì wǒ de zhàngfu.	Ta1 shi4 wo3 de zhang4fu.	He's my husband.		
+231	离	離	lí	li2	leave; depart; go away; apart from	verb		梨		学校离我家很远。	學校離我家很遠。	学校[ ]我家很远。	學校[ ]我家很遠。	Xuéxiào lí wǒ jiā hěn yuǎn.	Xue2xiao4 li2 wo3 jia1 hen3 yuan3.	The school is far away from my home.		
+232	往	往	wǎng	wang3	to go (in a direction); towards; in the past	preposition				请往左拐。	請往左拐。	请[ ]左拐。	請[ ]左拐。	Qǐng wǎng zuǒ guǎi.	Qing3 wang3 zuo3 guai3.	Please turn left.		
+233	男	男	nán	nan2	male	non-predicate adjective		难，南		这是男厕所。	這是男廁所。	这是[ ]厕所。	這是[ ]廁所。	Zhè shì nán cèsuǒ.	Zhe4 shi4 nan2 ce4suo3.	This is the men's toilet.		
+234	眼睛	眼睛	yǎnjing	yan3jing5	eye	noun				她的眼睛很漂亮。	她的眼睛很漂亮。	她的[ ]很漂亮。	她的[ ]很漂亮。	Tā de yǎnjing hěn piàoliang.	Ta1 de yan3jing hen3 piao4liang.	Her eyes are beautiful.		
+235	快乐	快樂	kuàilè	kuai4le4	happy	adjective				新年快乐！	新年快樂！	新年[ ]！	新年[ ]！	Xīnnián kuàilè!	Xin1nian2 kuai4le4!	Happy New Year!		
+236	虽然	雖然	suīrán	sui1ran2	although; even though	conjunction				虽然跑得很累，但是很多人都没有放弃。	雖然跑得很累，但是很多人都沒有放棄。	[ ]跑得很累，但是很多人都没有放弃。	[ ]跑得很累，但是很多人都沒有放棄。	Suīrán pǎo de hěn lèi, dànshì hěn duō rén dōu méiyǒu fàngqì.	Sui1ran2 pao3 de hen3 lei4, dan4shi4 hen3 duo1 ren2 dou1 mei2you3 fang4qi4.	Though exhausted from running, many refused to give up.		
+237	早上	早上	zǎoshang	zao3shang5	(early) morning	time word				今天早上天气不错。	今天早上天氣不錯。	今天[ ]天气不错。	今天[ ]天氣不錯。	Jīntiān zǎoshang tiānqì búcuò.	Jin1tian1 zao3shang tian1qi4 bu2cuo4.	It's sunny this morning.		
+238	药	藥	yào	yao4	medicine; drug; cure; chemical	noun		要		药开始起作用了。	藥開始起作用了。	[ ]开始起作用了。	[ ]開始起作用了。	Yào kāishǐ qǐ zuòyòng le.	Yao4 kai1shi3 qi3 zuo4yong4 le.	The medicine began to take effect.		
+239	身体	身體	shēntǐ	shen1ti3	health; (human) body	noun				她为了健康锻炼身体。	她為了健康鍛煉身體。	她为了健康锻炼[ ]。	她為了健康鍛煉[ ]。	Tā wèile jiànkāng duànliàn shēntǐ.	Ta1 wei4le jian4kang1 duan4lian4 shen1ti3.	She exercises for her health.		
+240	黑	黑	hēi	hei1	black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)	adjective		嘿		这时候天黑了。	這時候天黑了。	这时候天[ ]了。	這時候天[ ]了。	Zhè shíhou tiān hēi le.	Zhe4 shi2hou tian1 hei1 le.	The sun went down at this time.		
+241	咖啡	咖啡	kāfēi	ka1fei1	coffee	noun				桌子上有一杯咖啡。	桌子上有一杯咖啡。	桌子上有一杯[ ]。	桌子上有一杯[ ]。	Zhuōzi shàng yǒu yī bēi kāfēi.	Zhuo1zi shang4 you3 yi1 bei1 ka1fei1.	There is a cup of coffee on the table.		
+242	日	日	rì	ri4	sun; day; date; time (Kangxi radical 72)	abbreviation				今天几月几日？	今天幾月幾日？	今天几月几[ ]？	今天幾月幾[ ]？	Jīntiān jǐ yuè jǐ rì?	Jin1tian1 ji3 yue4 ji3 ri4?	What's the date today?		
+243	休息	休息	xiūxi	xiu1xi5	to rest; take a break	verb				病人需要休息。	病人需要休息。	病人需要[ ]。	病人需要[ ]。	Bìngrén xūyào xiūxi.	Bing4ren2 xu1yao4 xiu1xi.	Sick people need rest.		
+244	外	外	wài	wai4	outer; outside; in addition; foreign	directional locality				外面在下雨。	外面在下雨。	[ ]面在下雨。	[ ]面在下雨。	Wàimian zài xiàyǔ.	Wai4mian zai4 xia4yu3.	It's raining outside.		
+245	生日	生日	shēngrì	sheng1ri4	birthday	noun				今天是我的生日。	今天是我的生日。	今天是我的[ ]。	今天是我的[ ]。	Jīntiān shì wǒ de shēngri.	Jin1tian1 shi4 wo3 de sheng1ri.	Today is my birthday.		
+246	哥哥	哥哥	gēge	ge1ge5	older brother	noun				其中的高个子就是我哥哥。	其中的高個子就是我哥哥。	其中的高个子就是我[ ]。	其中的高個子就是我[ ]。	Qízhōng de gāogèzi jiù shì wǒ gēge.	Qi2zhong1 de gao1ge4zi jiu4 shi4 wo3 ge1ge.	The tall one of the group is my older brother.		
+247	票	票	piào	piao4	ticket; bank note; a vote	noun				我有两张门票。	我有兩張門票。	我有两张门[ ]。	我有兩張門[ ]。	Wǒ yǒu liǎng zhāng ménpiào.	Wo3 you3 liang3 zhang1 men2piao4.	I've got two tickets.		
+248	手机	手機	shǒujī	shou3ji1	mobile (cell) phone	noun				这部手机可以拨打国际电话。	這部手機可以撥打國際電話。	这部[ ]可以拨打国际电话。	這部[ ]可以撥打國際電話。	Zhè bù shǒujī kěyǐ bōdǎ guójì diànhuà.	Zhe4 bu4 shou3ji1 ke3yi3 bo1da3 guo2ji4 dian4hua4.	This cell phone can make international calls.		
+249	洗	洗	xǐ	xi3	to wash; bathe	verb				吃饭前要洗手。	吃飯前要洗手。	吃饭前要[ ]手。	吃飯前要[ ]手。	Chīfàn qián yào xǐshǒu.	Chi1fan4 qian2 yao4 xi3shou3.	We have to wash our hands before eating.		
+250	跳舞	跳舞	tiào wǔ	tiao4 wu3	to dance	verb				她跳舞时的姿态很美。	她跳舞時的姿態很美。	她[ ]时的姿态很美。	她[ ]時的姿態很美。	Tā tiàowǔ shí de zītài hěn měi.	Ta1 tiao4wu3 shi2 de zi1tai4 hen3 mei3.	Her motions when dancing are lovely.		
+251	弟弟	弟弟	dìdi	di4di5	younger brother	noun				他是我的弟弟。	他是我的弟弟。	他是我的[ ]。	他是我的[ ]。	Tā shì wǒ de dìdi.	Ta1 shi4 wo3 de di4di.	He's my younger brother.		
+252	妹妹	妹妹	mèimei	mei4mei5	younger sister	noun				妹妹八岁了。	妹妹八歲了。	[ ]八岁了。	[ ]八歲了。	Mèimei bā suì le.	Mei4mei ba1 sui4 le.	My younger sister is eight years old.		
+253	红	紅	hóng	hong2	red; symbol of success; bonus; popular	adjective				她穿着红大衣。	她穿著紅大衣。	她穿着[ ]大衣。	她穿著[ ]大衣。	Tā chuānzhe hóng dàyī.	Ta1 chuan1zhe hong2 da4yi1.	She's wearing a red overcoat.		
+254	慢	慢	màn	man4	slow	adjective				他们走得很慢。	他們走得很慢。	他们走得很[ ]。	他們走得很[ ]。	Tāmen zǒu de hěn màn.	Ta1men zou3 de hen3 man4.	They walk very slowly.		
+255	近	近	jìn	jin4	near; close (to)	adjective		进		我家离学校很近。	我家離學校很近。	我家离学校很[ ]。	我家離學校很[ ]。	Wǒ jiā lí xuéxiào hěn jìn.	Wo3 jia1 li2 xue2xiao4 hen3 jin4.	My house is very close to school.		
+256	白	白	bái	bai2	white; snowy; pure; bright; empty (Kangxi radical 106)	adjective				雪很白。	雪很白。	雪很[ ]。	雪很[ ]。	Xuě hěn bái.	Xue3 hen3 bai2.	Snow is very white.		
+257	姐姐	姐姐	jiějie	jie3jie5	older sister	noun				她是我的姐姐。	她是我的姐姐。	她是我的[ ]。	她是我的[ ]。	Tā shì wǒ de jiějie.	Ta1 shi4 wo3 de jie3jie.	She's my elder sister.		
+258	介绍	介紹	jièshào	jie4shao4	to introduce; recommend; introduction	verb				他做了自我介绍。	他做了自我介紹。	他做了自我[ ]。	他做了自我[ ]。	Tā zuòle zìwǒ jièshào.	Ta1 zuo4le zi4wo3 jie4shao4.	He introduced himself.		
+259	鱼	魚	yú	yu2	fish (Kangxi radical 195)	noun				我钓到一条鱼。	我釣到一條魚。	我钓到一条[ ]。	我釣到一條[ ]。	Wǒ diàodào yī tiáo yú.	Wo3 diao4dao4 yi1 tiao2 yu2.	I've caught a fish.		
+260	累	累	lèi	lei4	tired	adjective				她觉得很累。	她覺得很累。	她觉得很[ ]。	她覺得很[ ]。	Tā juéde hěn lèi.	Ta1 jue2de hen3 lei4.	She feels very tired.		
+261	课	課	kè	ke4	class; subject; lesson; course	noun		刻，克		老师给孩子们上了一堂课。	老師給孩子們上了一堂課。	老师给孩子们上了一堂[ ]。	老師給孩子們上了一堂[ ]。	Lǎoshī gěi háizimen shàngle yī táng kè.	Lao3shi1 gei3 hai2zimen shang4le yi1 tang2 ke4.	The teacher taught one class to the children.		
+262	上班	上班	shàng bān	shang4 ban1	go to work; be on duty	verb				他走路上班。	他走路上班。	他走路[ ]。	他走路[ ]。	Tā zǒulù shàngbān.	Ta1 zou3lu4 shang4ban1.	He commutes to work on foot.		
+263	旁边	旁邊	pángbiān	pang2bian1	side, beside	directional locality				大家坐在桌子旁边。	大家坐在桌子旁邊。	大家坐在桌子[ ]。	大家坐在桌子[ ]。	Dàjiā zuò zài zhuōzi pángbiān.	Da4jia1 zuo4 zai4 zhuo1zi pang2bian1.	Everyone's sitting at the table.		
+264	运动	運動	yùndòng	yun4dong4	(physical) exercise; movement; sports; campaign	verb with nominal function				他爱做运动。	他愛做運動。	他爱做[ ]。	他愛做[ ]。	Tā ài zuò yùndòng.	Ta1 ai4 zuo4 yun4dong4.	He loves exercising.		
+265	去年	去年	qùnián	qu4nian2	last year	time word				今年玉米种的价格比去年偏高。	今年玉米種的價格比去年偏高。	今年玉米种的价格比[ ]偏高。	今年玉米種的價格比[ ]偏高。	Jīnnián yùmǐ zhǒng de jiàgé bǐ qùnián piān gāo.	Jin1nian2 yu4mi3 zhong3 de jia4ge2 bi3 qu4nian2 pian1 gao1.	The price of corn seed this year is a bit high compared to last year.		
+266	报纸	報紙	bàozhǐ	bao4zhi3	newspaper	noun				他在看报纸的最新消息。	他在看報紙的最新消息。	他在看[ ]的最新消息。	他在看[ ]的最新消息。	Tā zài kàn bàozhǐ de zuìxīn xiāoxi.	Ta1 zai4 kan4 bao4zhi3 de zui4xin1 xiao1xi.	He's reading the latest news in the paper.		
+267	颜色	顏色	yánsè	yan2se4	color	noun				你喜欢什么颜色的气球？	你喜歡什麼顏色的氣球？	你喜欢什么[ ]的气球？	你喜歡什麼[ ]的氣球？	Nǐ xǐhuan shénme yánsè de qìqiú?	Ni3 xi3huan shen2me yan2se4 de qi4qiu2?	What color balloons do you like?		
+268	机场	機場	jīchǎng	ji1chang3	airport; airfield	noun				飞机抵达了机场。	飛機抵達了機場。	飞机抵达了[ ]。	飛機抵達了[ ]。	Fēijī dǐdále jīchǎng.	Fei1ji1 di3da2le ji1chang3.	The plane has arrived at the airport.		
+269	唱歌	唱歌	chànggē	chang4ge1	sing (a song)	verb				我很喜欢唱歌。	我很喜歡唱歌。	我很喜欢[ ]。	我很喜歡[ ]。	Wǒ hěn xǐhuan chànggē.	Wo3 hen3 xi3huan chang4ge1.	I like singing very much.		
+270	千	千	qiān	qian1	one thousand	numeral		签，牵		我有一千美金。	我有一千美金。	我有一[ ]美金。	我有一[ ]美金。	Wǒ yǒu yīqiān Měijīn.	Wo3 you3 yi1qian1 Mei3jin1.	I've got one thousand U.S. dollars.		
+271	好吃	好吃	hǎochī	hao3chi1	tasty	adjective				这道菜很好吃。	這道菜很好吃。	这道菜很[ ]。	這道菜很[ ]。	Zhè dào cài hěn hǎochī.	Zhe4 dao4 cai4 hen3 hao3chi1.	This dish is delicious.		
+272	考试	考試	kǎoshì	kao3shi4	test; exam; to give or take a test	verb with nominal function				今天上午考试。	今天上午考試。	今天上午[ ]。	今天上午[ ]。	Jīntiān shàngwǔ kǎoshì.	Jin1tian1 shang4wu3 kao3shi4.	I'm taking a test this morning.		
+273	左边	左邊	zuǒbian	zuo3bian5	the left side; the left	directional locality				出口在左边。	出口在左邊。	出口在[ ]。	出口在[ ]。	Chūkǒu zài zuǒbian.	Chu1kou3 zai4 zuo3bian.	The entrance is on the left.		
+274	姓	姓	xìng	xing4	surname; family name	noun				您贵姓？	您貴姓？	您贵[ ]？	您貴[ ]？	Nín guìxìng?	Nin2 gui4xing4?	What's your surname please?		
+275	百	百	bǎi	bai3	hundred	numeral		摆		我有一百块钱。	我有一百塊錢。	我有一[ ]块钱。	我有一[ ]塊錢。	Wǒ yǒu yībǎi kuài qián.	Wo3 you3 yi1bai3 kuai4 qian2.	I've got one hundred RMB.		
+276	雪	雪	xuě	xue3	snow	noun				屋外下着雪。	屋外下著雪。	屋外下着[ ]。	屋外下著[ ]。	Wūwài xiàzhe xuě.	Wu1wai4 xia4zhe xue3.	It's snowing outside.		
+277	贵	貴	guì	gui4	expensive; noble; honorable; Guizhou province (abbreviation)	adjective		跪		这些草莓真贵。	這些草莓真貴。	这些草莓真[ ]。	這些草莓真[ ]。	Zhèxiē cǎoméi zhēn guì.	Zhe4xie1 cao3mei2 zhen1 gui4.	These strawberries are really expensive.		
+278	生病	生病	shēng bìng	sheng1 bing4	get sick; fall ill	verb				她生病了。	她生病了。	她[ ]了。	她[ ]了。	Tā shēngbìng le.	Ta1 sheng1bing4 le.	She is sick.		
+279	游泳	游泳	yóuyǒng	you2yong3	to swim	verb with nominal function				花园中有一个游泳池。	花園中有一個游泳池。	花园中有一个[ ]池。	花園中有一個[ ]池。	Huāyuán zhōng yǒu yī gè yóuyǒngchí.	Hua1yuan2 zhong1 you3 yi1 ge4 you2yong3chi2.	There's a swimming pool in the garden.		
+280	牛奶	牛奶	niúnǎi	niu2nai3	cow's milk	noun				牛奶含钙量很高。	牛奶含鈣量很高。	[ ]含钙量很高。	[ ]含鈣量很高。	Niúnǎi hángàiliàng hěn gāo.	Niu2nai3 han2gai4liang4 hen3 gao1.	Milk has a high calcium content.		
+281	右边	右邊	yòubian	you4bian5	the right (as opposed to left) side	directional locality				右边这位是邓先生。	右邊這位是鄧先生。	[ ]这位是邓先生。	[ ]這位是鄧先生。	Yòubian zhè wèi shì dèng xiānsheng.	You4bian zhe4 wei4 shi4 deng4 xian1sheng.	This is Mr. Deng on the right.		
+282	便宜	便宜	piányi	pian2yi5	cheap	adjective				这件衣服很便宜。	這件衣服很便宜。	这件衣服很[ ]。	這件衣服很[ ]。	Zhè jiàn yīfu hěn piányi.	Zhe4 jian4 yi1fu hen3 pian2yi.	These clothes are very cheap.		
+283	公共汽车	公共汽車	gōnggòng qìchē	gong1gong4 qi4che1	(public) bus	noun				附近有公共汽车站。	附近有公共汽車站。	附近有[ ]站。	附近有[ ]站。	Fùjìn yǒu gōnggòng qìchēzhàn.	Fu4jin4 you3 gong1gong4 qi4che1zhan4.	There's a bus stop nearby.		
+284	起床	起床	qǐ chuáng	qi3 chuang2	get out of bed	verb				起床的时间到了。	起床的時間到了。	[ ]的时间到了。	[ ]的時間到了。	Qǐchuáng de shíjiān dào le.	Qi3chuang2 de shi2jian1 dao4 le.	It's time to get up.		
+285	打篮球	打籃球	dǎ lánqiú	da3 lan2qiu2	play basketball	verb				我想打篮球。	我想打籃球。	我想[ ]。	我想[ ]。	Wǒ xiǎng dǎ lánqiú.	Wo3 xiang3 da3 lan2qiu2.	I want to play basketball.		
+286	鸡蛋	雞蛋	jīdàn	ji1dan4	(chicken) egg	noun				鸡蛋破了。	雞蛋破了。	[ ]破了。	[ ]破了。	Jīdàn pò le.	Ji1dan4 po4 le.	The egg is broken.		
+287	踢足球	踢足球	tīzúqiú	ti1zu2qiu2	to play football/soccer	verb				他们在踢足球。	他們在踢足球。	他们在[ ]。	他們在[ ]。	Tāmen zài tī zúqiú.	Ta1men zai4 ti1 zu2qiu2.	They're playing soccer.		
+288	零	零	líng	ling2	zero; remnant	numeral		铃		现在的气温是零度。	現在的氣溫是零度。	现在的气温是[ ]度。	現在的氣溫是[ ]度。	Xiànzài de qìwēn shì líng dù.	Xian4zai4 de qi4wen1 shi4 ling2 du4.	The current temperature is zero degrees.		
+289	手表	手表	shǒubiǎo	shou3biao3	wristwatch	noun				他在拆卸手表。	他在拆卸手錶。	他在拆卸[ ]。	他在拆卸[ ]。	Tā zài chāixiè shǒubiǎo.	Ta1 zai4 chai1xie4 shou3biao3.	He's disassembling the watch.		
+290	旅游	旅游	lǚyóu	lv3you2	tour; tourism	v./n.				我打算出国旅游。	我打算出國旅遊。	我打算出国[ ]。	我打算出國旅遊。	Wǒ dǎsuàn chūguó lǚyóu.	Wo3 da3suan4 chu1guo2 lv3you2.	I intend to travel abroad.		
+291	服务员	服務員	fúwùyuán	fu2wu4yuan2	waiter/waitress; server; attendant	noun				他是这里的服务员。	他是這裡的服務員。	他是这里的[ ]。	他是這裡的[ ]。	Tā shì zhèlǐ de fúwùyuán.	Ta1 shi4 zhe4li3 de fu2wu4yuan2.	He is a waiter here.		
+292	宾馆	賓館	bīnguǎn	bin1guan3	guesthouse; hotel	noun				这间宾馆非常豪华。	這間賓館非常豪華。	这间[ ]非常豪华。	這間[ ]非常豪華。	Zhè jiān bīnguǎn fēicháng háohuá.	Zhe4 jian1 bin1guan3 fei1chang2 hao2hua2.	This hotel is very luxurious.		
+293	教室	教室	jiàoshì	jiao4shi4	classroom	noun				她可能在教室里。	她可能在教室裡。	她可能在[ ]里。	她可能在[ ]裡。	Tā kěnéng zài jiàoshì li.	Ta1 ke3neng2 zai4 jiao4shi4 li.	She might be in the classroom.		
+294	跑步	跑步	pǎo bù	pao3 bu4	to run; to jog	verb as adverbial				他们跑步的速度很平均。	他們跑步的速度很平均。	他们[ ]的速度很平均。	他們[ ]的速度很平均。	Tāmen pǎobù de sùdù hěn píngjūn.	Ta1men pao3bu4 de su4du4 hen3 ping2jun1.	They run at an even pace.		
+295	阴	陰	yīn	yin1	cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade	adjective				天气阴沉。	天氣陰沉。	天气[ ]沉。	天氣[ ]沉。	Tiānqì yīnchén.	Tian1qi4 yin1chen2.	The weather is cloudy.		
+296	面条	面條	miàntiáo	mian4tiao2	noodles	noun				服务员，我要一碗面条。		服务员，我要一碗[ ]。						
+297	铅笔	鉛筆	qiānbǐ	qian1bi3	pencil	noun				这里有很多彩色铅笔。	這裏有很多彩色鉛筆。	这里有很多彩色[ ]。	這裏有很多彩色[ ]。	Zhèli yǒu hěn duō cǎisè qiānbǐ.	Zhe4li you3 hen3 duo1 cai3se4 qian1bi3.	There are many colored pencils.		
+298	火车站	火車站	huǒchēzhàn	huo3che1zhan4	train station	noun				在火车站转车。	在火車站轉車。	在[ ]转车。	在[ ]轉車。	Zài huǒchē zhàn zhuǎnchē.	Zai4 huo3che1 zhan4 zhuan3che1.	Change trains at the railway station.		
+299	西瓜	西瓜	xīguā	xi1gua1	watermelon	noun				孩子们爱吃西瓜。	孩子們愛吃西瓜。	孩子们爱吃[ ]。	孩子們愛吃[ ]。	Háizimen ài chī xīguā.	Hai2zimen ai4 chi1 xi1gua1.	Children love watermelon.		
+300	羊肉	羊肉	yángròu	yang2rou4	mutton; lamb	noun				你喜欢吃羊肉吗？	你喜歡吃羊肉嗎？	你喜欢吃[ ]吗？	你喜歡吃[ ]嗎？	Nǐ xǐhuan chī yángròu ma?	Ni3 xi3huan chi1 yang2rou4 ma?	Do you like eating mutton?		
+301	晴	晴	qíng	qing2	clear; fine (as of weather)	verb				假如天晴了，我就和你去爬山。	假如天晴了，我就和你去爬山。	假如天[ ]了，我就和你去爬山。	假如天[ ]了，我就和你去爬山。	Jiǎrú tiān qíng le, wǒ jiù hé nǐ qù páshān.	Jia3ru2 tian1 qing2 le, wo3 jiu4 he2 ni3 qu4 pa2shan1.	If the weather clears, I will go climbing with you.		
+302	啊	啊	ā, á, ǎ, à, a	a1, a2, a3, a4, a5	ah; (particle showing elation, doubt, puzzled surprise, or approval)	interjection				这里是哪里啊？	這里是哪里啊？	这里是哪里[ ]？	這里是哪里[ ]？	Zhèli shì nǎli a?	Zhe4li shi4 na3li a?	Where is this place?		
+303	还	還	huán	huan2	to return	verb			homograph	我去图书馆还书。	我去圖書館還書。	我去图书馆[ ]书。	我去圖書館[ ]書。	Wǒ qù túshūguǎn huánshū.	Wo3 qu4 tu2shu1guan3 huan2shu1.	I'm going to the library to return the books.		
+304	把	把	bǎ	ba3	grasp, to hold, handle, m.(for things with handles)	preposition				把美好的回忆留在心中。	把美好的回憶留在心中。	[ ]美好的回忆留在心中。	[ ]美好的回憶留在心中。	Bǎ měihǎo de huíyì liú zài xīnzhōng.	Ba3 mei3hao3 de hui2yi4 liu2 zai4 xin1zhong1.	Hold your beautiful memories in your heart.		
+305	过	過	guò	guo4	to pass, to go by, to exceed	verb			homograph	他正在过马路。	他正在過馬路。	他正在[ ]马路。	他正在[ ]馬路。	Tā zhèngzài guò mǎlù.	Ta1 zheng4zai4 guo4 ma3lu4.	He's crossing the road.		
+306	如果	如果	rúguǒ	ru2guo3	if; in the event that	conjunction				如果我是超人就好了。	如果我是超人就好了。	[ ]我是超人就好了。	[ ]我是超人就好了。	Rúguǒ wǒ shì chāorén jiù hǎo le.	Ru2guo3 wo3 shi4 chao1ren2 jiu4 hao3 le.	It would be great if I were superhuman.		
+307	只	隻	zhǐ	zhi3	only; merely	adverb		指		这里只有大号的。	這裡只有大號的。	这里[ ]有大号的。	這裡[ ]有大號的。	Zhèlǐ zhǐyǒu dà hào de.	Zhe4li3 zhi3you3 da4 hao4 de.	We only have L size here.		
+308	被	被	bèi	bei4	by (indicates passive voice sentences); a quilt/blanket	preposition		倍，背		他被打伤了。	他被打傷了。	他[ ]打伤了。	他[ ]打傷了。	Tā bèi dǎshāng le.	Ta1 bei4 da3shang1 le.	He was hit and injured.		
+309	跟	跟	gēn	gen1	heel; follow; with; and	preposition		根		要是你不来，我就跟你分手。	要是你不來，我就跟你分手。	要是你不来，我就[ ]你分手。	要是你不來，我就[ ]你分手。	Yàoshi nǐ bù lái, wǒ jiù gēn nǐ fēnshǒu.	Yao4shi ni3 bu4 lai2, wo3 jiu4 gen1 ni3 fen1shou3.	If you don't come, I am going to break up with you.		
+310	自己	自己	zìjǐ	zi4ji3	oneself; self	pronoun				儿子会自己洗衣服。	兒子會自己洗衣服。	儿子会[ ]洗衣服。	兒子會[ ]洗衣服。	Érzi huì zìjǐ xǐ yīfu.	Er2zi hui4 zi4ji3 xi3 yi1fu.	My son can do the laundry by himself.		
+311	用	用	yòng	yong4	to use (Kangxi radical 101)	preposition				她用筷子吃寿司。	她用筷子吃壽司。	她[ ]筷子吃寿司。	她[ ]筷子吃壽司。	Tā yòng kuàizi chī shòusī.	Ta1 yong4 kuai4zi chi1 shou4si1.	She's eating her sushi with chopsticks.		
+312	像	像	xiàng	xiang4	be like; resemble; appearance; appear	verb		向，项，巷		姐妹俩长得很像。	姐妹倆長得很像。	姐妹俩长得很[ ]。	姐妹倆長得很[ ]。	Jiěmèi liǎ zhǎng de hěn xiàng.	Jie3mei4 lia3 zhang3 de hen3 xiang4.	The sister look very much alike.		
+313	为	為	wèi	wei4	for; because of; to; for the sake of	preposition		位，胃，喂		他们设宴为我庆祝。	他們設宴為我慶祝。	他们设宴[ ]我庆祝。	他們設宴[ ]我慶祝。	Tāmen shèyàn wèi wǒ qìngzhù.	Ta1men she4yan4 wei4 wo3 qing4zhu4.	They held a banquet to celebrate in my honor.		
+314	需要	需要	xūyào	xu1yao4	to need; to want; to demand	verb				病人需要休息。	病人需要休息。	病人[ ]休息。	病人[ ]休息。	Bìngrén xūyào xiūxi.	Bing4ren2 xu1yao4 xiu1xi.	Sick people need rest.		
+315	应该	應該	yīnggāi	ying1gai1	should; ought to; must	verb				学生应该认真学习。	學生應該認真學習。	学生[ ]认真学习。	學生[ ]認真學習。	Xuésheng yīnggāi rènzhēn xuéxí.	Xue2sheng ying1gai1 ren4zhen1 xue2xi2.	Students should study diligently.		
+316	起来	起來	qǐlái	qi3lai2	to get up, to rise, to arise, to start	verb				国旗升起来了。	國旗升起來了。	国旗升[ ]了。	國旗升[ ]了。	Guóqí shēng qǐlái le.	Guo2qi2 sheng1 qi3lai2 le.	The national flag has been raised.		
+317	才	才	cái	cai2	ability; talent; just now; not until	adverb				他不过才十岁。	他不過才十歲。	他不过[ ]十岁。	他不過[ ]十歲。	Tā búguò cái shí suì.	Ta1 bu2guo4 cai2 shi2 sui4.	He is only ten years old.		
+318	又	又	yòu	you4	again; both...and...	adverb				他又高又壮。	他又高又壯。	他[ ]高[ ]壮。	他[ ]高[ ]壯。	Tā yòu gāo yòu zhuàng.	Ta1 you4 gao1 you4 zhuang4.	He's tall and strong.		
+319	拿	拿	ná	na2	hold; take; seize; capture	verb				他拿着武器。	他拿著武器。	他[ ]着武器。	他[ ]著武器。	Tā názhe wǔqì.	Ta1 na2zhe wu3qi4.	He's carrying a weapon.		
+320	更	更	gèng	geng4	more; even more	adverb				今天更冷了。	今天更冷了。	今天[ ]冷了。	今天[ ]冷了。	Jīntiān gèng lěng le.	Jin1tian1 geng4 leng3 le.	It got much colder today.		
+321	带	帶	dài	dai4	belt; zone; carry, bring, take	verb		戴		我想买一根皮带。	我想買一根皮帶。	我想买一根皮[ ]。	我想買一根皮[ ]。	Wǒ xiǎng mǎi yī gēn pídài.	Wo3 xiang3 mai3 yi1 gen1 pi2dai4.	I want to buy a leather belt.		
+322	然后	然后	ránhòu	ran2hou4	then; afterwards	conjunction				先洗手，然后吃饭。	先洗手，然後吃飯。	先洗手，[ ]吃饭。	先洗手，然後吃飯。	Xiān xǐshǒu, ránhòu chīfàn.	Xian1 xi3shou3, ran2hou4 chi1fan4.	Wash your hands before you eat.		
+323	一样	一樣	yị̄yàng	yi1yang4	the same; alike; equal to	auxiliary				这两姐妹长得一模一样。	這兩姐妹長得一模一樣。	这两姐妹长得一模[ ]。	這兩姐妹長得一模[ ]。	Zhè liǎng jiěmèi zhǎng de yìmú yíyàng.	Zhe4 liang3 jie3mei4 zhang3 de yi4mu2 yi2yang4.	The two sisters look exactly the same.		
+324	当然	當然	dāngrán	dang1ran2	of course; naturally	adverb				当然可以！	當然可以！	[ ]可以！	[ ]可以！	Dāngrán kěyǐ!	Dang1ran2 ke3yi3!	Of course it's okay!		
+325	相信	相信	xiāngxìn	xiang1xin4	believe (sb.); be convinced of	verb				我有理由相信他会成功。	我有理由相信他會成功。	我有理由[ ]他会成功。	我有理由[ ]他會成功。	Wǒ yǒu lǐyóu xiāngxìn tā huì chénggōng.	Wo3 you3 li3you2 xiang1xin4 ta1 hui4 cheng2gong1.	I have reason to believe that he will succeed.		
+326	认为	認為	rènwéi	ren4wei2	believe; think that	verb				你认为怎么样？	你認為怎麼樣？	你[ ]怎么样？	你[ ]怎麼樣？	Nǐ rènwéi zěnmeyàng?	Ni3 ren4wei2 zen3meyang4?	What do you think?		
+327	明白	明白	míngbai	ming2bai5	clear; obvious; understand; explicit	verb				你明白了吗？	你明白了嗎？	你[ ]了吗？	你[ ]了嗎？	Nǐ míngbai le ma?	Ni3 ming2bai le ma?	Do you understand?		
+328	一直	一直	yī̠zhí	yi1zhi2	always; all along; straight (in a straight line)	adverb				她一直等到中午。	她一直等到中午。	她[ ]等到中午。	她[ ]等到中午。	Tā yīzhí děngdào zhōngwǔ.	Ta1 yi1zhi2 deng3dao4 zhong1wu3.	She waited all the way till noon.		
+329	地	地	dì	di4	earth; ground	auxiliary		递		地球在不断地演变。	地球在不斷地演變。	[ ]球在不断地演变。	[ ]球在不斷地演變。	Dìqiú zài bùduàn de yǎnbiàn.	Di4qiu2 zai4 bu4duan4 de yan3bian4.	The earth is constantly evolving.		
+330	地方	地方	dìfang	di4fang5	place; space; room; part, (fāng: local; regional)	noun				这个城市是我出生的地方。	這個城市是我出生的地方。	这个城市是我出生的[ ]。	這個城市是我出生的[ ]。	Zhège chéngshì shì wǒ chūshēng de dìfang.	Zhe4ge cheng2shi4 shi4 wo3 chu1sheng1 de di4fang.	This city is where I was born.		
+331	离开	離開	líkāi	li2kai1	leave; depart	verb				他离开家去学校。	他離開家去學校。	他[ ]家去学校。	他[ ]家去學校。	Tā líkāi jiā qù xuéxiào.	Ta1 li2kai1 jia1 qu4 xue2xiao4.	He left home and went to school.		
+332	一定	一定	yị̄dìng	yi1ding4	surely; certainly; necessarily; definite	non-predicate adjective				这一定是他要的书。	這一定是他要的書。	这[ ]是他要的书。	這[ ]是他要的書。	Zhè yídìng shì tā yào de shū.	Zhe4 yi2ding4 shi4 ta1 yao4 de shu1.	This is surely a book he needs.		
+333	还是	還是	háishi	hai2shi5	or; still; nevertheless; had better	conjunction				你喝茶还是咖啡？	你喝茶還是咖啡？	你喝茶[ ]咖啡？	你喝茶[ ]咖啡？	Nǐ hē chá háishi kāfēi?	Ni3 he1 cha2 hai2shi ka1fei1?	Would you prefer tea or coffee?		
+334	发	發	fā	fa1	send out; to issue, utter; express; emit	verb				给 我 发 电邮。	給 我 發 電郵。	给 我 [ ] 电邮。	給 我 [ ] 電郵。	Gěi wǒ fā diànyóu.	Gei3 wo3 fa1 dian4you2.	Send me an email.		
+335	发现	發現	fāxiàn	fa1xian4	discover; to find	verb				有什么新发现？	有什麼新發現？	有什么新[ ]？	有什麼新[ ]？	Yǒu shénme xīn fāxiàn?	You3 shen2me xin1 fa1xian4?	Has there been a new discovery?		
+336	而且	而且	érqiě	er2qie3	moreover; in addition; as well as	conjunction				他会讲中文，而且讲得很好。	他會講中文，而且講得很好。	他会讲中文，[ ]讲得很好。	他會講中文，[ ]講得很好。	Tā huì jiǎng zhōngwén, érqiě jiǎng de hěn hǎo.	Ta1 hui4 jiang3 zhong1wen2, er2qie3 jiang3 de hen3 hao3.	Not only can he speak Chinese, but he speaks it very well.		
+337	必须	必須	bìxū	bi4xu1	must; have to	adverb				我们必须遵守法律。	我們必須遵守法律。	我们[ ]遵守法律。	我們[ ]遵守法律。	Wǒmen bìxū zūnshǒu fǎlǜ.	Wo3men bi4xu1 zun1shou3 fa3lv4.	We must obey the law.		
+338	放	放	fàng	fang4	put; to place; to release; to free	verb				她把文件放在桌上。	她把文件放在桌上。	她把文件[ ]在桌上。	她把文件[ ]在桌上。	Tā bǎ wénjiàn fàng zài zhuō shàng.	Ta1 ba3 wen2jian4 fang4 zai4 zhuo1 shang4.	She puts the file on the desk.		
+339	为了	為了	wèile	wei4le5	in order to; for the sake of; for the purpose of	preposition				她为了健康锻炼身体。	她為了健康鍛煉身體。	她[ ]健康锻炼身体。	她[ ]健康鍛煉身體。	Tā wèile jiànkāng duànliàn shēntǐ.	Ta1 wei4le jian4kang1 duan4lian4 shen1ti3.	She exercises for her health.		
+340	向	向	xiàng	xiang4	direction; towards; to turn; to face	preposition		像，项，巷		他们向树林走去。	他們向樹林走去。	他们[ ]树林走去。	他們[ ]樹林走去。	Tāmen xiàng shùlín zǒuqù.	Ta1men xiang4 shu4lin2 zou3qu4.	They're heading for the forest.		
+341	老	老	lǎo	lao3	old; aged; tough; often (Kangxi radical 125)	adjective				他看起来很老。	他看起來很老。	他看起来很[ ]。	他看起來很[ ]。	Tā kàn qǐlai hěn lǎo.	Ta1 kan4 qi3lai hen3 lao3.	He looks very old.		
+342	位	位	wèi	wei4	position; location; (polite mw for people)	classifier		为，胃，喂		天安门广场位于北京市中心。	天安門廣場位于北京市中心。	天安门广场[ ]于北京市中心。	天安門廣場[ ]于北京市中心。	Tiān'ānmén Guǎngchǎng wèiyú Běijīng Shì zhōngxīn.	Tian1'an1men2 Guang3chang3 wei4yu2 Bei3jing1 Shi4 zhong1xin1.	Tiananmen Square is in the center of Beijing.		
+343	先	先	xiān	xian1	first; early; before	adverb				小女孩先上车。	小女孩先上車。	小女孩[ ]上车。	小女孩[ ]上車。	Xiǎo nǚhái xiān shàngchē.	Xiao3 nv3hai2 xian1 shang4che1.	The little girl gets on the bus first.		
+344	种	種	zhǒng	zhong3	kind; seed	noun				他们出售各种商品。	他們出售各種商品。	他们出售各[ ]商品。	他們出售各[ ]商品。	Tāmen chūshòu gè zhǒng shāngpǐn.	Ta1men chu1shou4 ge4 zhong3 shang1pin3.	They sell all kinds of goods.		
+345	最后	最后	zuìhòu	zui4hou4	last; final; ultimately	directional locality				比赛最后胜利了。	比賽最後勝利了。	比赛[ ]胜利了。	比賽最後勝利了。	Bǐsài zuìhòu shènglì le.	Bi3sai4 zui4hou4 sheng4li4 le.	In the end we won the game.		
+346	其他	其他	qítā	qi2ta1	other; else	pronoun				还有其他事情吗？	還有其他事情嗎？	还有[ ]事情吗？	還有[ ]事情嗎？	Háiyǒu qítā shìqing ma?	Hai2you3 qi2ta1 shi4qing ma?	Is there anything else?		
+347	记得	記得	jìde	ji4de5	remember	verb				我记得他的生日。	我記得他的生日。	我[ ]他的生日。	我[ ]他的生日。	Wǒ jìde tā de shēngrì.	Wo3 ji4de ta1 de sheng1ri4.	I remember his birthday.		
+348	或者	或者	huòzhě	huo4zhe3	or; possible; maybe; perhaps	conjunction				我喝果汁或者咖啡。	我喝果汁或者咖啡。	我喝果汁[ ]咖啡。	我喝果汁[ ]咖啡。	Wǒ hē guǒzhī huòzhě kāfēi.	Wo3 he1 guo3zhi1 huo4zhe3 ka1fei1.	I drink juice or coffee.		
+349	过去	過去	guòqù	guo4qu4	in the past; formerly	time word				幸福的日子过去了。	幸福的日子過去了。	幸福的日子[ ]了。	幸福的日子[ ]了。	Xìngfú de rìzi guòqù le.	Xing4fu2 de ri4zi guo4qu4 le.	The happy days are gone.		
+350	担心	擔心	dānxīn	dan1xin1	to worry; feel anxious	verb				别担心。	別擔心。	别[ ]。	別[ ]。	Bié dānxīn.	Bie2 dan1xin1.	Don't worry!		
+351	条	條	tiáo	tiao2	twig; strip; item; m. (for long, narrow things)	classifier				这条街道很安静。	這條街道很安靜。	这[ ]街道很安静。	這[ ]街道很安靜。	Zhè tiáo jiēdào hěn ānjìng.	Zhe4 tiao2 jie1dao4 hen3 an1jing4.	This is a very quiet street.		
+352	以前	以前	yǐqián	yi3qian2	before; formerly; previous	directional locality				我7点以前下班。	我7點以前下班。	我7点[ ]下班。	我7點[ ]下班。	Wǒ qī diǎn yǐqián xiàbān.	Wo3 qi1 dian3 yi3qian2 xia4ban1.	I get off work by 7:00 p.m.		
+353	长	長	zhǎng	zhang3	grow; grow up; increase (Kangxi radical 168)	verb		涨	homograph	我的儿子长高了。	我的兒子長高了。	我的儿子[ ]高了。	我的兒子[ ]高了。	Wǒ de érzi zhǎng gāo le.	Wo3 de er2zi zhang3 gao1 le.	My son has grown tall.		
+354	世界	世界	shìjiè	shi4jie4	world	noun				这是世界地图。	這是世界地圖。	这是[ ]地图。	這是[ ]地圖。	Zhè shì shìjiè dìtú.	Zhe4 shi4 shi4jie4 di4tu2.	This is a map of the world.		
+355	重要	重要	zhòngyào	zhong4yao4	important; significant; major	adjective				考试成绩很重要。	考試成績很重要。	考试成绩很[ ]。	考試成績很[ ]。	Kǎoshì chéngjì hěn zhòngyào.	Kao3shi4 cheng2ji4 hen3 zhong4yao4.	Test results are very important.		
+356	别人	別人	biéren	bie2ren5	others; other people; another person	pronoun				他喜欢帮助别人。	他喜歡幫助別人。	他喜欢帮助[ ]。	他喜歡幫助[ ]。	Tā xǐhuan bāngzhù biérén.	Ta1 xi3huan bang1zhu4 bie2ren2.	He likes helping others.		
+357	机会	機會	jīhuì	ji1hui4	chance; opportunity	noun				机会来了。	機會來了。	[ ]来了。	[ ]來了。	Jīhuì lái le.	Ji1hui4 lai2 le.	A good opportunity presented itself.		
+358	张	張	zhāng	zhang1	(mw for flat objects); spread; sheet of paper; (common surname)	personal name				客厅里有一张方桌。	客廳裏有一張方桌。	客厅里有一[ ]方桌。	客廳裏有一[ ]方桌。	Kètīng lǐ yǒu yī zhāng fāngzhuō.	Ke4ting1 li3 you3 yi1 zhang1 fang1zhuo1.	There's a square table in the living room.		
+359	接	接	jiē	jie1	connect; to meet; to pick up (somebody); to receive	verb		皆		这座大桥连接起两岸的交通。	這座大橋連接起兩岸的交通。	这座大桥连[ ]起两岸的交通。	這座大橋連[ ]起兩岸的交通。	Zhèi zuò dàqiáo liánjiē qǐ Liǎng'àn de jiāotōng.	Zhei4 zuo4 da4qiao2 lian2jie1 qi3 Liang3'an4 de jiao1tong1.	This bridge links traffic from both sides.		
+360	比赛	比賽	bǐsài	bi3sai4	match; competition	verb with nominal function				比赛还没结束。	比賽還沒結束。	[ ]还没结束。	[ ]還沒結束。	Bǐsài hái méi jiéshù.	Bi3sai4 hai2 mei2 jie2shu4.	The game is not over yet.		
+361	关	關	guān	guan1	to close; shut; concern; relationship; turn off; mountain pass	verb		官		商店关门了。	商店關門了。	商店[ ]门了。	商店[ ]門了。	Shāngdiàn guānmén le.	Shang1dian4 guan1men2 le.	The shop is closed.		
+362	关系	關系	guānxi	guan1xi5	relation; to concern	noun				她们的关系很好。	她們的關係很好。	她们的[ ]很好。	她們的關係很好。	Tāmen de guānxi hěn hǎo.	Ta1men de guan1xi hen3 hao3.	Those women get on very well with each other.		
+363	马	馬	mǎ	ma3	horse (Kangxi radical 187)	personal name				草地上有两匹马。	草地上有兩匹馬。	草地上有两匹[ ]。	草地上有兩匹[ ]。	Cǎodì shàng yǒu liǎng pǐ mǎ.	Cao3di4 shang4 you3 liang3 pi3 ma3.	There are two horses in the meadow.		
+364	马上	馬上	mǎshàng	ma3shang4	at once; immediately; right away	adverb				我们马上就要启程了。	我們馬上就要啟程了。	我们[ ]就要启程了。	我們[ ]就要啟程了。	Wǒmen mǎshang jiù yào qǐchéng le.	Wo3men ma3shang jiu4 yao4 qi3cheng2 le.	We're leaving in a moment.		
+365	决定	決定	juédìng	jue2ding4	decide; resolve; make up one's mind	verb				这是大家的决定。	這是大家的決定。	这是大家的[ ]。	這是大家的[ ]。	Zhè shì dàjiā de juédìng.	Zhe4 shi4 da4jia1 de jue2ding4.	This is everyone's decision.		
+366	关于	關於	guānyú	guan1yu2	about; regarding; concerning	preposition				我喜欢看关于历史的书。	我喜歡看關於歷史的書。	我喜欢看[ ]历史的书。	我喜歡看[ ]歷史的書。	Wǒ xǐhuan kàn guānyú lìshǐ de shū.	Wo3 xi3huan kan4 guan1yu2 li4shi3 de shu1.	I like to read books about history.		
+367	难	難	nán	nan2	difficult	adjective as adverbial		男，南		中文很难学。	中文很難學。	中文很[ ]学。	中文很[ ]學。	Zhōngwén hěn nán xué.	Zhong1wen2 hen3 nan2 xue2.	Chinese is very difficult.		
+368	了解	了解	liǎojiě	liao3jie3	comprehend; understand; know; find out	verb				这个我了解了。	這個我瞭解了。	这个我[ ]了。	這個我瞭解了。	Zhège wǒ liǎojiě le.	Zhe4ge wo3 liao3jie3 le.	I understood this.		
+369	站	站	zhàn	zhan4	stand; a station; be on one's feet; service center	verb		占		他站在门口。	他站在門口。	他[ ]在门口。	他[ ]在門口。	Tā zhàn zài ménkǒu.	Ta1 zhan4 zai4 men2kou3.	He's standing at the entrance.		
+370	结束	結束	jiéshù	jie2shu4	to end; to finish; conclude	verb				比赛还没结束。	比賽還沒結束。	比赛还没[ ]。	比賽還沒[ ]。	Bǐsài hái méi jiéshù.	Bi3sai4 hai2 mei2 jie2shu4.	The game is not over yet.		
+371	清楚	清楚	qīngchu	qing1chu5	clear; distinct; without ambiguity	adjective				他的发言很清楚。	他的發言很清楚。	他的发言很[ ]。	他的發言很[ ]。	Tā de fāyán hěn qīngchu.	Ta1 de fa1yan2 hen3 qing1chu.	His presentation is very clear.		
+372	愿意	願意	yuànyì	yuan4yi4	be willing; want to; be ready	verb				她愿意嫁给他。	她願意嫁給他。	她[ ]嫁给他。	她[ ]嫁給他。	Tā yuànyì jià gěi tā.	Ta1 yuan4yi4 jia4 gei3 ta1.	She's willing to marry him.		
+373	花	花	huā	hua1	flower; blossom; spend money; cost	verb				这朵花很漂亮。	這朵花很漂亮。	这朵[ ]很漂亮。	這朵[ ]很漂亮。	Zhè duǒ huā hěn piàoliang.	Zhe4 duo3 hua1 hen3 piao4liang.	This flower is very pretty.		
+374	照片	照片	zhàopiàn	zhao4pian4	picture; photograph	noun				他拍了大量的照片。	他拍了大量的照片。	他拍了大量的[ ]。	他拍了大量的[ ]。	Tā pāile dàliàng de zhàopiàn.	Ta1 pai1le da4liang4 de zhao4pian4.	He has taken a large number of photos.		
+375	欢迎	歡迎	huānyíng	huan1ying2	to welcome; greet	verb				欢迎光临！	歡迎光臨！	[ ]光临！	[ ]光臨！	huānyíngguānglín!	huan1ying2guang1lin2!	Welcome!		
+376	总是	總是	zǒngshì	zong3shi4	always; invariably	adverb				她总是对人和颜悦色。	她總是對人和顏悅色。	她[ ]对人和颜悦色。	她[ ]對人和顏悅色。	Tā zǒngshì duì rén héyán-yuèsè.	Ta1 zong3shi4 dui4 ren2 he2yan2-yue4se4.	She is always cheerful and pleasant to people.		
+377	嘴	嘴	zuǐ	zui3	mouth	noun				请张开嘴。	請張開嘴。	请张开[ ]。	請張開[ ]。	Qǐng zhāngkāi zuǐ.	Qing3 zhang1kai1 zui3.	Please open your mouth.		
+378	参加	參加	cānjiā	can1jia1	participate; join; take part in	verb				我参加了比赛。	我參加了比賽。	我[ ]了比赛。	我[ ]了比賽。	Wǒ cānjiāle bǐsài.	Wo3 can1jia1le bi3sai4.	I took part in the competition.		
+379	办法	辦法	bànfǎ	ban4fa3	method; way (of doing something)	noun				你有什么好办法？	你有什麼好辦法？	你有什么好[ ]？	你有什麼好[ ]？	Nǐ yǒu shénme hǎo bànfǎ?	Ni3 you3 shen2me hao3 ban4fa3?	Do you have any good ideas?		
+380	选择	選擇	xuǎnzé	xuan3ze2	select; to pick; choose	verb				他选择了否定的答案。	他選擇了否定的答案。	他[ ]了否定的答案。	他[ ]了否定的答案。	Tā xuǎnzéle fǒudìng de dá'àn.	Ta1 xuan3ze2le fou3ding4 de da2'an4.	He's chosen the negative response.		
+381	坏	壞	huài	huai4	bad; broken	adjective				这台电视坏了。	這台電視壞了。	这台电视[ ]了。	這台電視[ ]了。	Zhè tái diànshì huài le.	Zhe4 tai2 dian4shi4 huai4 le.	This TV is broken.		
+382	打算	打算	dǎsuàn	da3suan4	to plan; intend	verb				我打算出国旅游。	我打算出國旅遊。	我[ ]出国旅游。	我[ ]出國旅遊。	Wǒ dǎsuàn chūguó lǚyóu.	Wo3 da3suan4 chu1guo2 lv3you2.	I intend to travel abroad.		
+383	试	試	shì	shi4	to try; to test	verb		是		我 可以 试 一下 这 条 牛仔裤 吗？	我 可以 試 一下 這 條 牛仔褲 嗎？	我 可以 [ ] 一下 这 条 牛仔裤 吗？	我 可以 [ ] 一下 這 條 牛仔褲 嗎？	Wǒ kěyǐ shì yíxià zhè tiáo niúzǎikù ma?	Wo3 ke3yi3 shi4 yi2xia4 zhe4 tiao2 niu2zai3ku4 ma?	Can I try on this pair of jeans?		
+384	特别	特別	tèbié	te4bie2	special; particular	adverb				这枚钻戒的形状很特别。	這枚鑽戒的形狀很特別。	这枚钻戒的形状很[ ]。	這枚鑽戒的形狀很[ ]。	Zhè méi zuànjiè de xíngzhuàng hěn tèbié.	Zhe4 mei2 zuan4jie4 de xing2zhuang4 hen3 te4bie2.	The shape of this diamond is very unique.		
+385	注意	注意	zhùyì	zhu4yi4	pay attention to; take notice of; be careful	verb				开车要注意安全。	開車要注意安全。	开车要[ ]安全。	開車要[ ]安全。	Kāichē yào zhùyì ān quán.	Kai1che1 yao4 zhu4yi4 an1 quan2.	"We need to be cautious (lit., ""pay attention to safety"") when driving."		
+386	其实	其實	qíshí	qi2shi2	as a matter of fact; actually; in fact	adverb				事实其实不是这样的。	事實其實不是這樣的。	事实[ ]不是这样的。	事實[ ]不是這樣的。	Shìshí qíshí bú shì zhèyàng de.	Shi4shi2 qi2shi2 bu2 shi4 zhe4yang4 de.	Actually, those aren't the facts.		
+387	小心	小心	xiǎoxīn	xiao3xin1	take care; be careful	adjective				要小心开车。	要小心開車。	要[ ]开车。	要[ ]開車。	Yào xiǎoxīn kāichē.	Yao4 xiao3xin1 kai1che1.	Drive carefully.		
+388	久	久	jiǔ	jiu3	long (time)	adjective		九		我们等了很久。	我們等了很久。	我们等了很[ ]。	我們等了很[ ]。	Wǒmen děngle hěn jiǔ.	Wo3men deng3le hen3 jiu3.	We've been waiting a long time.		
+389	只有	隻有	zhǐyǒu	zhi3you3	only; alone	conjunction				这里只有大号的。	這裡只有大號的。	这里[ ]大号的。	這裡只有大號的。	Zhèlǐ zhǐyǒu dà hào de.	Zhe4li3 zhi3you3 da4 hao4 de.	We only have L size here.		
+390	讲	講	jiǎng	jiang3	to talk; to lecture; to explain; a speech	verb		桨		从 现在 起 我 讲 英语。	從 現在 起 我 講 英語。	从 现在 起 我 [ ] 英语。	從 現在 起 我 [ ] 英語。	Cóng xiànzài qǐ wǒ jiǎng Yīngyǔ.	Cong2 xian4zai4 qi3 wo3 jiang3 Ying1yu3.	From now on I will speak English.		
+391	故事	故事	gùshi	gu4shi5	story; tale	noun				她们看的故事书很热门。	她們看的故事書很熱門。	她们看的[ ]书很热门。	她們看的[ ]書很熱門。	Tāmen kàn de gùshishū hěn rèmén.	Ta1men kan4 de gu4shishu1 hen3 re4men2.	The story books they read are very popular.		
+392	换	換	huàn	huan4	change; to exchange; to barter; to trade	verb				他在换电视频道。	他在換電視頻道。	他在[ ]电视频道。	他在[ ]電視頻道。	Tā zài huàn diànshì píndào.	Ta1 zai4 huan4 dian4shi4 pin2dao4.	He's changing the TV channel.		
+393	结婚	結婚	jiéhūn	jie2hun1	get married	verb				她已经结婚了。	她已經結婚了。	她已经[ ]了。	她已經[ ]了。	Tā yǐjing jiéhūn le.	Ta1 yi3jing jie2hun1 le.	She's already married.		
+394	段	段	duàn	duan4	paragraph; segment; section	classifier		断		作文只写了一段。	作文只寫了一段。	作文只写了一[ ]。	作文只寫了一[ ]。	Zuòwén zhǐ xiěle yī duàn.	Zuo4wen2 zhi3 xie3le yi1 duan4.	Only one paragraph of the composition has been written.		
+395	努力	努力	nǔlì	nu3li4	make great effort; try hard	adjective as adverbial				他们每个人都很努力。	他們每個人都很努力。	他们每个人都很[ ]。	他們每個人都很[ ]。	Tāmen měi gè rén dōu hěn nǔlì.	Ta1men mei3 ge4 ren2 dou1 hen3 nu3li4.	Each of them works very hard.		
+396	害怕	害怕	hàipà	hai4pa4	afraid of; to fear	verb				我害怕。	我害怕。	我[ ]。	我[ ]。	Wǒ hàipà.	Wo3 hai4pa4.	I'm afraid.		
+397	刚才	剛才	gāngcái	gang1cai2	just now; a moment ago	time word				刚才有你的电话。	剛才有你的電話。	[ ]有你的电话。	[ ]有你的電話。	Gāngcái yǒu nǐ de diànhuà.	Gang1cai2 you3 ni3 de dian4hua4.	You received a call a short while ago.		
+398	节目	節目	jiémù	jie2mu4	program; item (on a program)	noun				她正在播节目。	她正在播節目。	她正在播[ ]。	她正在播[ ]。	Tā zhèng zài bō jiémù.	Ta1 zheng4 zai4 bo1 jie2mu4.	She is broadcasting a program.		
+399	辆	輛	liàng	liang4	(mw for vehicles)	classifier		亮，晾		房子前面有一辆车。	房子前面有一輛車。	房子前面有一[ ]车。	房子前面有一[ ]車。	Fángzi qiánmian yǒu yī liàng chē.	Fang2zi qian2mian you3 yi1 liang4 che1.	There's a car in front of the house.		
+400	万	萬	wàn	wan4	ten thousand	numeral				我有一万美金。	我有一萬美金。	我有一[ ]美金。	我有一[ ]美金。	Wǒ yǒu yīwàn Měijīn.	Wo3 you3 yi1wan4 Mei3jin1.	I've got ten thousand U.S. dollars.		
+401	解决	解決	jiějué	jie3jue2	settle (a dispute); resolve; solve	verb				他解决了这个问题。	他解決了這個問題。	他[ ]了这个问题。	他[ ]了這個問題。	Tā jiějuéle zhège wèntí.	Ta1 jie3jue2le zhe4ge wen4ti2.	He solved this problem.		
+402	办公室	辦公室	bàngōngshì	ban4gong1shi4	office	noun				办公室很宽敞，并且很明亮。	辦公室很寬敞，並且很明亮。	[ ]很宽敞，并且很明亮。	[ ]很寬敞，並且很明亮。	Bàngōngshì hěn kuānchang, bìngqiě hěn míngliàng.	Ban4gong1shi4 hen3 kuan1chang, bing4qie3 hen3 ming2liang4.	The office is very spacious and bright.		
+403	奇怪	奇怪	qíguài	qi2guai4	strange; odd	verb				这件事情很奇怪。	這件事情很奇怪。	这件事情很[ ]。	這件事情很[ ]。	Zhè jiàn shìqing hěn qíguài.	Zhe4 jian4 shi4qing hen3 qi2guai4.	This is very weird.		
+404	同意	同意	tóngyì	tong2yi4	agree; to consent; approve	verb				同意这个方案的人还是占了大多数。	同意這個方案的人還是佔了大多數。	[ ]这个方案的人还是占了大多数。	[ ]這個方案的人還是佔了大多數。	Tóngyì zhège fāng'àn de rén háishi zhànle dàduōshù.	Tong2yi4 zhe4ge fang1'an4 de ren2 hai2shi zhan4le da4duo1shu4.	The majority agrees to this proposal.		
+405	游戏	游戲	yóuxì	you2xi4	game; play; recreation	noun				喜欢玩游戏是孩子的天性。	喜歡玩遊戲是孩子的天性。	喜欢玩[ ]是孩子的天性。	喜歡玩遊戲是孩子的天性。	Xǐhuan wánr yóuxì shì háizi de tiānxìng.	Xi3huan wan2r you2xi4 shi4 hai2zi de tian1xing4.	A fondness for playing games is in the nature of children.		
+406	帮忙	幫忙	bāngmáng	bang1mang2	to help	verb				大家自动来帮忙。	大家自動來幫忙。	大家自动来[ ]。	大家自動來[ ]。	Dàjiā zìdòng lái bāngmáng.	Da4jia1 zi4dong4 lai2 bang1mang2.	Everybody voluntarily came to help.		
+407	国家	國家	guójiā	guo2jia1	country; state; nation	noun				这里是国家的边境。	這裏是國家的邊境。	这里是[ ]的边境。	這裏是[ ]的邊境。	Zhèli shì guójiā de biānjìng.	Zhe4li shi4 guo2jia1 de bian1jing4.	This is the country's border.		
+408	最近	最近	zuìjìn	zui4jin4	recently; lately; soon; in the near future;	time word				她最近就要出国了。	她最近就要出國了。	她[ ]就要出国了。	她[ ]就要出國了。	Tā zuìjìn jiùyào chūguó le.	Ta1 zui4jin4 jiu4yao4 chu1guo2 le.	She will go abroad soon.		
+409	声音	聲音	shēngyīn	sheng1yin1	sound; voice	noun				她的声音很好听。	她的聲音很好聽。	她的[ ]很好听。	她的[ ]很好聽。	Tā de shēngyīn hěn hǎotīng.	Ta1 de sheng1yin1 hen3 hao3ting1.	Her voice is beautiful.		
+410	可爱	可愛	kě'ài	ke3'ai4	cute; lovable; likable; lovely	adjective				他们的女儿很可爱。	他們的女兒很可愛。	他们的女儿很[ ]。	他們的女兒很[ ]。	Tāmen de nǚ'ér hěn kě'ài.	Ta1men de nv3'er2 hen3 ke3'ai4.	Their daughter is lovely.		
+411	分	分	fēn	fen1	divide; fraction; minute	verb				我把桔子分成两半。	我把桔子分成兩半。	我把桔子[ ]成两半。	我把桔子[ ]成兩半。	Wǒ bǎ júzi fēnchéng liǎngbàn.	Wo3 ba3 ju2zi fen1cheng2 liang3ban4.	I cut the orange into two halves.		
+412	完成	完成	wánchéng	wan2cheng2	accomplish; complete; fulfill	verb				工作完成了。	工作完成了。	工作[ ]了。	工作[ ]了。	Gōngzuò wánchéng le.	Gong1zuo4 wan2cheng2 le.	The work is completed.		
+413	半	半	bàn	ban4	half; semi-; incomplete	numeral				我工作了半年。	我工作了半年。	我工作了[ ]年。	我工作了[ ]年。	Wǒ gōngzuòle bàn nián.	Wo3 gong1zuo4le ban4 nian2.	I worked for half a year.		
+414	要求	要求	yāoqiú	yao1qiu2	demand; request	verb				老师要求学生交作业。	老師要求學生交作業。	老师[ ]学生交作业。	老師[ ]學生交作業。	Lǎoshī yāoqiú xuésheng jiāo zuòyè.	Lao3shi1 yao1qiu2 xue2sheng jiao1 zuo4ye4.	The teacher asked that students hand in their homework.		
+415	除了	除了	chúle	chu2le5	besides; except for; aside from; in addition to	preposition				我们都去，除了他。	我們都去，除了他。	我们都去，[ ]他。	我們都去，[ ]他。	Wǒmen dōu qù, chúle tā.	Wo3men dou1 qu4, chu2le ta1.	All of us except him will go there.		
+416	容易	容易	róngyì	rong2yi4	easy; likely; liable (to)	adjective as adverbial				冬天容易感冒。	冬天容易感冒。	冬天[ ]感冒。	冬天[ ]感冒。	Dōngtiān róngyì gǎnmào.	Dong1tian1 rong2yi4 gan3mao4.	It's easy to catch a cold in winter.		
+417	教	教	jiāo	jiao1	teach	verb		交，浇		老师教我们英文。	老師教我們英文。	老师[ ]我们英文。	老師[ ]我們英文。	Lǎoshī jiāo wǒmen Yīngwén.	Lao3shi1 jiao1 wo3men Ying1wen2.	The teacher teaches English to us.		
+418	脸	臉	liǎn	lian3	face	noun				他的脸脏了。	他的臉髒了。	他的[ ]脏了。	他的[ ]髒了。	Tā de liǎn zāng le.	Ta1 de lian3 zang1 le.	His face is dirty.		
+419	简单	簡單	jiǎndān	jian3dan1	simple; not complicated	adjective				这些房子的结构很简单。	這些房子的結構很簡單。	这些房子的结构很[ ]。	這些房子的結構很[ ]。	Zhèixiē fángzi de jiégòu hěn jiǎndān.	Zhei4xie1 fang2zi de jie2gou4 hen3 jian3dan1.	The structure of these houses is very simple.		
+420	检查	檢查	jiǎnchá	jian3cha2	to check; examine; inspect	verb with nominal function				他正在检查电脑的服务系统。	他正在檢查電腦的服務系統。	他正在[ ]电脑的服务系统。	他正在[ ]電腦的服務系統。	Tā zhèng zài jiǎnchá diànnǎo de fúwù xìtǒng.	Ta1 zheng4 zai4 jian3cha2 dian4nao3 de fu2wu4 xi4tong3.	He's checking the computer's service system.		
+421	音乐	音樂	yīnyuè	yin1yue4	music	noun				她在听音乐。	她在聽音樂。	她在听[ ]。	她在聽[ ]。	Tā zài tīng yīnyuè.	Ta1 zai4 ting1 yin1yue4.	She's listening to music.		
+422	越	越	yuè	yue4	the more...the more...	adverb		月		她越来越苗条了。	她越來越苗條了。	她[ ]来[ ]苗条了。	她[ ]來[ ]苗條了。	Tā yuè lái yuèmiáotiáo le.	Ta1 yue4 lai2 yue4miao2tiao2 le.	She's getting slimmer.		
+423	照顾	照顧	zhàogù	zhao4gu4	take care of; look after; give consideration	verb				让我来照顾你。	讓我來照顧你。	让我来[ ]你。	讓我來[ ]你。	Ràng wǒ lái zhàogù nǐ.	Rang4 wo3 lai2 zhao4gu4 ni3.	Let me look after you.		
+424	聪明	聰明	cōngming	cong1ming5	intelligent; clever; bright; smart	adjective				他是个聪明的孩子。	他是個聰明的孩子。	他是个[ ]的孩子。	他是個[ ]的孩子。	Tā shì gè cōngmíng de háizi.	Ta1 shi4 ge4 cong1ming2 de hai2zi.	He's a clever boy.		
+425	甜	甜	tián	tian2	sweet	adjective				糖是甜的。	糖是甜的。	糖是[ ]的。	糖是[ ]的。	Táng shì tián de.	Tang2 shi4 tian2 de.	Sugar is sweet.		
+426	突然	突然	tūrán	tu1ran2	suddenly; abruptly	adjective as adverbial				他突然摔倒了。	他突然摔倒了。	他[ ]摔倒了。	他[ ]摔倒了。	Tā tūrán shuāidǎo le.	Ta1 tu1ran2 shuai1dao3 le.	All of a sudden, he fell down.		
+427	终于	終於	zhōngyú	zhong1yu2	at last; in the end; finally	adverb				我终于到达了山顶。	我終於到達了山頂。	我[ ]到达了山顶。	我[ ]到達了山頂。	Wǒ zhōngyú dàodále shāndǐng.	Wo3 zhong1yu2 dao4da2le shan1ding3.	I finally got to the top of the mountain.		
+428	船	船	chuán	chuan2	a boat; vessel; ship	noun				江边有很多船。	江邊有很多船。	江边有很多[ ]。	江邊有很多[ ]。	Jiāngbiān yǒu hěn duō chuán.	Jiang1bian1 you3 hen3 duo1 chuan2.	There are many ships at the river bank.		
+429	口	口	kǒu	kou3	mouth (Kangxi radical 30)	classifier				他站在门口。	他站在門口。	他站在门[ ]。	他站在門[ ]。	Tā zhàn zài ménkǒu.	Ta1 zhan4 zai4 men2kou3.	He's standing at the entrance.		
+430	回答	回答	huídá	hui2da2	to reply; to answer	verb				让我来回答这个问题。	讓我來回答這個問題。	让我来[ ]这个问题。	讓我來[ ]這個問題。	Ràng wǒ lái huídá zhège wèntí.	Rang4 wo3 lai2 hui2da2 zhe4ge wen4ti2.	Let me answer this question.		
+431	礼物	禮物	lǐwù	li3wu4	gift; present	noun				她接受了我的礼物。	她接受了我的禮物。	她接受了我的[ ]。	她接受了我的[ ]。	Tā jiēshòule wǒ de lǐwù.	Ta1 jie1shou4le wo3 de li3wu4.	She accepted my gift.		
+432	头发	頭發	tóufa	tou2fa5	hair (on the head)	noun				头发干了。	頭髮乾了。	[ ]干了。	頭髮乾了。	Tóufa gān le.	Tou2fa gan1 le.	Her hair is dry now.		
+433	关心	關心	guānxīn	guan1xin1	be concerned about; be interested in	verb				作为父母应该关心孩子。	作為父母應該關心孩子。	作为父母应该[ ]孩子。	作為父母應該[ ]孩子。	Zuòwéi fùmǔ yīnggāi guānxīn háizi.	Zuo4wei2 fu4mu3 ying1gai1 guan1xin1 hai2zi.	As parents, they should care for their children.		
+434	脚	腳	jiǎo	jiao3	foot (body part)	noun		角		她的脚受伤了。	她的腳受傷了。	她的[ ]受伤了。	她的[ ]受傷了。	Tā de jiǎo shòushāng le.	Ta1 de jiao3 shou4shang1 le.	Her foot has been injured.		
+435	生气	生氣	shēngqì	sheng1qi4	angry; mad	adjective				你不要那么生气。	你不要那麼生氣。	你不要那么[ ]。	你不要那麼[ ]。	Nǐ búyào nàme shēngqì.	Ni3 bu2yao4 na4me sheng1qi4.	Don't get so angry.		
+436	哭	哭	kū	ku1	cry; weep	verb				她哭了。	她哭了。	她[ ]了。	她[ ]了。	Tā kū le.	Ta1 ku1 le.	She cried.		
+437	画	畫	huà	hua4	draw; picture; painting	verb		划		她在作画。	她在作畫。	她在作[ ]。	她在作[ ]。	Tā zài zuòhuà.	Ta1 zai4 zuo4hua4.	She's painting.		
+438	年轻	年輕	niánqīng	nian2qing1	young	adjective				她年轻而美丽。	她年輕而美麗。	她[ ]而美丽。	她[ ]而美麗。	Tā niánqīng ér měilì.	Ta1 nian2qing1 er2 mei3li4.	She's young and beautiful.		
+439	包	包	bāo	bao1	to cover; to wrap; to hold; include; (mw for containers, packages, etc.)	verb				请帮我把它包起来。	請幫我把它包起來。	请帮我把它[ ]起来。	請幫我把它[ ]起來。	Qǐng bāng wǒ bǎ tā bāo qǐlai.	Qing3 bang1 wo3 ba3 ta1 bao1 qi3lai.	Please help me wrap it up.		
+440	腿	腿	tuǐ	tui3	leg	noun				他的腿受伤了。	他的腿受傷了。	他的[ ]受伤了。	他的[ ]受傷了。	Tā de tuǐ shòushāng le.	Ta1 de tui3 shou4shang1 le.	He injured his leg.		
+441	忘记	忘記	wàngjì	wang4ji4	forget; overlook; neglect	verb				我忘记要做什么了。	我忘記要做什麼了。	我[ ]要做什么了。	我[ ]要做什麼了。	Wǒ wàngjì yào zuò shénme le.	Wo3 wang4ji4 yao4 zuo4 shen2me le.	I forgot what to do.		
+442	搬	搬	bān	ban1	to move; to transport	verb		班，斑		我搬进了学生宿舍。	我搬進了學生宿舍。	我[ ]进了学生宿舍。	我[ ]進了學生宿舍。	Wǒ bānjìnle xuésheng sùshè.	Wo3 ban1jin4le xue2sheng su4she4.	I've moved into the students' dormitory.		
+443	楼	樓	lóu	lou2	building, story	noun				这栋楼很高。	這棟樓很高。	这栋[ ]很高。	這棟[ ]很高。	Zhè dòng lóu hěn gāo.	Zhe4 dong4 lou2 hen3 gao1.	This building is very high.		
+444	遇到	遇到	yùdào	yu4dao4	come across; run into; encounter; meet	verb				他遇到了老朋友。	他遇到了老朋友。	他[ ]了老朋友。	他[ ]了老朋友。	Tā yùdàole lǎopéngyou.	Ta1 yu4dao4le lao3peng2you.	He ran into an old friend.		
+445	新闻	新聞	xīnwén	xin1wen2	news	noun				他在报道新闻。	他在報道新聞。	他在报道[ ]。	他在報道[ ]。	Tā zài bàodào xīnwén.	Ta1 zai4 bao4dao4 xin1wen2.	He's reporting the news.		
+446	比较	比較	bǐjiào	bi3jiao4	compare; contrast; relatively	adverb				哪个比较大？	哪個比較大？	哪个[ ]大？	哪個[ ]大？	Nǎge bǐjiào dà?	Na3ge bi3jiao4 da4?	Which is bigger?		
+447	双	雙	shuāng	shuang1	two; double; (mw for pairs)	numeral				这双鞋的鞋跟很高。	這雙鞋的鞋跟很高。	这[ ]鞋的鞋跟很高。	這[ ]鞋的鞋跟很高。	Zhè shuāng xié de xiégēn hěn gāo.	Zhe4 shuang1 xie2 de xie2gen1 hen3 gao1.	These shoes have very high heels.		
+448	见面	見面	jiànmiàn	jian4mian4	meet/see somebody (face to face); meeting	verb				我和朋友约在这里见面。	我和朋友約在這裏見面。	我和朋友约在这里[ ]。	我和朋友約在這裏[ ]。	Wǒ hé péngyou yuē zài zhèli jiànmiàn.	Wo3 he2 peng2you yue1 zai4 zhe4li jian4mian4.	My friend and I have agreed to meet here.		
+449	经常	經常	jīngcháng	jing1chang2	often; frequently; daily	adverb				我经常去外地出差。	我經常去外地出差。	我[ ]去外地出差。	我[ ]去外地出差。	Wǒ jīngcháng qù wàidì chūchāi.	Wo3 jing1chang2 qu4 wai4di4 chu1chai1.	I frequently go on business trips to other places.		
+450	城市	城市	chéngshì	cheng2shi4	city or town	noun				这座城市很大。	這座城市很大。	这座[ ]很大。	這座[ ]很大。	Zhè zuò chéngshì hěn dà.	Zhe4 zuo4 cheng2shi4 hen3 da4.	This is a huge city.		
+451	一会儿	一會兒	yíhuìr	yi2hui4r5	a while; a moment	numeral				我一会儿就回来。	我一會兒就回來。	我[ ]就回来。	我[ ]就回來。	Wǒ yíhuìr jiù huílai.	Wo3 yi2hui4r jiu4 hui2lai.	I'll be back soon.		
+452	附近	附近	fùjìn	fu4jin4	(in the) vicinity; nearby; neighboring	directional locality				这是附近最高的山。	這是附近最高的山。	这是[ ]最高的山。	這是[ ]最高的山。	Zhè shì fùjìn zuìgāo de shān.	Zhe4 shi4 fu4jin4 zui4gao1 de shan1.	This is the highest mountain in the vicinity.		
+453	借	借	jiè	jie4	lend; borrow; excuse	verb		戒，届		我去图书馆借书。	我去圖書館借書。	我去图书馆[ ]书。	我去圖書館[ ]書。	Wǒ qù túshūguǎn jiè shū.	Wo3 qu4 tu2shu1guan3 jie4 shu1.	I'm going to the library to borrow some books.		
+454	影响	影響	yǐngxiǎng	ying3xiang3	influence; affect; effect	verb with nominal function				吸烟影响健康。	吸煙影響健康。	吸烟[ ]健康。	吸煙[ ]健康。	Xīyān yǐngxiǎng jiànkāng.	Xi1yan1 ying3xiang3 jian4kang1.	Smoking affects one's health.		
+455	认真	認真	rènzhēn	ren4zhen1	take seriously	v.o.				学生应该认真学习。	學生應該認真學習。	学生应该[ ]学习。	學生應該[ ]學習。	Xuésheng yīnggāi rènzhēn xuéxí.	Xue2sheng ying1gai1 ren4zhen1 xue2xi2.	Students should study diligently.		
+456	米	米	mǐ	mi3	rice; meter (Kangxi radical 119)	classifier				他跑了一百米。	他跑了一百米。	他跑了一百[ ]。	他跑了一百[ ]。	Tā pǎole yì bǎi mǐ.	Ta1 pao3le yi4 bai3 mi3.	He ran 100 meters.		
+457	差	差	chà	cha4	differ from; fall short of; poor; inferior	adjective		岔		我还差点经验。	我還差點經驗。	我还[ ]点经验。	我還[ ]點經驗。	Wǒ hái chà diǎn jīngyàn.	Wo3 jing1chang2 qu4 wai4di4 chu1chai1.	I don't have enough experience.		
+458	银行	銀行	yínháng	yin2hang2	bank	noun				这是一家银行。	這是一家銀行。	这是一家[ ]。	這是一家[ ]。	Zhè shì yī jiā yínháng.	Zhe4 shi4 yi1 jia1 yin2hang2.	This is a bank.		
+459	安静	安靜	ānjìng	an1jing4	quiet; peaceful; calm	adjective				学校里很安静。	學校裡很安靜。	学校里很[ ]。	學校裡很[ ]。	Xuéxiào li hěn ānjìng.	Xue2xiao4 li hen3 an1jing4.	It's very quiet inside the school.		
+460	多么	多麼	duōme	duo1me5	how (wonderful, etc.); what (a great idea)	adverb				多么晴朗的日子啊。	多麼晴朗的日子啊。	[ ]晴朗的日子啊。	[ ]晴朗的日子啊。	Duōme qínglǎng de rìzi a.	Duo1me qing2lang3 de ri4zi a.	What lovely weather!		
+461	饿	餓	è	e4	hungry	verb				我觉得有点饿。	我覺得有點餓。	我觉得有点[ ]。	我覺得有點[ ]。	Wǒ juéde yǒudiǎn è.	Wo3 jue2de you3dian3 e4.	I'm a little hungry.		
+462	根据	根據	gēnjù	gen1ju4	on the basis of; according to	preposition				我们根据合同来办事。	我們根據合同來辦事。	我们[ ]合同来办事。	我們[ ]合同來辦事。	Wǒmen gēnjù hétong lái bànshì.	Wo3men gen1ju4 he2tong lai2 ban4shi4.	We conduct our business in accordance with the contract.		
+463	几乎	幾乎	jīhū	ji1hu1	almost	adverb				她们几乎长得一模一样。	她們幾乎長得一模一樣。	她们[ ]长得一模一样。	她們[ ]長得一模一樣。	Tāmen jǐhū zhǎng de yīmú-yīyàng.	Ta1men ji3hu1 zhang3 de yi1mu2-yi1yang4.	The two of them are virtually identical.		
+464	后来	后來	hòulái	hou4lai2	afterwards; after; later	time word				后来事情怎么样？	後來事情怎麼樣？	[ ]事情怎么样？	後來事情怎麼樣？	Hòulái shìqing zěnme yàng?	Hou4lai2 shi4qing zen3me yang4?	How did things turn out later?		
+465	动物	動物	dòngwù	dong4wu4	animal	noun				动物都有保护子女的天性。	動物都有保護子女的天性。	[ ]都有保护子女的天性。	[ ]都有保護子女的天性。	Dòngwù dōu yǒu bǎohù zǐnǚ de tiānxìng.	Dong4wu4 dou1 you3 bao3hu4 zi3nv3 de tian1xing4.	It's in animals' nature to protect their young.		
+466	西	西	xī	xi1	West (Kangxi radical 146)	directional locality		溪		这间屋子朝西。	這間屋子朝西。	这间屋子朝[ ]。	這間屋子朝[ ]。	Zhè jiān wūzi cháo xī.	Zhe4 jian1 wu1zi chao2 xi1.	This room faces west.		
+467	一边	一邊	yī̠biān	yi1bian1	one side; on the one hand; at the same time	adverb				他喜欢一边看书，一边听音乐。		他喜欢[ ]看书，[ ]听音乐。						
+468	舒服	舒服	shūfu	shu1fu5	comfortable; feeling well	adjective				沙发很舒服。	沙發很舒服。	沙发很[ ]。	沙發很[ ]。	Shāfā hěn shūfu.	Sha1fa1 hen3 shu1fu.	The sofa is quite comfortable.		
+469	一般	一般	yī̠bān	yi4ban1	general; ordinary; common; same	adjective				这道菜的味道很一般。	這道菜的味道很一般。	这道菜的味道很[ ]。	這道菜的味道很[ ]。	Zhè dào cài de wèidao hěn yìbān.	Zhe4 dao4 cai4 de wei4dao hen3 yi4ban1.	The taste of this dish is very ordinary.		
+470	叔叔	叔叔	shūshu	shu1shu5	(informal) father's younger brother; uncle	noun				他是我的叔叔。	他是我的叔叔。	他是我的[ ]。	他是我的[ ]。	Tā shì wǒ de shūshū.	Ta1 shi4 wo3 de shu1shu1.	He's my uncle.		
+471	疼	疼	téng	teng2	ache; sore; (it) hurts; love fondly	adjective				我的脚很疼。	我的腳很疼。	我的脚很[ ]。	我的腳很[ ]。	Wǒ de jiǎo hěn téng.	Wo3 de jiao3 hen3 teng2.	My feet hurt a great deal.		
+472	迟到	遲到	chídào	chi2dao4	be/come/arrive late	verb				快点，要迟到了。	快點，要遲到了。	快点，要[ ]了。	快點，要[ ]了。	Kuài diǎn, yào chídào le.	Kuai4 dian3, yao4 chi2dao4 le.	Hurry up a little or we'll be late.		
+473	历史	歷史	lìshǐ	li4shi3	history; past records	noun				长城的历史很悠久。	長城的歷史很悠久。	长城的[ ]很悠久。	長城的[ ]很悠久。	Chángchéng de lìshǐ hěn yōujiǔ.	Chang2cheng2 de li4shi3 hen3 you1jiu3.	The Great Wall has a very long history.		
+474	啤酒	啤酒	píjiǔ	pi2jiu3	beer	noun				他端着啤酒走过来。	他端著啤酒走過來。	他端着[ ]走过来。	他端著[ ]走過來。	Tā duānzhe píjiǔ zǒu guòlái.	Ta1 duan1zhe pi2jiu3 zou3 guo4lai2.	He came over, carrying a tray of beer.		
+475	短	短	duǎn	duan3	short (opposite of 长 cháng)	adjective				这条裤子有点短了。	這條褲子有點短了。	这条裤子有点[ ]了。	這條褲子有點[ ]了。	Zhè tiáo kùzi yǒudiǎn duǎn le.	Zhe4 tiao2 ku4zi you3dian3 duan3 le.	These trousers are a little short.		
+476	经过	經過	jīngguò	jing1guo4	to pass; go through; as a result of	preposition				我每天经过这家店。	我每天經過這家店。	我每天[ ]这家店。	我每天[ ]這家店。	Wǒ měitiān jīngguò zhè jiā diàn.	Wo3 mei3tian1 jing1guo4 zhe4 jia1 dian4.	I pass by this shop every day.		
+477	周末	周末	zhōumò	zhou1mo4	weekend	time word				我们在家里过周末。	我們在家里過周末。	我们在家里过[ ]。	我們在家里過[ ]。	Wǒmen zài jiāli guò zhōumò.	Wo3men zai4 jia1li guo4 zhou1mo4.	We spend the weekends at home.		
+478	班	班	bān	ban1	class; work	noun		搬，斑		他 是 我们班 最 好的 学生。	他 是 我們班 最 好的 學生。	他 是 我们[ ] 最 好的 学生。	他 是 我們[ ] 最 好的 學生。	Tā shì wǒmen bān zuì hǎode xuésheng.	Ta1 shi4 wo3men ban1 zui4 hao3de xue2sheng.	He is the best student in our class.		
+479	习惯	習慣	xíguàn	xi2guan4	habit; be accustomed to; usual practice	noun				她习惯去晨跑。	她習慣去晨跑。	她[ ]去晨跑。	她[ ]去晨跑。	Tā xíguàn qù chénpǎo.	Ta1 xi2guan4 qu4 chen2pao3.	She's used to running in the morning		
+480	公园	公園	gōngyuán	gong1yuan2	park; garden	noun		公元		我去公园了。	我去公園了。	我去[ ]了。	我去[ ]了。	Wǒ qù gōngyuán le.	Wo3 qu4 gong1yuan2 le.	I went to the park.		
+481	干净	干淨	gānjìng	gan1jing4	clean; neat and tidy	adjective				浴室很干净。	浴室很乾淨。	浴室很[ ]。	浴室很乾淨。	Yùshì hěn gānjìng.	Yu4shi4 hen3 gan1jing4.	The bathroom is very clean.		
+482	鸟	鳥	niǎo	niao3	bird (Kangxi radical 196)	noun				它是一只鸟。	它是一隻鳥。	它是一只[ ]。	它是一隻[ ]。	Tā shì yì zhī niǎo.	Ta1 shi4 yi4 zhi1 niao3.	That's a bird.		
+483	健康	健康	jiànkāng	jian4kang1	health; healthy	adjective with nominal function				她为了健康锻炼身体。	她為了健康鍛煉身體。	她为了[ ]锻炼身体。	她為了[ ]鍛煉身體。	Tā wèile jiànkāng duànliàn shēntǐ.	Ta1 wei4le jian4kang1 duan4lian4 shen1ti3.	She exercises for her health.		
+484	树	樹	shù	shu4	tree	noun		束，竖		这里的树很高。	這裡的樹很高。	这里的[ ]很高。	這裡的[ ]很高。	Zhèlǐ de shù hěn gāo.	Zhe4li3 de shu4 hen3 gao1.	The trees here are very tall.		
+485	蛋糕	蛋糕	dàngāo	dan4gao1	cake	noun				这有一块蛋糕。	這有一塊蛋糕。	这有一块[ ]。	這有一塊[ ]。	Zhè yǒu yī kuài dàngāo.	Zhe4 you3 yi1 kuai4 dan4gao1.	Here's a piece of cake.		
+486	元	元	yuán	yuan2	Chinese monetary unit; dollar; first; principal, primary;	classifier		圆		我存了一万元。	我存了一萬元。	我存了一万[ ]。	我存了一萬[ ]。	Wǒ cúnle yíwàn yuán.	Wo3 cun2le yi2wan4 yuan2.	I saved 10,000 yuan.		
+487	客人	客人	kèren	ke4ren	guest; customer	noun				来了一位客人。	來了一位客人。	来了一位[ ]。	來了一位[ ]。	Láile yí wèi kèren.	Lai2le yi2 wei4 ke4ren.	One guest has arrived.		
+488	会议	會議	huìyì	hui4yi4	meeting; conference	noun				我们都参加了这次会议。	我們都參加了這次會議。	我们都参加了这次[ ]。	我們都參加了這次[ ]。	Wǒmen dōu cānjiāle zhè cì huìyì.	Wo3men dou1 can1jia1le zhe4 ci4 hui4yi4.	We all attended the conference.		
+489	奶奶	奶奶	nǎinai	nai3nai5	grandma; (informal) paternal grandmother	noun				奶奶两年前去世了。	奶奶兩年前去世了。	[ ]两年前去世了。	[ ]兩年前去世了。	Nǎinai liǎng nián qián qùshì le.	Nai3nai liang3 nian2 qian2 qu4shi4 le.	My grandmother died two years ago.		
+490	裤子	褲子	kùzi	ku4zi5	pants; trousers	noun				裤子太紧了。	褲子太緊了。	[ ]太紧了。	[ ]太緊了。	Kùzi tài jǐn le.	Ku4zi tai4 jin3 le.	These trousers are too tight.		
+491	邻居	鄰居	línjū	lin2ju1	neighbor	noun				她是我的邻居。	她是我的鄰居。	她是我的[ ]。	她是我的[ ]。	Tā shì wǒ de línjū.	Ta1 shi4 wo3 de lin2ju1.	She's my neighbor.		
+492	经理	經理	jīnglǐ	jing1li3	manager; director	noun				他是公司的总经理。	他是公司的總經理。	他是公司的总[ ]。	他是公司的總[ ]。	Tā shì gōngsī de zǒngjīnglǐ.	Ta1 shi4 gong1si1 de zong3jing1li3.	He is the general manager at the company.		
+493	层	層	céng	ceng2	layer, level, storey	classifier				这栋楼有几层？	這棟樓有幾層？	这栋楼有几[ ]？	這棟樓有幾[ ]？	Zhè dòng lóu yǒu jǐ céng?	Zhe4 dong4 lou2 you3 ji3 ceng2?	How many stories are there in this building?		
+494	灯	燈	dēng	deng1	lamp; light	noun		蹬		她在清扫电灯。	她在清掃電燈。	她在清扫电[ ]。	她在清掃電[ ]。	Tā zài qīngsǎo diàndēng.	Ta1 zai4 qing1sao3 dian4deng1.	She's cleaning the electric light.		
+495	练习	練習	liànxí	lian4xi2	practice; exercise	verb				她在练习弹钢琴。	她在練習彈鋼琴。	她在[ ]弹钢琴。	她在[ ]彈鋼琴。	Tā zài liànxí tán gāngqín.	Ta1 zai4 lian4xi2 tan2 gang1qin2.	She's practicing the piano.		
+496	爷爷	爺爺	yéye	ye2ye5	(informal) father's father; paternal grandfather	noun				老爷爷在树林里散步。	老爺爺在樹林裏散步。	老[ ]在树林里散步。	老[ ]在樹林裏散步。	Lǎoyéye zài shùlín lǐ sànbù.	Lao3ye2ye zai4 shu4lin2 li3 san4bu4.	The old man is taking a walk in the woods.		
+497	蓝	藍	lán	lan2	blue	adjective		拦		大海很蓝。	大海很藍。	大海很[ ]。	大海很[ ]。	Dàhǎi hěn lán.	Da4hai3 hen3 lan2.	The sea is very blue.		
+498	难过	難過	nánguò	nan2guo4	be grieved; be sad; have a hard time	adjective				他感到十分难过。	他感到十分難過。	他感到十分[ ]。	他感到十分[ ]。	Tā gǎndào shífēn nánguò.	Ta1 gan3dao4 shi2fen1 nan2guo4.	He feels very sad.		
+499	中间	中間	zhōngjiān	zhong1jian1	center; middle; between; among	directional locality				她在中间。	她在中間。	她在[ ]。	她在[ ]。	Tā zài zhōngjiān.	Ta1 zai4 zhong1jian1.	She's in the middle.		
+500	帽子	帽子	màozi	mao4zi5	hat; cap	noun				她戴着一顶黄色的帽子。	她戴著一頂黃色的帽子。	她戴着一顶黄色的[ ]。	她戴著一頂黃色的[ ]。	Tā dàizhe yī dǐng huángsè de màozi.	Ta1 dai4zhe yi1 ding3 huang2se4 de mao4zi.	She's wearing a yellow hat.		
+501	司机	司機	sījī	si1ji1	driver; chauffeur	noun				请把它拿给司机。	請把它拿給司機。	请把它拿给[ ]。	請把它拿給[ ]。	Qǐng bǎ tā ná gěi sījī.	Qing3 ba3 ta1 na2 gei3 si1ji1.	Please give it to the driver.		
+502	旧	舊	jiù	jiu4	old; past; used	adjective		就，救		旧照片让我想起了往事。	舊照片讓我想起了往事。	[ ]照片让我想起了往事。	[ ]照片讓我想起了往事。	Jiù zhàopiàn ràng wǒ xiǎngqǐle wǎngshì.	Jiu4 zhao4pian4 rang4 wo3 xiang3qi3le wang3shi4.	The old pictures remind me of the past.		
+503	满意	滿意	mǎnyì	man3yi4	satisfied; pleased	verb				我们很满意这次的旅行。	我們很滿意這次的旅行。	我们很[ ]这次的旅行。	我們很[ ]這次的旅行。	Wǒmen hěn mǎnyì zhè cì de lǚxíng.	Wo3men hen3 man3yi4 zhe4 ci4 de lv3xing2.	We are very satisfied with this trip.		
+504	骑	騎	qí	qi2	to ride (an animal or bike); to sit astride	verb				骑摩托车很危险。	騎摩托車很危險。	[ ]摩托车很危险。	[ ]摩托車很危險。	Qí mótuōchē hěn wēixiǎn.	Qi2 mo2tuo1che1 hen3 wei1xian3.	Riding a motorbike is very dangerous.		
+505	太阳	太陽	tàiyáng	tai4yang2	the sun	noun				太阳出来了。	太陽出來了。	[ ]出来了。	[ ]出來了。	Tàiyáng chū lái le.	Tai4yang2 chu1 lai2 le.	The sun has risen.		
+506	极	極	jí	ji2	an extreme; pole; very	adverb				今天的天气好极了。	今天的天氣好極了。	今天的天气好[ ]了。	今天的天氣好[ ]了。	Jīntiān de tiānqì hǎojí le.	Jin1tian1 de tian1qi4 hao3ji2 le.	The weather's great today.		
+507	主要	主要	zhǔyào	zhu3yao4	main; principal; major	non-predicate adjective				这是城市的主要街道。	這是城市的主要街道。	这是城市的[ ]街道。	這是城市的[ ]街道。	Zhè shì chéngshì de zhǔyào jiēdào.	Zhe4 shi4 cheng2shi4 de zhu3yao4 jie1dao4.	This is the main road through the city.		
+508	同事	同事	tóngshì	tong2shi4	colleague; co-worker	noun				同事们在讨论方案。	同事們在討論方案。	[ ]们在讨论方案。	[ ]們在討論方案。	Tóngshìmen zài tǎolùn fāng'àn.	Tong2shi4men zai4 tao3lun4 fang1'an4.	The colleagues are discussing a project.		
+509	鼻子	鼻子	bízi	bi2zi5	nose	noun				他的鼻子流血了。	他的鼻子流血了。	他的[ ]流血了。	他的[ ]流血了。	Tā de bízi liúxuè le.	Ta1 de bi2zi liu2xue4 le.	His nose is bleeding.		
+510	角	角	jiǎo	jiao3	horn; angle; unit of money (1/10 yuan); corner (Kangxi radical 148)	classifier		脚		牛有两只角。	牛有兩隻角。	牛有两只[ ]。	牛有兩隻[ ]。	Niú yǒu liǎng zhī jiǎo.	Niu2 you3 liang3 zhi1 jiao3.	Cows have two horns.		
+511	变化	變化	biànhuà	bian4hua4	change; vary	verb with nominal function				这几年上海的变化很快。	這幾年上海的變化很快。	这几年上海的[ ]很快。	這幾年上海的[ ]很快。	Zhè jǐ nián Shànghǎi de biànhuà hěn kuài.	Zhe4 ji3 nian2 Shang4hai3 de bian4hua4 hen3 kuai4.	Shanghai has changed rapidly the last few years.		
+512	东	東	dōng	dong1	East	directional locality		冬		这条河向东流。	這條河向東流。	这条河向[ ]流。	這條河向[ ]流。	Zhè tiáo hé xiàng dōng liú.	Zhe4 tiao2 he2 xiang4 dong1 liu2.	This river flows east.		
+513	年级	年級	niánjí	nian2ji2	grade; year (in school)	noun				我念小学五年级。	我唸小學五年級。	我念小学五[ ]。	我唸小學五[ ]。	Wǒ niàn xiǎoxué wǔ niánjí.	Wo3 nian4 xiao3xue2 wu3 nian2ji2.	I'm in the fifth grade in elementary school.		
+514	环境	環境	huánjìng	huan2jing4	environment; surroundings; situation	noun				这里的环境很宜人。	這裏的環境很宜人。	这里的[ ]很宜人。	這裏的[ ]很宜人。	Zhèli de huánjìng hěn yírén.	Zhe4li de huan2jing4 hen3 yi2ren2.	This place is very pleasant.		
+515	胖	胖	pàng	pang4	fat; plump	adjective				我比你胖。	我比你胖。	我比你[ ]。	我比你[ ]。	Wǒ bǐ nǐ pàng.	Wo3 bi3 ni3 pang4.	I'm fatter than you.		
+516	地图	地圖	dìtú	di4tu2	map; atlas	noun				这是世界地图。	這是世界地圖。	这是世界[ ]。	這是世界[ ]。	Zhè shì shìjiè dìtú.	Zhe4 shi4 shi4jie4 di4tu2.	This is a map of the world.		
+517	面包	面包	miànbāo	mian4bao1	bread	noun				今天的早餐是烤面包。	今天的早餐是烤麵包。	今天的早餐是烤[ ]。	今天的早餐是烤麵包。	Jīntiān de zǎocān shì kǎomiànbāo.	Jin1tian1 de zao3can1 shi4 kao3mian4bao1.	Today's breakfast is toast.		
+518	电子邮件	電子郵件	diànzǐ yóujiàn	dian4zi3 you2jian4	email	noun				我收到一个电子邮件。	我收到一個電子郵件。	我收到一个[ ]。	我收到一個[ ]。	Wǒ shōu dào yīge diànzǐ yóujiàn.	Wo3 shou1 dao4 yi1ge dian4zi3 you2jian4.	I received an e-mail.		
+519	耳朵	耳朵	ěrduo	er3duo5	ear	noun				医生在给我检查耳朵。	醫生在給我檢查耳朵。	医生在给我检查[ ]。	醫生在給我檢查[ ]。	Yīshēng zài gěi wǒ jiǎnchá ěrduo.	Yi1sheng1 zai4 gei3 wo3 jian3cha2 er3duo.	The doctor is checking my ear.		
+520	裙子	裙子	qúnzi	qun2zi5	skirt; petticoat	noun				她穿着一条红裙子。	她穿著一條紅裙子。	她穿着一条红[ ]。	她穿著一條紅[ ]。	Tā chuānzhe yī tiáo hóng qúnzi.	Ta1 chuan1zhe yi1 tiao2 hong2 qun2zi.	She's wearing a red skirt.		
+521	新鲜	新鮮	xīnxiān	xin1xian1	fresh (experience, food, etc.); new; novel	adjective				这些水果很新鲜。	這些水果很新鮮。	这些水果很[ ]。	這些水果很[ ]。	Zhèixiē shuǐguǒ hěn xīnxian.	Zhei4xie1 shui3guo3 hen3 xin1xian.	The fruit is very fresh.		
+522	放心	放心	fàng xīn	fang4 xin1	set one's mind at rest; rest assured; feel relieved	verb				妈妈对我不放心。	媽媽對我不放心。	妈妈对我不[ ]。	媽媽對我不[ ]。	Māma duì wǒ bú fàngxīn.	Ma1ma dui4 wo3 bu2 fang4xin1.	My mother is worried about me.		
+523	聊天	聊天	liáotiān	liao2tian1	chat; gossip	verb				他们在聊天。	他們在聊天。	他们在[ ]。	他們在[ ]。	Tāmen zài liáotiān.	Ta1men zai4 liao2tian1.	They are chatting.		
+524	南	南	nán	nan2	South	personal name		男，难		南边有饭店。	南邊有飯店。	[ ]边有饭店。	[ ]邊有飯店。	Nánbiān yǒu fàndiàn.	Nan2bian1 you3 fan4dian4.	There is a hotel at the south end.		
+525	热情	熱情	rèqíng	re4qing2	enthusiastic; passionate	adjective with nominal function				这里的人民很热情。	這里的人民很熱情。	这里的人民很[ ]。	這里的人民很[ ]。	Zhèli de rénmín hěn rèqíng.	Zhe4li de ren2min2 hen3 re4qing2.	The people here are very enthusiastic.		
+526	信用卡	信用卡	xìnyòngkǎ	xin4yong4ka3	credit card	noun				小明盗刷了我的信用卡。	小明盜刷了我的信用卡。	小明盗刷了我的[ ]。	小明盜刷了我的[ ]。	Xiǎo Míng dàoshuā le wǒde xìnyòngkǎ.	Xiao3 Ming2 dao4shua1 le wo3de xin4yong4ka3.	Xiao Ming fraudulently used my credit card.		
+527	电梯	電梯	diàntī	dian4ti1	elevator	noun				电梯在下降。	電梯在下降。	[ ]在下降。	[ ]在下降。	Diàntī zài xiàjiàng.	Dian4ti1 zai4 xia4jiang4.	The elevator is going down.		
+528	方便	方便	fāngbiàn	fang1bian4	convenient	adjective				有了汽车很方便。	有了汽車很方便。	有了汽车很[ ]。	有了汽車很[ ]。	Yǒule qìchē hěn fāngbiàn.	You3le qi4che1 hen3 fang1bian4.	It's very convenient to have a car.		
+529	洗手间	洗手間	xị̌shǒujiān	xi3shou3jian1	toilet; lavatory; washroom	noun				我去一下洗手间。	我去一下洗手間。	我去一下[ ]。	我去一下[ ]。	Wǒ qù yíxià xǐshǒujiān.	Wo3 qu4 yi2xia4 xi3shou3jian1.	I'm going to the washroom.		
+530	洗澡	洗澡	xǐzǎo	xị̌zǎo	take a bath	verb				她在给大象洗澡。	她在給大象洗澡。	她在给大象[ ]。	她在給大象[ ]。	Tā zài gěi dàxiàng xǐzǎo.	Ta1 zai4 gei3 da4xiang4 xi3zao3.	He's giving the elephant a bath.		
+531	饮料	飲料	yǐnliào	yin3liao4	beverage; drink	noun				他买了一瓶饮料。	他買了一瓶飲料。	他买了一瓶[ ]。	他買了一瓶[ ]。	Tā mǎile yì píng yǐnliào.	Ta1 mai3le yi4 ping2 yin3liao4.	He bought a bottle of something to drink.		
+532	校长	校長	xiàozhǎng	xiao4zhang3	principal (of school, college or university); president; headmaster	noun				让我来介绍一下,这是我的校长。	讓我來介紹一下,這是 我的校長。	让我来介绍一下,这是我的[ ]。	讓我來介紹一下,這是我的[ ]。	Ràng wǒ lái jièshào yī xià zhè shì wǒde xiàozhǎng.	Rang4 wo3 lai2 jie4shao4 yi1 xia4 zhe4 shi4 wo3de xiao4zhang3.	Allow me to introduce you, this is my principal.		
+533	水平	水平	shuǐpíng	shui3ping2	standard; level; proficiency	noun				农村的生活水平不高。	農村的生活水平不高。	农村的生活[ ]不高。	農村的生活[ ]不高。	Nóngcūn de shēnghuó shuǐpíng bù gāo.	Nong2cun1 de sheng1huo2 shui3ping2 bu4 gao1.	The living standard in rural areas is not high.		
+534	作业	作業	zuòyè	zuo4ye4	school assignment; homework; task	verb with nominal function				她在做作业。	她在做作業。	她在做[ ]。	她在做[ ]。	Tā zài zuò zuòyè.	Ta1 zai4 zuo4 zuo4ye4.	She's doing her homework.		
+535	衬衫	襯衫	chènshān	chen4shan1	shirt; blouse	noun				他穿了件格子衬衫。	他穿了件格子襯衫。	他穿了件格子[ ]。	他穿了件格子[ ]。	Tā chuānle jiàn gézi chènshān.	Ta1 chuan1le jian4 ge2zi chen4shan1.	He is wearing a checkered shirt.		
+536	成绩	成績	chéngjì	cheng2ji4	result; achievement; success	noun				考试成绩很重要。	考試成績很重要。	考试[ ]很重要。	考試[ ]很重要。	Kǎoshì chéngjì hěn zhòngyào.	Kao3shi4 cheng2ji4 hen3 zhong4yao4.	Test results are very important.		
+537	碗	碗	wǎn	wan3	bowl; cup	noun				桌子上放着碗。	桌子上放著碗。	桌子上放着[ ]。	桌子上放著[ ]。	Zhuōzi shàng fàngzhe wǎn.	Zhuo1zi shang4 fang4zhe wan3.	The bowl is on the table.		
+538	阿姨	阿姨	āyí	a1yi2	auntie; step-mother; mother's younger sister	noun				我是她的阿姨。	我是她的阿姨。	我是她的[ ]。	我是她的[ ]。	Wǒ shì tā de āyí.	Wo3 shi4 ta1 de a1yi2.	I am her aunt.		
+539	图书馆	圖書館	túshūguǎn	tu2shu1guan3	library	noun				他们在图书馆里学习。	他們在圖書館裡學習。	他们在[ ]里学习。	他們在[ ]裡學習。	Tāmen zài túshūguǎn lǐ xuéxí.	Ta1men zai4 tu2shu1guan3 li3 xue2xi2.	They're studying in the library.		
+540	文化	文化	wénhuà	wen2hua4	culture; civilization	noun				他很有文化。	他很有文化。	他很有[ ]。	他很有[ ]。	Tā hěn yǒu wénhuà.	Ta1 hen3 you3 wen2hua4.	He's very well-cultured.		
+541	绿	綠	lǜ	lv4	green	adjective				这些小草很绿。	這些小草很綠。	这些小草很[ ]。	這些小草很[ ]。	Zhèxiē xiǎocǎo hěn lǜ.	Zhe4xie1 xiao3cao3 hen3 lv4.	The grass is very green.		
+542	打扫	打掃	dạ̌sǎo	da3sao3	to clean; to sweep	verb				你 应该 打扫 厨房。	你 應該 打掃 廚房。	你 应该 [ ] 厨房。	你 應該 [ ] 廚房。	Nǐ yīnggāi dǎsǎo chúfáng.	Ni3 ying1gai1 da3sao3 chu2fang2.	You should clean the kitchen.		
+543	草	草	cǎo	cao3	grass; straw; draft (of a document)	noun				这些小草很绿。	這些小草很綠。	这些小[ ]很绿。	這些小[ ]很綠。	Zhèxiē xiǎocǎo hěn lǜ.	Zhe4xie1 xiao3cao3 hen3 lv4.	The grass is very green.		
+544	冰箱	冰箱	bīngxiāng	bing1xiang1	refrigerator; freezer	noun				冰箱 坏 了。	冰箱 壞 了。	[ ] 坏 了。	[ ] 壞 了。	Bīngxiāng huài le.	Bing1xiang1 huai4 le.	The refrigerator is broken.		
+545	数学	數學	shùxué	shu4xue2	mathematics	noun				这个数学题很难。	這個數學題很難。	这个[ ]题很难。	這個[ ]題很難。	Zhège shùxuétí hěn nán.	Zhe4ge shu4xue2ti2 hen3 nan2.	This math problem is difficult.		
+546	自行车	自行車	zìxíngchē	zi4xing2che1	bike; bicycle	noun				我喜欢自行车运动。	我喜歡自行車運動。	我喜欢[ ]运动。	我喜歡[ ]運動。	Wǒ xǐhuan zìxíngchē yùndòng.	Wo3 xi3huan zi4xing2che1 yun4dong4.	I like cycling.		
+547	着急	著急	zháojí	zhao2ji2	to worry; feel anxious	adjective				他丢了钱包，很着急。	他丟了錢包，很著急。	他丢了钱包，很[ ]。	他丟了錢包，很[ ]。	Tā diū le qiánbāo, hěn zháojí.	Ta1 diu1 le qian2bao1, hen3 zhao2ji2.	He lost his wallet and is very worried.		
+548	瘦	瘦	shòu	shou4	thin; tight; lean	adjective				你太瘦了，该多吃点。	你太瘦了，該多吃點。	你太[ ]了，该多吃点。	你太[ ]了，該多吃點。	Nǐ tài shòu le, gāi duō chī diǎnr.	Ni3 tai4 shou4 le, gai1 duo1 chi1 dian3r.	You need to eat more, you're too slim.		
+549	提高	提高	tígāo	ti2gao1	to raise; heighten; improve	verb				我的收入提高了。	我的收入提高了。	我的收入[ ]了。	我的收入[ ]了。	Wǒ de shōurù tígāo le.	Wo3 de shou1ru4 ti2gao1 le.	My income went up.		
+550	起飞	起飛	qǐfēi	qi3fei1	take off (in an airplane); liftoff	verb				飞机九点起飞。	飛機九點起飛。	飞机九点[ ]。	飛機九點[ ]。	Fēijī jiǔ diǎn qǐfēi.	Fei1ji1 jiu3 dian3 qi3fei1.	The airplane departs at 9:00.		
+551	矮	矮	ǎi	ai3	short (not tall); low	adjective				他长得很矮。	他長得很矮。	他长得很[ ]。	他長得很[ ]。	Tā zhǎng de hěn ǎi.	Ta1 zhang3 de hen3 ai3.	He is short.		
+552	地铁	地鐵	dìtiě	di4tie3	underground (railway); subway	noun				地铁直达那儿。	地鐵直達那兒。	[ ]直达那儿。	[ ]直達那兒。	Dìtiě zhídá nàr.	Di4tie3 zhi2da2 na4r.	The subway goes there directly.		
+553	体育	體育	tǐyù	ti3yu4	physical education/training; sports	noun				他是体育老师。	他是體育老師。	他是[ ]老师。	他是[ ]老師。	Tā shì tǐyù lǎoshī.	Ta1 shi4 ti3yu4 lao3shi1.	He's a gymnastics teacher.		
+554	刻	刻	kè	ke4	quarter (hour); (mw for short time intervals); carve; to cut	verb		课，克		现在是九点一刻。	現在是九點一刻。	现在是九点一[ ]。	現在是九點一[ ]。	Xiànzài shì jiǔ diǎn yī kè.	Xian4zai4 shi4 jiu3 dian3 yi1 ke4.	It's a quarter past nine.		
+555	护照	護照	hùzhào	hu4zhao4	passport	noun				请出示您的护照。	請出示您的護照。	请出示您的[ ]。	請出示您的[ ]。	Qǐng chūshì nín de hùzhào.	Qing3 chu1shi4 nin2 de hu4zhao4.	Please show your passport.		
+556	节日	節日	jiérì	jie2ri4	festival; holiday	noun				今天是什么节日？	今天是什麼節日？	今天是什么[ ]？	今天是什麼[ ]？	Jīntiān shì shénme jiérì?	Jin1tian1 shi4 shen2me jie2ri4?	What holiday is it today?		
+557	盘子	盤子	pánzi	pan2zi5	plate; dish; tray	noun				盘子里有一片面包。	盤子裏有一片麵包。	[ ]里有一片面包。	[ ]裏有一片麵包。	Pánzi lǐ yǒu yī piàn miànbāo.	Pan2zi li3 you3 yi1 pian4 mian4bao1.	There's a slice of bread on the plate.		
+558	一共	一共	yị̄gòng	yi2gong4	altogether; in all; all told	adverb				他家一共有四口人。	他家一共有四口人。	他家[ ]有四口人。	他家[ ]有四口人。	Tā jiā yīgòng yǒu sì kǒu rén.	Ta1 jia1 yi1gong4 you3 si4 kou3 ren2.	There are four people in his family.		
+559	瓶子	瓶子	píngzi	ping2zi5	bottle	noun				瓶子里装着毒药。	瓶子裏裝著毒藥。	[ ]里装着毒药。	[ ]裏裝著毒藥。	Píngzi lǐ zhuāngzhe dúyào.	Ping2zi li3 zhuang1zhe du2yao4.	Inside the bottle is poison.		
+560	街道	街道	jiēdào	jie1dao4	street	noun				这条街道很安静。	這條街道很安靜。	这条[ ]很安静。	這條[ ]很安靜。	Zhè tiáo jiēdào hěn ānjìng.	Zhe4 tiao2 jie1dao4 hen3 an1jing4.	This is a very quiet street.		
+561	锻炼	鍛煉	duànliàn	duan4lian4	to exercise; work out; toughen; to temper	verb with nominal function				她为了健康锻炼身体。	她為了健康鍛煉身體。	她为了健康[ ]身体。	她為了健康[ ]身體。	Tā wèile jiànkāng duànliàn shēntǐ.	Ta1 wei4le jian4kang1 duan4lian4 shen1ti3.	She exercises for her health.		
+562	感冒	感冒	gǎnmào	gan3mao4	catch cold; (common) cold	verb				因为太冷，她感冒了。	因為太冷，她感冒了。	因为太冷，她[ ]了。	因為太冷，她[ ]了。	Yīnwèi tài lěng, tā gǎnmào le.	Yin1wei4 tai4 leng3, ta1 gan3mao4 le.	It's so cold that she caught a cold.		
+563	爱好	愛好	àihào	ai4hao4	hobby; fond of; to like; interest	noun				他爱好收集模型。	他愛好收集模型。	他[ ]收集模型。	他[ ]收集模型。	Tā àihào shōují móxíng.	Ta1 ai4hao4 shou1ji2 mo2xing2.	His hobby is collecting models.		
+564	超市	超市	chāoshì	chao1shi4	supermarket	noun				我和妈妈去超市。	我和媽媽去超市。	我和妈妈去[ ]。	我和媽媽去[ ]。	Wǒ hé māma qù chāoshì.	Wo3 he2 ma1ma qu4 chao1shi4.	My mom and I are going to the supermarket.		
+565	月亮	月亮	yuèliang	yue4liang5	the moon	noun				今晚的月亮很圆。	今晚的月亮很圓。	今晚的[ ]很圆。	今晚的[ ]很圓。	Jīnwǎn de yuèliang hěn yuán.	Jin1wan3 de yue4liang hen3 yuan2.	Tonight's moon is very round.		
+566	饱	飽	bǎo	bao3	eat until full; satisfied	adjective				我饱了。	我飽了。	我[ ]了。	我[ ]了。	Wǒ bǎo le.	Wo3 bao3 le.	I'm full.		
+567	有名	有名	yǒumíng	you3ming2	famous; well-known	adjective				她是有名的电影明星。	她是有名的電影明星。	她是[ ]的电影明星。	她是[ ]的電影明星。	Tā shì yǒumíng de diànyǐng míngxīng.	Ta1 shi4 you3ming2 de dian4ying3 ming2xing1.	She is a famous movie star.		
+568	香蕉	香蕉	xiāngjiāo	xiang1jiao1	banana	noun				他手里拿着一支香蕉。	他手裡拿著一支香蕉。	他手里拿着一支[ ]。	他手裡拿著一支[ ]。	Tā shǒu lǐ názhe yì zhī xiāngjiāo.	Ta1 shou3 li3 na2zhe yi4 zhi1 xiang1jiao1.	He's holding a banana in his hand.		
+569	笔记本	筆記本	bǐjìběn	bi3ji4ben3	notebook	noun				我没带笔记本。	我沒帶筆記本。	我没带[ ]。	我沒帶[ ]。	Wǒ méi dài bǐjìběn.	Wo3 mei2 dai4 bi3ji4ben3.	I didn't bring my notebook.		
+570	夏	夏	xià	xia4	summer	time word morpheme		下		夏天到了。	夏天到了。	[ ]天到了。	[ ]天到了。	Xiàtiān dào le.	Xia4tian1 dao4 le.	Summer is coming.		
+571	菜单	菜單	càidān	cai4dan1	menu	noun				请 给 我 看 菜单。	請 給 我 看 菜單。	请 给 我 看 [ ]。	請 給 我 看 [ ]。	Qǐng gěi wǒ kàn càidān.	Qing3 gei3 wo3 kan4 cai4dan1.	Please let me see the menu.		
+572	北方	北方	běifāng	bei3fang1	north; the northern part of the country	space word				北方在下雪。	北方在下雪。	[ ]在下雪。	[ ]在下雪。	Běifāng zài xiàxuě.	Bei3fang1 zai4 xia4xue3.	It's snowing in the north.		
+573	上网	上網	shàngwǎng	shang4wang3	to surf the web; to go online	verb				我上网找资料。	我上網找資料。	我[ ]找资料。	我[ ]找資料。	Wǒ shàngwǎng zhǎo zīliào.	Wo3 shang4wang3 zhao3 zi1liao4.	I go online to search for information.		
+574	季节	季節	jìjié	ji4jie2	season; time; period	noun				秋天是收获的季节。	秋天是收穫的季節。	秋天是收获的[ ]。	秋天是收穫的[ ]。	Qiūtiān shì shōuhuò de jìjié.	Qiu1tian1 shi4 shou1huo4 de ji4jie2.	Autumn is the harvest season.		
+575	渴	渴	kě	ke3	thirsty	adjective				他的口很渴。	他的口很渴。	他的口很[ ]。	他的口很[ ]。	Tā de kǒu hěn kě.	Ta1 de kou3 hen3 ke3.	He's very thirsty.		
+576	发烧	發燒	fāshāo	fa1shao1	have a fever	verb				她发烧了。	她發燒了。	她[ ]了。	她[ ]了。	Tā fāshāo le.	Ta1 fa1shao1 le.	She has a fever.		
+577	不但	不但	bụ̀dàn	bu4dan4	not only	conjunction				他不但聪明还很勤奋。	他不但聰明還很勤奮。	他[ ]聪明还很勤奋。	他[ ]聰明還很勤奮。	Tā búdàn cōngmíng hái hěn qínfèn.	Ta1 bu2dan4 cong1ming2 hai2 hen3 qin2fen4.	He is not only smart but also industrious.		
+578	空调	空調	kōngtiáo	kong1tiao2	air-conditioner; air-conditioning	noun				他在修理空调机。	他在修理空調機。	他在修理[ ]机。	他在修理[ ]機。	Tā zài xiūlǐ kōngtiáojī.	Ta1 zai4 xiu1li3 kong1tiao2ji1.	He's repairing the air-conditioner.		
+579	照相机	照相機	zhàoxiàngjī	zhao4xiang4ji1	camera	noun				我有一台数码照相机。	我有一台數碼照相機。	我有一台数码[ ]。	我有一台數碼[ ]。	Wǒ yǒu yì tái shùmǎ zhàoxiàngjī.	Wo3 you3 yi4 tai2 shu4ma3 zhao4xiang4ji1.	I have a digital camera.		
+580	春	春	chūn	chun1	spring (season); joyful	time word morpheme				春天来了。	春天來了。	[ ]天来了。	[ ]天來了。	Chūntiān lái le.	Chun1tian1 lai2 le.	Spring has come.		
+581	伞	傘	sǎn	san3	umbrella; parasol	noun				带把伞出去，避免淋雨。	帶把傘出去，避免淋雨。	带把[ ]出去，避免淋雨。	帶把[ ]出去，避免淋雨。	Dài bǎ sǎn chūqù, bìmiǎn línyǔ.	Dai4 ba3 san3 chu1qu4, bi4mian3 lin2yu3.	Bring along an umbrella to avoid the rain.		
+582	公斤	公斤	gōngjīn	gong1jin1	kilogram	classifier				你的行李超过20公斤了。	你的行李超過20公斤了。	你的行李超过20[ ]了。	你的行李超過20[ ]了。	Nǐ de xíngli chāoguò èrshí gōngjīn le.	Ni3 de xing2li chao1guo4 er4shi2 gong1jin1 le.	Your luggage weighs over 20 kilograms.		
+583	个子	個子	gèzi	ge4zi5	height; stature; build	noun				其中的高个子就是我哥哥。	其中的高個子就是我哥哥。	其中的高[ ]就是我哥哥。	其中的高[ ]就是我哥哥。	Qízhōng de gāogèzi jiù shì wǒ gēge.	Qi2zhong1 de gao1ge4zi jiu4 shi4 wo3 ge1ge.	The tall one of the group is my older brother.		
+584	熊猫	熊貓	xióngmāo	xiong2mao1	panda	noun				熊猫是珍贵的动物。	熊貓是珍貴的動物。	[ ]是珍贵的动物。	[ ]是珍貴的動物。	Xióngmāo shì zhēnguì de dòngwù.	Xiong2mao1 shi4 zhen1gui4 de dong4wu4.	Pandas are precious animals.		
+585	刷牙	刷牙	shuāyá	shua1ya2	brush one's teeth	verb				我每天都刷牙。	我每天都刷牙。	我每天都[ ]。	我每天都[ ]。	Wǒ měi tiān dōu shuāyá.	Wo3 mei3 tian1 dou1 shua1ya2.	I brush my teeth every day.		
+586	复习	復習	fùxí	fu4xi2	review; revise	verb with nominal function				考试前要认真复习。	考試前要認真複習。	考试前要认真[ ]。	考試前要認真複習。	Kǎoshì qián yào rènzhēn fùxí.	Kao3shi4 qian2 yao4 ren4zhen1 fu4xi2.	You must review your lessons well before the examination.		
+587	冬	冬	dōng	dong1	winter	time word morpheme		东		冬天 天气 太 冷 了。	冬天 天氣 太 冷 了。	[ ]天 天气 太 冷 了。	[ ]天 天氣 太 冷 了。	Dōngtiān tiānqì tài lěng le.	Dong1tian1 tian1qi4 tai4 leng3 le.	The winter weather is too cold.		
+588	请假	請假	qǐng jià	qing3 jia4	to ask for time off, ask for leave	verb				他请假了。	他請假了。	他[ ]了。	他[ ]了。	Tā qǐngjià le.	Ta1 qing3jia4 le.	He took a vacation.		
+589	中文	中文	Zhōngwén	Zhong1wen2	Chinese (written) language	other proper noun				中文很难学。	中文很難學。	[ ]很难学。	[ ]很難學。	Zhōngwén hěn nán xué.	Zhong1wen2 hen3 nan2 xue2.	Chinese is very difficult.		
+590	秋	秋	qiū	qiu1	autumn; fall; harvest time	time word morpheme				秋天到了。	秋天到了。	[ ]天到了。	[ ]天到了。	Qiūtiān dào le.	Qiu1tian1 dao4 le.	Autumn is here.		
+591	句子	句子	jùzi	ju4zi5	sentence	noun				这个英文句子是什么意思？	這個英文句子是什麼意思？	这个英文[ ]是什么意思？	這個英文[ ]是什麼意思？	Zhège Yīngwén jùzi shì shénme yìsi?	Zhe4ge Ying1wen2 ju4zi shi4 shen2me yi4si?	What does this English sentence mean?		
+592	行李箱	行李箱	xínglǐxiāng	xing2li3xiang1	trunk; suitcase	noun				请把行李箱打开。		请把[ ]打开。						
+593	筷子	筷子	kuàizi	kuai4zi5	chopsticks	noun				她用筷子吃寿司。	她用筷子吃壽司。	她用[ ]吃寿司。	她用[ ]吃壽司。	Tā yòng kuàizi chī shòusī.	Ta1 yong4 kuai4zi chi1 shou4si1.	She's eating her sushi with chopsticks.		
+594	皮鞋	皮鞋	píxié	pi2xie2	leather shoes	noun				宋 先生 穿 褐色的 皮鞋。	宋 先生 穿 褐色的 皮鞋。	宋 先生 穿 褐色的 [ ]。	宋 先生 穿 褐色的 [ ]。	Sòng xiānsheng chuān hèsède píxié.	Song4 xian1sheng chuan1 he4se4de pi2xie2.	Mr Song is wearing brown leather shoes.		
+595	爬山	爬山	páshān	pa2shan1	mountain climbing	verb				我喜欢爬山。	我喜歡爬山。	我喜欢[ ]。	我喜歡[ ]。	Wǒ xǐhuan páshān.	Wo3 xi3huan pa2shan1.	I like to go climbing.		
+596	黑板	黑板	hēibǎn	hei1ban3	blackboard	noun				她在黑板上写字。	她在黑板上寫字。	她在[ ]上写字。	她在[ ]上寫字。	Tā zài hēibǎn shàng xiězì.	Ta1 zai4 hei1ban3 shang4 xie3zi4.	She is writing on the chalkboard.		
+597	感兴趣	感興趣	gǎn xìngqù	gan3 xing4qu4	be interested in	adjective				她对摄影很感兴趣。	她對攝影很感興趣。	她对摄影很[ ]。	她對攝影很[ ]。	Tā duì shèyǐng hěn gǎn xìngqù.	Ta1 dui4 she4ying3 hen3 gan3 xing4qu4.	She's very interested in photography.		
+598	词典	詞典	cídiǎn	ci2dian3	dictionary	noun				这 是 我的 词典。	這 是 我的 詞典。	这 是 我的 [ ]。	這 是 我的 [ ]。	Zhè shì wǒde cídiǎn.	Zhe4 shi4 wo3de ci2dian3.	This is my dictionary.		
+599	留学	留學	liú xué	liu2 xue2	study abroad	verb				他们是外国留学生。	他們是外國留學生。	他们是外国[ ]生。	他們是外國[ ]生。	Tāmen shì wàiguó liúxuéshēng.	Ta1men shi4 wai4guo2 liu2xue2sheng1.	They're foreign students.		
+600	刮风	刮風	guāfēng	gua1feng1	windy; to blow (wind)	verb				今天刮风了，别骑自行车了。		今天[ ]了，别骑自行车了。						
+601	黄河	黃河	huánghé	huang2he2	Yellow River	place name				黄河是中国的第二大河。	黃河是中國的第二大河。	[ ]是中国的第二大河。	[ ]是中國的第二大河。	Huánghé shì Zhōngguó de dì èr dà hé.	Huang2he2 shi4 Zhong1guo2 de di4 er4 da4 he2.	The Yellow River is the second longest river in China.		
+602	得	得	dé	de2	get; obtain; win; earn	verb			homograph	他得到了礼物。	他得到了禮物。	他[ ]到了礼物。	他[ ]到了禮物。	Tā dédàole lǐwù.	Ta1 de2dao4le li3wu4.	He received a gift.		
+603	死	死	sǐ	si3	to die; dead; fixed; impassible; extremely	verb				这条鱼死了。	這條魚死了。	这条鱼[ ]了。	這條魚[ ]了。	Zhè tiáo yú sǐ le.	Zhe4 tiao2 yu2 si3 le.	This fish has died.		
+604	干	干	gàn	gan4	to work; do; manage; tree trunk (Kangxi radical 51)	verb				你在干什么？	你在幹什麼？	你在[ ]什么？	你在幹什麼？	Nǐ zài gàn shénme?	Ni3 zai4 gan4 shen2me?	What are you doing?		
+605	而	而	ér	er2	and; but; yet; while (Kangxi radical 126)	conjunction				她年轻而美丽。	她年輕而美麗。	她年轻[ ]美丽。	她年輕[ ]美麗。	Tā niánqīng ér měilì.	Ta1 nian2qing1 er2 mei3li4.	She's young and beautiful.		
+606	等	等	děng	deng3	to wait; rank; equal; etc.	verb				大家在等公车。	大家在等公車。	大家在[ ]公车。	大家在[ ]公車。	Dàjiā zài děng gōngchē.	Da4jia1 zai4 deng3 gong1che1.	People are waiting for the bus.		
+607	当	當	dāng	dang1	should; act as; work as; manage; match; (sound of bells)	verb				她想当老师。	她想當老師。	她想[ ]老师。	她想[ ]老師。	Tā xiǎng dāng lǎoshī.	Ta1 xiang3 dang1 lao3shi1.	She wants to become a teacher.		
+608	所有	所有	suǒyǒu	suo3you3	all; to have; to possess	non-predicate adjective				所有人都笑了。	所有人都笑了。	[ ]人都笑了。	[ ]人都笑了。	Suǒyǒu rén dōu xiào le.	Suo3you3 ren2 dou1 xiao4 le.	Everyone laughed.		
+609	也许	也許	yěxǔ	ye3xu3	perhaps; probably; maybe	adverb				我也许周末去你那儿。	我也許週末去你那兒。	我[ ]周末去你那儿。	我[ ]週末去你那兒。	Wǒ yěxǔ zhōumò qù nǐ nàr.	Wo3 ye3xu3 zhou1mo4 qu4 ni3 na4r.	I might go to your place over the weekend.		
+610	行	行	xíng	xing2	go; ok; alright; capable	verb				行，就这么办！	行，就這麼辦！	[ ]，就这么办！	[ ]，就這麼辦！	Xíng, jiù zhème bàn!	Xing2, jiu4 zhe4me ban4!	OK, let's do it this way!		
+611	不过	不過	bùguò	bu2guo4	but; however; only	conjunction				我吃完了，不过还是很饿。	我吃完了，不過還是很餓。	我吃完了，[ ]还是很饿。	我吃完了，[ ]還是很餓。	Wǒ chīwán le, búguò háishi hěn è.	Wo3 chi1wan2 le, bu2guo4 hai2shi hen3 e4.	I finished eating, but I'm still hungry.		
+612	发生	發生	fāshēng	fa1sheng1	happen; occur; take place	verb				发生了什么事？	發生了什麼事？	[ ]了什么事？	[ ]了什麼事？	Fāshēngle shénme shì?	Fa1sheng1le shen2me shi4?	What happened?		
+613	一切	一切	yị̄qiè	yi2qie4	all; every; everything	pronoun				一切都要听我的。	一切都要聽我的。	[ ]都要听我的。	[ ]都要聽我的。	Yíqiè dōu yào tīng wǒ de.	Yi2qie4 dou1 yao4 ting1 wo3 de.	Everyone must listen to me regarding all matters.		
+614	抱	抱	bào	bao4	to hold; to hug; carry in one's arms; to cradle	verb				他们紧紧地抱在一起。	他們緊緊地抱在一起。	他们紧紧地[ ]在一起。	他們緊緊地[ ]在一起。	Tāmen jǐnjǐn de bào zài yīqǐ.	Ta1men jin3jin3 de bao4 zai4 yi1qi3.	They hug each other tightly.		
+615	抱歉	抱歉	bàoqiàn	bao4qian4	be sorry; feel apologetic; to regret	adjective												
+616	感觉	感覺	gǎnjué	gan3jue2	to feel; become aware of; feeling	noun				我突然有种奇怪的感觉。	我突然有種奇怪的感覺。	我突然有种奇怪的[ ]。	我突然有種奇怪的[ ]。	Wǒ tūrán yǒu zhǒng qíguài de gǎnjué.	Wo3 tu1ran2 you3 zhong3 qi2guai4 de gan3jue2.	I suddenly had a strange feeling.		
+617	肯定	肯定	kěndìng	ken3ding4	sure; definite; affirm; approve	verb				我肯定他在说谎！	我肯定他在說謊！	我[ ]他在说谎！	我[ ]他在說謊！	Wǒ kěndìng tā zài shuōhuǎng!	Wo3 ken3ding4 ta1 zai4 shuo1huang3!	I'm sure he was lying!		
+618	棒	棒	bàng	bang4	stick; club; good; excellent	noun morpheme				我想打棒球。	我想打棒球。	我想打[ ]球。	我想打[ ]球。	Wǒ xiǎng dǎ bàngqiú.	Wo3 xiang3 da3 bang4qiu2.	I want to play baseball.		
+619	以	以	yǐ	yi3	to use; according to; so as to; for; by	preposition		乙		他以务农为生。	他以務農為生。	他[ ]务农为生。	他[ ]務農為生。	Tā yǐ wùnóng wéishēng.	Ta1 yi3 wu4nong2 wei2sheng1.	He makes a living by farming.		
+620	以为	以為	yǐwéi	yi3wei2	think (mistakenly); consider (that); believe	verb				我以为你已经回家了。	我以為你已經回家了。	我[ ]你已经回家了。	我[ ]你已經回家了。	Wǒ yǐwéi nǐ yǐjīng huíjiā le.	Wo3 yi3wei2 ni3 yi3jing1 hui2jia1 le.	I thought you had already gone home.		
+621	掉	掉	diào	diao4	to drop; to fall	verb		钓，吊		树叶掉在地上。	樹葉掉在地上。	树叶[ ]在地上。	樹葉[ ]在地上。	Shùyè diào zài dìshang.	Shu4ye4 diao4 zai4 di4shang.	The tree leaves have fallen to the ground.		
+622	生活	生活	shēnghuó	sheng1huo2	life; livelihood; to live	verb with nominal function				他们的生活很幸福。	他們的生活很幸福。	他们的[ ]很幸福。	他們的[ ]很幸福。	Tāmen de shēnghuó hěn xìngfú.	Ta1men de sheng1huo2 hen3 xing4fu2.	They have happy lives.		
+623	之	之	zhī	zhi1	(literary equivalent to 的); (pronoun); of	auxiliary		支，枝		长城是七大奇迹之一。	長城是七大奇跡之一。	长城是七大奇迹[ ]一。	長城是七大奇跡[ ]一。	Chángchéng shì qī dà qíjì zhī yī.	Chang2cheng2 shi4 qi1 da4 qi2ji4 zhi1 yi1.	The Great Wall is one of the seven wonders of the world.		
+624	任何	任何	rènhé	ren4he2	any; whatever; whichever	pronoun				我想去任何地方。	我想去任何地方。	我想去[ ]地方。	我想去[ ]地方。	Wǒ xiǎng qù rènhé dìfang.	Wo3 xiang3 qu4 ren4he2 di4fang.	I want to go somewhere.		
+625	与	與	yǔ	yu3	(formal) and; to give; together with; participate; final particle expressing doubt or surprise	preposition				他与我同龄。	他與我同齡。	他[ ]我同龄。	他[ ]我同齡。	Tā yǔ wǒ tónglíng.	Ta1 yu3 wo3 tong2ling2.	He and I are the same age.		
+626	弄	弄	nòng	nong4, long4	do; manage; to handle; make	verb				那个小朋友在弄什么？	那個小朋友在弄什麼？	那个小朋友在[ ]什么？	那個小朋友在[ ]什麼？	Nàge xiǎopéngyou zài nòng shénme?	Na4ge xiao3peng2you zai4 nong4 shen2me?	What's that small child doing?		
+627	却	卻	què	que4	but; yet; however	adverb				爸爸安慰她，她却不开心。	爸爸安慰她，她卻不開心。	爸爸安慰她，她[ ]不开心。	爸爸安慰她，她[ ]不開心。	Bàba ānwèi tā, tā què bù kāixīn.	Ba4ba an1wei4 ta1, ta1 que4 bu4 kai1xin1.	Although her father comforted her, she was still unhappy.		
+628	继续	繼續	jìxù	ji4xu4	to continue; to go on; to proceed	verb				请继续说。	請繼續說。	请[ ]说。	請[ ]說。	Qǐng jìxù shuō.	Qing3 ji4xu4 shuo1.	Please keep speaking.		
+629	够	夠	gòu	gou4	enough; to reach	verb				我已经吃够了。	我已經吃夠了。	我已经吃[ ]了。	我已經吃[ ]了。	Wǒ yǐjing chīgòu le.	Wo3 yi3jing chi1gou4 le.	I've had enough.		
+630	父亲	父親	fùqin	fu4qin5	father	noun				这是我的父亲。	這是我的父親。	这是我的[ ]。	這是我的[ ]。	Zhè shì wǒ de fùqin.	Zhe4 shi4 wo3 de fu4qin.	This is my father.		
+631	完全	完全	wánquán	wan2quan2	complete; whole; totally	adjective as adverbial				天完全黑了。	天完全黑了。	天[ ]黑了。	天[ ]黑了。	Tiān wánquán hēi le.	Tian1 wan2quan2 hei1 le.	The sky turned completely dark.		
+632	可是	可是	kěshì	ke3shi4	but; however	conjunction				下雨了，可是我还是要出门。	下雨了，可是我還是要出門。	下雨了，[ ]我还是要出门。	下雨了，[ ]我還是要出門。	Xiàyǔ le, kěshì wǒ háishi yào chūmén.	Xia4yu3 le, ke3shi4 wo3 hai2shi yao4 chu1men2.	Even though it's raining I still have to go out.		
+633	谈	談	tán	tan2	to talk; to chat; discuss	verb				他们在谈什么？	他們在談什麼？	他们在[ ]什么？	他們在[ ]什麼？	Tāmen zài tán shénme?	Ta1men zai4 tan2 shen2me?	What are they talking about?		
+634	好像	好像	hǎoxiàng	hao3xiang4	as if; seem to be	verb				天好像要下雨了。	天好像要下雨了。	天[ ]要下雨了。	天[ ]要下雨了。	Tiān hǎoxiàng yào xiàyǔ le.	Tian1 hao3xiang4 yao4 xia4yu3 le.	It seems that it it is going to rain.		
+635	警察	警察	jǐngchá	jing3cha2	police	noun				警察设了分界线。	警察設了分界線。	[ ]设了分界线。	[ ]設了分界線。	Jǐngchá shèle fēnjièxiàn.	Jing3cha2 she4le fen1jie4xian4.	The police put up a cordon.		
+636	场	場	chǎng	chang3	courtyard; place; field; (mw for games, performances, etc.)	classifier				球场上划有白线。	球場上劃有白線。	球[ ]上划有白线。	球[ ]上劃有白線。	Qiúchǎng shàng huà yǒu bái xiàn.	Qiu2chang3 shang4 hua4 you3 bai2 xian4.	There are while lines drawn on the field.		
+637	刚	剛	gāng	gang1	just (indicating the immediate past); recently; firm	adverb				午饭才刚开始。	午飯才剛開始。	午饭才[ ]开始。	午飯才[ ]開始。	Wǔfàn cái gāng kāishǐ.	Wu3fan4 cai2 gang1 kai1shi3.	Lunch has just started.		
+638	呀	呀	ya	ya5,	ah; oh; (used for 啊 after words ending with a, e, i, o, or ü)	modal particle				世界真大呀！	世界真大呀！	世界真大[ ]！	世界真大[ ]！	Shìjiè zhēn dà ya!	Shi4jie4 zhen1 da4 ya!	The world is really big!		
+639	情况	情況	qíngkuàng	qing2kuang4	circumstance; state of affairs; situation	noun				他的身体情况不好。	他的身體情況不好。	他的身体[ ]不好。	他的身體[ ]不好。	Tā de shēntǐ qíngkuàng bù hǎo.	Ta1 de shen1ti3 qing2kuang4 bu4 hao3.	He's not in good condition.		
+640	只要	隻要	zhǐyào	zhi3yao4	so long as; if only; provided that	conjunction				只要不下雨就行。	只要不下雨就行。	[ ]不下雨就行。	只要不下雨就行。	Zhǐyào bú xiàyǔ jiù xíng.	Zhi3yao4 bu2 xia4yu3 jiu4 xing2.	It would be great if it didn't rain.		
+641	份	份	fèn	fen4	part; portion; (mw for documents, papers, jobs, etc.)	classifier				我点了一份比萨。	我點了一份比薩。	我点了一[ ]比萨。	我點了一[ ]比薩。	Wǒ diǎnle yī fèn bǐsà.	Wo3 dian3le yi1 fen4 bi3sa4.	I've ordered a piece of pizza.		
+642	底	底	dǐ	di3	bottom; background; base	directional locality				杯子底裂了。	杯子底裂了。	杯子[ ]裂了。	杯子[ ]裂了。	Bēizi dǐ liè le.	Bei1zi di3 lie4 le.	The bottom of the cup is cracked.		
+643	到底	到底	dào dǐ	dao4 di3	after all; in the end (used in a question)	adverb				宇宙到底有多大？	宇宙到底有多大？	宇宙[ ]有多大？	宇宙[ ]有多大？	Yǔzhòu dàodǐ yǒu duō dà?	Yu3zhou4 dao4di3 you3 duo1 da4?	How big is the universe?		
+644	成为	成為	chéngwéi	cheng2wei2	become; turn into	verb				她成为一名护士。	她成為一名護士。	她[ ]一名护士。	她[ ]一名護士。	Tā chéngwéi yī míng hùshi.	Ta1 cheng2wei2 yi1 ming2 hu4shi.	She's become a nurse.		
+645	永远	永遠	yǒngyuǎn	yong3yuan3	forever; eternal; always	adverb				我们一家人永远不分离。	我們一家人永遠不分離。	我们一家人[ ]不分离。	我們一家人[ ]不分離。	Wǒmen yījiārén yǒngyuǎn bù fēnlí.	Wo3men yi1jia1ren2 yong3yuan3 bu4 fen1li2.	Our family will never be separated.		
+646	安全	安全	ānquán	an1quan2	safe; safety; secure; security	adjective with nominal function				开车要注意安全。	開車要注意安全。	开车要注意[ ]。	開車要注意[ ]。	Kāichē yào zhùyì ān quán.	Kai1che1 yao4 zhu4yi4 an1 quan2.	"We need to be cautious (lit., ""pay attention to safety"") when driving."		
+647	留	留	liú	liu2	to leave (behind, a message); to retain; to stay	verb				把美好的回忆留在心中。	把美好的回憶留在心中。	把美好的回忆[ ]在心中。	把美好的回憶[ ]在心中。	Bǎ měihǎo de huíyì liú zài xīnzhōng.	Ba3 mei3hao3 de hui2yi4 liu2 zai4 xin1zhong1.	Hold your beautiful memories in your heart.		
+648	计划	計劃	jìhuà	ji4hua4	plan; project	noun				我计划周末去旅行。	我計劃週末去旅行。	我[ ]周末去旅行。	我[ ]週末去旅行。	Wǒ jìhuà zhōumò qù lǚxíng.	Wo3 ji4hua4 zhou1mo4 qu4 lv3xing2.	I plan to take a trip on the weekend.		
+649	俩	倆	liǎ	lia3	(colloquial) two (people)	numeral				他们俩的感情很不错。	他們倆的感情很不錯。	他们[ ]的感情很不错。	他們[ ]的感情很不錯。	Tāmen liǎ de gǎnqíng hěn bùcuò.	Ta1men lia3 de gan3qing2 hen3 bu4cuo4.	They have a close relationship.		
+650	停	停	tíng	ting2	to stop; to halt; to park (a car)	verb				雨停了。	雨停了。	雨[ ]了。	雨[ ]了。	Yǔ tíng le.	Yu3 ting2 le.	The rain has stopped.		
+651	感谢	感謝	gǎnxiè	gan3xie4	thank; be grateful	verb				他对你表示感谢。	他對你表示感謝。	他对你表示[ ]。	他對你表示[ ]。	Tā duì nǐ biǎoshì gǎnxiè.	Ta1 dui4 ni3 biao3shi4 gan3xie4.	He expressed his gratitude towards you.		
+652	敢	敢	gǎn	gan3	to dare	adverb morpheme		赶		我不敢游泳。	我不敢游泳。	我不[ ]游泳。	我不[ ]游泳。	Wǒ bù gǎn yóuyǒng.	Wo3 bu4 gan3 you2yong3.	I'm afraid to swim.		
+653	从来	從來	cónglái	cong2lai2	have always (from the beginning); never (with negative)	adverb				他很诚实，从来不说谎。	他很誠實，從來不說謊。	他很诚实，[ ]不说谎。	他很誠實，[ ]不說謊。	Tā hěn chéngshí, cónglái bù shuōhuǎng.	Ta1 hen3 cheng2shi2, cong2lai2 bu4 shuo1huang3.	He's very honest, and never lies.		
+654	赢	贏	yíng	ying2	to win; to beat; to profit	verb				结果他们赢了。	結果他們贏了。	结果他们[ ]了。	結果他們[ ]了。	Jiéguǒ tāmen yíng le.	Jie2guo3 ta1men ying2 le.	They ended up winning.		
+655	消息	消息	xiāoxi	xiao1xi5	news; information	noun				他在看报纸的最新消息。	他在看報紙的最新消息。	他在看报纸的最新[ ]。	他在看報紙的最新[ ]。	Tā zài kàn bàozhǐ de zuìxīn xiāoxi.	Ta1 zai4 kan4 bao4zhi3 de zui4xin1 xiao1xi.	He's reading the latest news in the paper.		
+656	拉	拉	lā	la1	to pull; to play (string instruments); to drag	verb				他教我拉小提琴。	他教我拉小提琴。	他教我[ ]小提琴。	他教我[ ]小提琴。	Tā jiāo wǒ lā xiǎotíqín.	Ta1 jiao1 wo3 la1 xiao3ti2qin2.	He's teaching me to play the violin.		
+657	原因	原因	yuányīn	yuan2yin1	cause; reason	noun				你迟到是什么原因？	你遲到是什麼原因？	你迟到是什么[ ]？	你遲到是什麼[ ]？	Nǐ chídào shì shénme yuányīn?	Ni3 chi2dao4 shi4 shen2me yuan2yin1?	What's your reason for being late?		
+658	连	連	lián	lian2	even; including; join	auxiliary				她甚至连晚饭都没吃。	她甚至連晚飯都沒吃。	她甚至[ ]晚饭都没吃。	她甚至[ ]晚飯都沒吃。	Tā shènzhì lián wǎnfàn dōu méi chī.	Ta1 shen4zhi4 lian2 wan3fan4 dou1 mei2 chi1.	She didn't even have supper.		
+659	确实	確實	quèshí	que4shi2	indeed; in truth; reliable	adjective as adverbial				我 确实 不 喜欢 傲慢 的 人。	我 確實 不 喜歡 傲慢 的 人。	我 [ ] 不 喜欢 傲慢 的 人。	我 [ ] 不 喜歡 傲慢 的 人。	Wǒ quèshí bù xǐhuan àomàn de rén.	Wo3 que4shi2 bu4 xi3huan ao4man4 de ren2.	I really don't like arrogant people.		
+660	挺	挺	tǐng	ting3	straighten up; stick out; rather (good); very	adverb				他对我挺好的。	他對我挺好的。	他对我[ ]好的。	他對我[ ]好的。	Tā duì wǒ tǐng hǎo de.	Ta1 dui4 wo3 ting3 hao3 de.	He is very kind to me.		
+661	保证	保証	bǎozhèng	bao3zheng4	to guarantee; ensure	verb				我保证把工作做好。	我保證把工作做好。	我[ ]把工作做好。	我保證把工作做好。	Wǒ bǎozhèng bǎ gōngzuò zuòhǎo.	Wo3 bao3zheng4 ba3 gong1zuo4 zuo4hao3.	I promise to do the job well.		
+662	接受	接受	jiēshòu	jie1shou4	accept; receive (honors, etc.)	verb				她接受了我的礼物。	她接受了我的禮物。	她[ ]了我的礼物。	她[ ]了我的禮物。	Tā jiēshòule wǒ de lǐwù.	Ta1 jie1shou4le wo3 de li3wu4.	She accepted my gift.		
+663	改变	改變	gǎibiàn	gai3bian4	to change; alter; to transform	verb				他让我们改变了看法。	他讓我們改變了看法。	他让我们[ ]了看法。	他讓我們[ ]了看法。	Tā ràng wǒmen gǎibiànle kànfǎ.	Ta1 rang4 wo3men gai3bian4le kan4fa3.	He made us change our views.		
+664	麻烦	麻煩	máfan	ma2fan5	trouble (someone); troubling; bothersome	adjective with nominal function				这件事有点麻烦。	這件事有點麻煩。	这件事有点[ ]。	這件事有點[ ]。	Zhè jiàn shì yǒudiǎn máfan.	Zhe4 jian4 shi4 you3dian3 ma2fan.	This is a little troublesome.		
+665	出现	出現	chūxiàn	chu1xian4	appear; arise; emerge	verb				太阳出现在地平线上。	太陽出現在地平線上。	太阳[ ]在地平线上。	太陽[ ]在地平線上。	Tàiyáng chūxiàn zài dìpíngxiàn shàng.	Tai4yang2 chu1xian4 zai4 di4ping2xian4 shang4.	The sun appeared on the horizon.		
+666	不管	不管	bùguǎn	bu4guan3	no matter (what, how, etc.); regardless of	conjunction				不管下不下雨，她都带伞。	不管下不下雨，她都帶傘。	[ ]下不下雨，她都带伞。	[ ]下不下雨，她都帶傘。	Bùguǎn xià bú xiàyǔ, tā dōu dài sǎn.	Bu4guan3 xia4 bu2 xia4yu3, ta1 dou1 dai4 san3.	She carries an umbrella whether or not it's raining.		
+667	甚至	甚至	shènzhì	shen4zhi4	even (to the point of); so much so that	adverb				他很激动，甚至连话都说不出来了。	他很激動，甚至連話都說不出來了。	他很激动，[ ]连话都说不出来了。	他很激動，[ ]連話都說不出來了。	Tā hěn jīdòng, shènzhì lián huà dōu shuō bu chūlái le.	Ta1 hen3 ji1dong4, shen4zhi4 lian2 hua4 dou1 shuo1 bu chu1lai2 le.	He was so excited that he couldn't utter a word.		
+668	保护	保護	bǎohù	bao3hu4	to protect; to defend	verb with nominal function				我们要保护环境。	我們要保護環境。	我们要[ ]环境。	我們要[ ]環境。	Wǒmen yào bǎohù huánjìng.	Wo3men yao4 bao3hu4 huan2jing4.	We must protect the environment.		
+669	真正	真正	zhēnzhèng	zhen1zheng4	genuine; real; true	adverb				他们是真正的朋友。	他們是真正的朋友。	他们是[ ]的朋友。	他們是[ ]的朋友。	Tāmen shì zhēnzhèng de péngyou.	Ta1men shi4 zhen1zheng4 de peng2you.	They are true friends.		
+670	结果	結果	jiéguǒ	jie2guo3	result; outcome; finally	noun				还不知道选举的结果。	還不知道選舉的結果。	还不知道选举的[ ]。	還不知道選舉的[ ]。	Hái bù zhīdào xuǎnjǔ de jiéguǒ.	Hai2 bu4 zhi1dao4 xuan3ju3 de jie2guo3.	We don't know the election results yet.		
+671	当时	當時	dāngshí	dang1shi2	then; at that time; while	time word				当时我不在公司。	當時我不在公司。	[ ]我不在公司。	[ ]我不在公司。	Dāngshí wǒ bú zài gōngsī.	Dang1shi2 wo3 bu2 zai4 gong1si1.	I wasn't in the company at that time.		
+672	至少	至少	zhìshǎo	zhi4shao3	at least; (to say the) least	adverb				他至少40岁了。	他至少40歲了。	他[ ]40岁了。	他[ ]40歲了。	Tā zhìshǎo sìshí suì le.	Ta1 zhi4shao3 si4shi2 sui4 le.	He's at least 40 years old.		
+673	律师	律師	lǜshī	lv4shi1	lawyer	noun				这件事我已经咨询了律师。	這件事我已經諮詢了律師。	这件事我已经咨询了[ ]。	這件事我已經諮詢了[ ]。	Zhè jiàn shì wǒ yǐjīng zīxúnle lǜshī.	Zhe4 jian4 shi4 wo3 yi3jing1 zi1xun2le lv4shi1.	I've already sought the advice of a lawyer regarding this problem.		
+674	表演	表演	biǎoyǎn	biao3yan3	perform; to play	verb with nominal function				他在讲台上发表演讲。	他在講臺上發表演講。	他在讲台上发[ ]讲。	他在講臺上發[ ]講。	Tā zài jiǎngtái shàng fābiǎo yǎnjiǎng.	Ta1 zai4 jiang3tai2 shang4 fa1biao3 yan3jiang3.	He's standing at the dais making a speech.		
+675	无	無	wú	wu2	have not; without; not (Kangxi radical 71)	verb				室内无人。	室內無人。	室内[ ]人。	室內[ ]人。	Shìnèi wú rén.	Shi4nei4 wu2 ren2.	There is nobody in the room.		
+676	猜	猜	cāi	cai1	to guess	verb				猜猜里面是什么？	猜猜裏面是什麼？	[ ][ ]里面是什么？	[ ][ ]裏面是什麼？	Cāicai lǐmiàn shì shénme?	Cai1cai li3mian4 shi4 shen2me?	Guess what's inside.		
+677	咱们	咱們	zánmen	zan2men5	we (including the listener); us; our	pronoun				咱们北京见！	咱們北京見！	[ ]北京见！	[ ]北京見！	Zánmen Běijīng jiàn!	Zan2men Bei3jing1 jian4!	Let's meet in Beijing.		
+678	进行	進行	jìnxíng	jin4xing2	carry on; carry out; undertake	verb				联合国对难民进行救济。	聯合國對難民進行救濟。	联合国对难民[ ]救济。	聯合國對難民[ ]救濟。	Liánhéguó duì nànmín jìnxíng jiùjì.	Lian2he2guo2 dui4 nan4min2 jin4xing2 jiu4ji4.	The United Nations is providing relief to the refugees.		
+679	内	內	nèi	nei4	inside; inner; internal; within	directional locality				屋内很暖。	屋內很暖。	屋[ ]很暖。	屋[ ]很暖。	Wūnèi hěn nuǎn.	Wu1nei4 hen3 nuan3.	It's warm inside the house.		
+680	是否	是否	shìfǒu	shi4fou3	whether (or not); if	verb				你是否喜欢这些花？	你是否喜歡這些花？	你[ ]喜欢这些花？	你[ ]喜歡這些花？	Nǐ shìfǒu xǐhuan zhèxiē huā?	Ni3 shi4fou3 xi3huan zhe4xie1 hua1?	Do you like these flowers?		
+681	调查	調查	diàochá	diao4cha2	investigate; survey; inquiry	verb with nominal function				我们对客户进行了问卷调查。	我們對客戶進行了問卷調查。	我们对客户进行了问卷[ ]。	我們對客戶進行了問卷[ ]。	Wǒmen duì kèhù jìnxíngle wènjuàn diàochá.	Wo3men dui4 ke4hu4 jin4xing2le wen4juan4 diao4cha2.	We did a survey of our clients.		
+682	成功	成功	chénggōng	cheng2gong1	success; to succeed	adjective				他们取得了成功。	他們取得了成功。	他们取得了[ ]。	他們取得了[ ]。	Tāmen qǔdéle chénggōng.	Ta1men qu3de2le cheng2gong1.	They were very successful.		
+683	考虑	考慮	kǎolǜ	kao3lv4	think over; consider	verb				让我考虑一下。	讓我考慮一下。	让我[ ]一下。	讓我[ ]一下。	Ràng wǒ kǎolǜ yī xià.	Rang4 wo3 kao3lv4 yi1 xia4.	Let me think it over.		
+684	约会	約會	yuēhuì	yue1hui4	appointment; engagement; date	verb				他约会迟到了，向女朋友道歉。	他約會遲到了，向女朋友道歉。	他[ ]迟到了，向女朋友道歉。	他[ ]遲到了，向女朋友道歉。	Tā yuēhuì chídào le, xiàng nǚ péngyou dàoqiàn.	Ta1 yue1hui4 chi2dao4 le, xiang4 nv3 peng2you dao4qian4.	He apologized to his girlfriend because he was late for the date.		
+685	通过	通過	tōngguò	tong1guo4	by means of; through (a method); pass through; via	preposition				他们通过协商解决问题。	他們通過協商解決問題。	他们[ ]协商解决问题。	他們[ ]協商解決問題。	Tāmen tōngguò xiéshāng jiějué wèntí.	Ta1men tong1guo4 xie2shang1 jie3jue2 wen4ti2.	They solved the problem through negotiation.		
+686	开心	開心	kāixīn	kai1xin1	feel happy; have a great time; make fun of somebody	adjective				他们活得很开心。	他們活得很開心。	他们活得很[ ]。	他們活得很[ ]。	Tāmen huó de hěn kāixīn.	Ta1men huo2 de hen3 kai1xin1.	They're living a happy life.		
+687	母亲	母親	mǔqin	mu3qin5	mother	noun				我爱我的母亲。	我愛我的母親。	我爱我的[ ]。	我愛我的[ ]。	Wǒ ài wǒ de mǔqin.	Wo3 ai4 wo3 de mu3qin.	I love my mother.		
+688	主意	主意	zhǔyi	zhu3yi5	plan; idea; decision	noun				我觉得这个主意不错。	我覺得這個主意不錯。	我觉得这个[ ]不错。	我覺得這個[ ]不錯。	Wǒ juéde zhège zhǔyi búcuò.	Wo3 jue2de zhe4ge zhu3yi bu2cuo4.	I think that's a good idea.		
+689	倒	倒	dǎo	dao3	to collapse; to fall; fail; to exchange	verb				箱子倒了。	箱子倒了。	箱子[ ]了。	箱子[ ]了。	Xiāngzi dǎo le.	Xiang1zi dao3 le.	The box fell.		
+690	解释	解釋	jiěshì	jie3shi4	to explain	verb				他解释了自己的方案。	他解釋了自己的方案。	他[ ]了自己的方案。	他[ ]了自己的方案。	Tā jiěshìle zìjǐ de fāng'àn.	Ta1 jie3shi4le zi4ji3 de fang1'an4.	He explained his plan.		
+691	联系	聯系	liánxì	lian2xi4	integrate; link; connection; contact	verb				我们经常联系。	我們經常聯繫。	我们经常[ ]。	我們經常聯繫。	Wǒmen jīngcháng liánxì.	Wo3men jing1chang2 lian2xi4.	We keep in touch regularly.		
+692	证明	証明	zhèngmíng	zheng4ming2	proof; testify; confirm; certificate	verb				电脑记录证明了我的想法是对的。	電腦記錄證明了我的想法是對的。	电脑记录[ ]了我的想法是对的。	電腦記錄證明了我的想法是對的。	Diànnǎo jìlù zhèngmíngle wǒ de xiǎngfa shì duì de.	Dian4nao3 ji4lu4 zheng4ming2le wo3 de xiang3fa shi4 dui4 de.	The computer records prove that my ideas were correct.		
+693	生命	生命	shēngmìng	sheng1ming4	life	noun				我们要爱护生命。	我們要愛護生命。	我们要爱护[ ]。	我們要愛護[ ]。	Wǒmen yào àihù shēngmìng.	Wo3men yao4 ai4hu4 sheng1ming4.	We should love and protect all lives.		
+694	难道	難道	nándào	nan2dao4	could it be that ...?; don't tell me ...	adverb												
+695	由	由	yóu	you2	follow; from; by; through	preposition				新书的序言由他执笔。	新書的序言由他執筆。	新书的序言[ ]他执笔。	新書的序言[ ]他執筆。	Xīnshū de xùyán yóu tā zhíbǐ.	Xin1shu1 de xu4yan2 you2 ta1 zhi2bi3.	The new book's preface is written by him.		
+696	指	指	zhǐ	zhi3	finger; to point (at, to, out); refer to	verb		只		她的手指很漂亮。	她的手指很漂亮。	她的手[ ]很漂亮。	她的手[ ]很漂亮。	Tā de shǒuzhǐ hěn piàoliang.	Ta1 de shou3zhi3 hen3 piao4liang.	Her fingers are very beautiful.		
+697	危险	危險	wēixiǎn	wei1xian3	danger; dangerous; perilous	adjective with nominal function				骑摩托车很危险。	騎摩托車很危險。	骑摩托车很[ ]。	騎摩托車很[ ]。	Qí mótuōchē hěn wēixiǎn.	Qi2 mo2tuo1che1 hen3 wei1xian3.	Riding a motorbike is very dangerous.		
+698	讨厌	討厭	tǎoyàn	tao3yan4	to hate; loathe; disgusting; troublesome	verb				我讨厌你的行为。	我討厭你的行為。	我[ ]你的行为。	我[ ]你的行為。	Wǒ tǎoyàn nǐ de xíngwéi.	Wo3 tao3yan4 ni3 de xing2wei2.	I hate what you've done.		
+699	醒	醒	xǐng	xing3	wake up	verb				闹钟响了，但是他没醒。	鬧鐘響了，但是他沒醒。	闹钟响了，但是他没[ ]。	鬧鐘響了，但是他沒[ ]。	Nàozhōng xiǎng le, dànshì tā méi xǐng.	Nao4zhong1 xiang3 le, dan4shi4 ta1 mei2 xing3.	The alarm clock has rung, but he hasn't yet woken up.		
+700	样子	樣子	yàngzi	yang4zi5	manner; air; appearance; looks	noun				这双鞋的样子很好看。	這雙鞋的樣子很好看。	这双鞋的[ ]很好看。	這雙鞋的[ ]很好看。	Zhè shuāng xié de yàngzi hěn hǎokàn.	Zhe4 shuang1 xie2 de yang4zi hen3 hao3kan4.	This pair of shoes looks beautiful.		
+701	有趣	有趣	yǒuqù	you3qu4	interesting; fascinating; amusing	adjective				这个故事真有趣呀。	這個故事真有趣呀。	这个故事真[ ]呀。	這個故事真[ ]呀。	Zhège gùshi zhēn yǒuqù ya.	Zhe4ge gu4shi zhen1 you3qu4 ya.	This story is really interesting.		
+702	提	提	tí	ti2	to carry; to lift; to raise (an issue)	verb		题		我的收入提高了。	我的收入提高了。	我的收入[ ]高了。	我的收入[ ]高了。	Wǒ de shōurù tígāo le.	Wo3 de shou1ru4 ti2gao1 le.	My income went up.		
+703	部分	部分	bùfen	bu4fen5	part; share; section	noun				实验部分很重要。	實驗部分很重要。	实验[ ]很重要。	實驗[ ]很重要。	Shíyàn bùfen hěn zhòngyào.	Shi2yan4 bu4fen hen3 zhong4yao4.	The experimental part is very important.		
+704	理解	理解	lǐjiě	li3jie3	comprehend; understand	verb				我不理解你说的话。	我不理解你說的話。	我不[ ]你说的话。	我不[ ]你說的話。	Wǒ bù lǐjiě nǐ shuō de huà.	Wo3 bu4 li3jie3 ni3 shuo1 de hua4.	I don't understand what you said.		
+705	重	重	zhòng	zhong4	heavy; serious; important	adjective				这些苹果重5斤。	這些蘋果重5斤。	这些苹果[ ]5斤。	這些蘋果[ ]5斤。	Zhèxiē píngguǒ zhòng wǔ jīn.	Zhe4xie1 ping2guo3 zhong4 wu3 jin1.	These apples weigh five pounds.		
+706	任务	任務	rènwu	ren4wu5	a mission; an assignment; a task	noun				士兵在执行一项任务。	士兵在執行一項任務。	士兵在执行一项[ ]。	士兵在執行一項[ ]。	Shìbīng zài zhíxíng yī xiàng rènwu.	Shi4bing1 zai4 zhi2xing2 yi1 xiang4 ren4wu.	The soldiers are on a mission.		
+707	使	使	shǐ	shi3	to use; to make; to cause; enable; envoy; messenger	verb				这支笔不好使。	這支筆不好使。	这支笔不好[ ]。	這支筆不好[ ]。	Zhè zhī bǐ bù hǎo shǐ.	Zhe4 zhi1 bi3 bu4 hao3 shi3.	This pen isn't easy to use.		
+708	转	轉	zhuǎn	zhuan3	to turn; to change; pass on	verb				请 右 转。	請 右 轉。	请 右 [ ]。	請 右 [ ]。	Qǐng yòu zhuǎn.	Qing3 you4 zhuan3.	Please turn right.		
+709	博士	博士	bóshì	bo2shi4	doctor; PhD	noun				他是经济博士。	他是經濟博士。	他是经济[ ]。	他是經濟[ ]。	Tā shì jīngjì bóshì.	Ta1 shi4 jing1ji4 bo2shi4.	He is a PhD in Economics.		
+710	紧张	緊張	jǐnzhāng	jin3zhang1	nervous; tension; strain	adjective				他考试前很紧张。	他考試前很緊張。	他考试前很[ ]。	他考試前很[ ]。	Tā kǎoshì qián hěn jǐnzhāng.	Ta1 kao3shi4 qian2 hen3 jin3zhang1.	He was very nervous before the examination.		
+711	放弃	放棄	fàngqì	fang4qi4	abandon; renounce; give up	verb				虽然跑得很累，但是很多人都没有放弃。	雖然跑得很累，但是很多人都沒有放棄。	虽然跑得很累，但是很多人都没有[ ]。	雖然跑得很累，但是很多人都沒有[ ]。	Suīrán pǎo de hěn lèi, dànshì hěn duō rén dōu méiyǒu fàngqì.	Sui1ran2 pao3 de hen3 lei4, dan4shi4 hen3 duo1 ren2 dou1 mei2you3 fang4qi4.	Though exhausted from running, many refused to give up.		
+712	大概	大概	dàgài	da4gai4	probably; roughly; approximate	adverb				河水的水位大概是6米。	河水的水位大概是6米。	河水的水位[ ]是6米。	河水的水位[ ]是6米。	Héshuǐ de shuǐwèi dàgài shì liù mǐ.	He2shui3 de shui3wei4 da4gai4 shi4 liu4 mi3.	The water level of the river is about six meters.		
+713	重新	重新	chóngxīn	chong2xin1	again; anew; once more	adverb				让我们重新开始吧。	讓我們重新開始吧。	让我们[ ]开始吧。	讓我們[ ]開始吧。	Ràng wǒmen chóngxīn kāishǐ ba.	Rang4 wo3men chong2xin1 kai1shi3 ba.	Let's start over.		
+714	其中	其中	qízhōng	qi2zhong1	among; in; included among these	pronoun				其中的高个子就是我哥哥。	其中的高個子就是我哥哥。	[ ]的高个子就是我哥哥。	[ ]的高個子就是我哥哥。	Qízhōng de gāogèzi jiù shì wǒ gēge.	Qi2zhong1 de gao1ge4zi jiu4 shi4 wo3 ge1ge.	The tall one of the group is my older brother.		
+715	来自	來自	láizì	lai2zi4	come from (a place)	verb				我们来自东方。	我們來自東方。	我们[ ]东方。	我們[ ]東方。	Wǒmen lái zì dōngfāng.	Wo3men lai2 zi4 dong1fang1.	We're from the East.		
+716	本来	本來	běnlái	ben3lai2	originally; at first	adverb				杜 先生 本来 只 想 和 她 做 朋友。	杜 先生 本來 只 想 和 她 做 朋友。	杜 先生 [ ] 只 想 和 她 做 朋友。	杜 先生 [ ] 只 想 和 她 做 朋友。	Dù xiānsheng běnlái zhǐ xiǎng hé tā zuò péngyou.	Du4 xian1sheng ben3lai2 zhi3 xiang3 he2 ta1 zuo4 peng2you.	Mr. Du originally just wanted to be friends with her.		
+717	并且	並且	bìngqiě	bing4qie3	and; besides; moreover	conjunction				办公室很宽敞，并且很明亮。	辦公室很寬敞，並且很明亮。	办公室很宽敞，[ ]很明亮。	辦公室很寬敞，[ ]很明亮。	Bàngōngshì hěn kuānchang, bìngqiě hěn míngliàng.	Ban4gong1shi4 hen3 kuan1chang, bing4qie3 hen3 ming2liang4.	The office is very spacious and bright.		
+718	直接	直接	zhíjiē	zhi2jie1	direct; immediate	adjective as adverbial				我直接走向卧室。	我直接走向臥室。	我[ ]走向卧室。	我[ ]走向臥室。	Wǒ zhíjiē zǒuxiàng wòshì.	Wo3 zhi2jie1 zou3xiang4 wo4shi4.	I go straight toward the bedroom.		
+719	对于	對於	duìyú	dui4yu2	regarding; as far as sth. is concerned; with regards to; for	preposition				对于电脑我一点也不懂。	對於電腦我一點也不懂。	[ ]电脑我一点也不懂。	[ ]電腦我一點也不懂。	Duìyú diànnǎo wǒ yìdiǎn yě bù dǒng.	Dui4yu2 dian4nao3 wo3 yi4dian3 ye3 bu4 dong3.	I know nothing about computers.		
+720	正常	正常	zhèngcháng	zheng4chang2	normal; regular; ordinary	adjective				你的心跳很正常。	你的心跳很正常。	你的心跳很[ ]。	你的心跳很[ ]。	Nǐ de xīntiào hěn zhèngcháng.	Ni3 de xin1tiao4 hen3 zheng4chang2.	Your heartbeat is quite normal.		
+721	遍	遍	biàn	bian4	a time; everywhere; turn; (mw for times or turns)	classifier		便		请你再说一遍。	請你再說一遍。	请你再说一[ ]。	請你再說一[ ]。	Qǐng nǐ zài shuō yí biàn.	Qing3 ni3 zai4 shuo1 yi2 bian4.	Can you please say it again.		
+722	冷静	冷靜	lěngjìng	leng3jing4	calm; cool-headed; sober	adjective												
+723	方法	方法	fāngfǎ	fang1fa3	method; way; means	noun				你用什么方法减肥？	你用什麼方法減肥？	你用什么[ ]减肥？	你用什麼[ ]減肥？	Nǐ yòng shénme fāngfǎ jiǎnféi?	Ni3 yong4 shen2me fang1fa3 jian3fei2?	What method are you using to lose weight?		
+724	扔	扔	rēng	reng1	to throw; throw away	verb				我去扔垃圾。	我去扔垃圾。	我去[ ]垃圾。	我去[ ]垃圾。	Wǒ qù rēng lājī.	Wo3 qu4 reng1 la1ji1.	I'm going to throw out the garbage.		
+725	能力	能力	nénglì	neng2li4	capability; capable; ability	noun				她的工作能力不亚于其他人。	她的工作能力不亞於其他人。	她的工作[ ]不亚于其他人。	她的工作[ ]不亞於其他人。	Tā de gōngzuò nénglì bùyàyú qítā rén.	Ta1 de gong1zuo4 neng2li4 bu4ya4yu2 qi2ta1 ren2.	She is every bit as competent in her work as others.		
+726	另外	另外	lìngwài	ling4wai4	another; in addition; besides	conjunction				我们另外找时间见面。	我們另外找時間見面。	我们[ ]找时间见面。	我們[ ]找時間見面。	Wǒmen lìngwài zhǎo shíjiān jiànmiàn.	Wo3men ling4wai4 zhao3 shi2jian1 jian4mian4.	Let's find another time to meet.		
+727	放松	放鬆	fàngsōng	fang4song1	relax; loosen; slacken	verb				放松，别紧张。	放鬆，別緊張。	[ ]，别紧张。	[ ]，別緊張。	Fàngsōng, bié jǐnzhāng.	Fang4song1, bie2 jin3zhang1.	Relax, don't be nervous.		
+728	丢	丟	diū	diu1	lose (something); throw; put aside	verb				出国旅行护照丢了会很麻烦。	出國旅行護照丟了會很麻煩。	出国旅行护照[ ]了会很麻烦。	出國旅行護照[ ]了會很麻煩。	Chūguó lǚxíng hùzhào diūle huì hěn máfan.	Chu1guo2 lv3xing2 hu4zhao4 diu1le hui4 hen3 ma2fan.	It can be very troublesome if you lose your passport when traveling overseas.		
+729	负责	負責	fùzé	fu4ze2	responsible for (something); in charge of	verb				他负责教数学。	他負責教數學。	他[ ]教数学。	他[ ]教數學。	Tā fùzé jiāo shùxué.	Ta1 fu4ze2 jiao1 shu4xue2.	He is responsible for teaching mathematics.		
+730	梦	夢	mèng	meng4	to dream	noun				她从梦中醒过来。	她從夢中醒過來。	她从[ ]中醒过来。	她從[ ]中醒過來。	Tā cóng mèng zhōng xǐng guòlái.	Ta1 cong2 meng4 zhong1 xing3 guo4lai2.	She woke up from her dream.		
+731	戴	戴	dài	dai4	put on; to wear; to respect	verb		带		她戴着一条银手链。	她戴著一條銀手鏈。	她[ ]着一条银手链。	她[ ]著一條銀手鏈。	Tā dàizhe yī tiáo yín shǒuliàn.	Ta1 dai4zhe yi1 tiao2 yin2 shou3lian4.	She's wearing a silver bracelet.		
+732	错误	錯誤	cuòwù	cuo4wu4	error; mistake; mistaken	noun				这个信息是错误的。	這個信息是錯誤的。	这个信息是[ ]的。	這個信息是[ ]的。	Zhège xìnxī shì cuòwù de.	Zhe4ge xin4xi1 shi4 cuo4wu4 de.	This information is wrong.		
+733	随便	隨便	suíbiàn	sui2bian4	as one pleases; informal; random; casual	adjective as adverbial				他的穿着很随便。	他的穿著很隨便。	他的穿着很[ ]。	他的穿著很[ ]。	Tā de chuānzhuó hěn suíbiàn.	Ta1 de chuan1zhuo2 hen3 sui2bian4.	He is dressed very casually.		
+734	经历	經歷	jīnglì	jing1li4	undergo; to experience	verb		精力		他的工作经历很丰富。	他的工作經歷很豐富。	他的工作[ ]很丰富。	他的工作[ ]很豐富。	Tā de gōngzuò jīnglì hěn fēngfù.	Ta1 de gong1zuo4 jing1li4 hen3 feng1fu4.	He has a wealth of work experience.		
+735	支持	支持	zhīchí	zhi1chi2	sustain; hold out; support; stand by (e.g. international support)	verb				我精神上支持你。	我精神上支持你。	我精神上[ ]你。	我精神上[ ]你。	Wǒ jīngshén shang zhīchí nǐ.	Wo3 jing1shen2 shang zhi1chi2 ni3.	I'll give you mental support.		
+736	建议	建議	jiànyì	jian4yi4	to propose; to suggest; recommend	noun				那是我的建议。	那是我的建議。	那是我的[ ]。	那是我的[ ]。	Nà shì wǒ de jiànyì.	Na4 shi4 wo3 de jian4yi4.	That's my suggestion.		
+737	否则	否則	fǒuzé	fou3ze2	if not; otherwise; or else	conjunction				考试前要复习，否则很难通过。	考試前要復習，否則很難通過。	考试前要复习，[ ]很难通过。	考試前要復習，[ ]很難通過。	Kǎoshì qián yào fùxí, fǒuzé hěn nán tōng'guò.	Kao3shi4 qian2 yao4 fu4xi2, fou3ze2 hen3 nan2 tong1'guo4.	You must review before exams, otherwise it's hard to pass.		
+738	光	光	guāng	guang1	light; ray; bright; only; merely; used up	noun				今晚没什么月光。	今晚沒什麼月光。	今晚没什么月[ ]。	今晚沒什麼月[ ]。	Jīnwǎn méi shénme yuèguāng.	Jin1wan3 mei2 shen2me yue4guang1.	There's no moonlight tonight.		
+739	安排	安排	ānpái	an1pai2	arrange; to plan	verb				房间为您安排好了。	房間為您安排好了。	房间为您[ ]好了。	房間為您[ ]好了。	Fángjiān wèi nín ānpái hǎo le.	Fang2jian1 wei4 nin2 an1pai2 hao3 le.	The room has been arranged for you.		
+740	钥匙	鑰匙	yàoshi	yao4shi5	key	noun		要是		我把钥匙交给了房东。	我把鑰匙交給了房東。	我把[ ]交给了房东。	我把[ ]交給了房東。	Wǒ bǎ yàoshi jiāogěile fángdōng.	Wo3 ba3 yao4shi jiao1gei3le fang2dong1.	I gave my key to the landlord.		
+741	信息	信息	xìnxī	xin4xi1	information; news; message	noun				这个信息是错误的。	這個信息是錯誤的。	这个[ ]是错误的。	這個[ ]是錯誤的。	Zhège xìnxī shì cuòwù de.	Zhe4ge xin4xi1 shi4 cuo4wu4 de.	This information is wrong.		
+742	全部	全部	quánbù	quan2bu4	whole; entire; complete	numeral				他做完了全部的工作。	他做完了全部的工作。	他做完了[ ]的工作。	他做完了[ ]的工作。	Tā zuòwánle quánbù de gōngzuò.	Ta1 zuo4wan2le quan2bu4 de gong1zuo4.	He finished all the work.		
+743	首先	首先	shǒuxiān	shou3xian1	first (of all); in the first place; firstly	adverb				我在会上首先发言。	我在會上首先發言。	我在会上[ ]发言。	我在會上[ ]發言。	Wǒ zài huì shang shǒuxiān fāyán.	Wo3 zai4 hui4 shang shou3xian1 fa1yan2.	I spoke first at the meeting.		
+744	照	照	zhào	zhao4	to shine; illuminate; according to	verb				阳光照在树叶上。	陽光照在樹葉上。	阳光[ ]在树叶上。	陽光[ ]在樹葉上。	Yángguāng zhào zài shùyè shàng.	Yang2guang1 zhao4 zai4 shu4ye4 shang4.	The sun is shining on the tree leaves.		
+745	交	交	jiāo	jiao1	deliver; turn over; intersect; to pay (money); friendship	verb		教，浇		我把钥匙交给了房东。	我把鑰匙交給了房東。	我把钥匙[ ]给了房东。	我把鑰匙[ ]給了房東。	Wǒ bǎ yàoshi jiāogěile fángdōng.	Wo3 ba3 yao4shi jiao1gei3le fang2dong1.	I gave my key to the landlord.		
+746	台	台	tái	tai2	platform; Taiwan (abbr.); desk; stage; typhoon; (mw for machines); (classical) you (in letters)	classifier		抬		歌迷在台下欢呼。	歌迷在台下歡呼。	歌迷在[ ]下欢呼。	歌迷在[ ]下歡呼。	Gēmí zài táixià huānhū.	Ge1mi2 zai4 tai2xia4 huan1hu1.	The fans are cheering below the stage.		
+747	坚持	堅持	jiānchí	jian1chi2	persist in; persevere	verb				初冬时节，他还坚持晨跑。	初冬時節，他還堅持晨跑。	初冬时节，他还[ ]晨跑。	初冬時節，他還[ ]晨跑。	Chūdōng shíjié, tā hái jiānchí chénpǎo.	Chu1dong1 shi2jie2, ta1 hai2 jian1chi2 chen2pao3.	He still insists on running in the morning even though it's early winter.		
+748	生意	生意	shēngyi	sheng1yi5	business; trade	noun				我要去跟他谈生意。	我要去跟他談生意。	我要去跟他谈[ ]。	我要去跟他談[ ]。	Wǒ yào qù gēn tā tán shēngyì.	Wo3 yao4 qu4 gen1 ta1 tan2 sheng1yi4.	I will talk business with him.		
+749	火	火	huǒ	huo3	fire (Kangxi radical 86)	noun				房间里有火。	房間裡有火。	房间里有[ ]。	房間裡有[ ]。	Fángjiān li yǒu huǒ.	Fang2jian1 li you3 huo3.	There's a fire in the room.		
+750	即使	即使	jíshǐ	ji2shi3	even if; even though	conjunction				即使失败了也没关系。	即使失敗了也沒關係。	[ ]失败了也没关系。	[ ]失敗了也沒關係。	Jíshǐ shībàile yě méiguānxi.	Ji2shi3 shi1bai4le ye3 mei2guan1xi.	It doesn't matter even if you fail.		
+751	到处	到處	dàochù	dao4chu4	everywhere; in all places; all over	adverb												
+752	挂	挂	guà	gua4	hang; put up; suspend	verb				墙上挂着一幅画像。	牆上掛著一幅畫像。	墙上[ ]着一幅画像。	牆上掛著一幅畫像。	Qiáng shàng guàzhe yì fú huàxiàng.	Qiang2 shang4 gua4zhe yi4 fu2 hua4xiang4.	There's a portrait hanging on the wall.		
+753	道歉	道歉	dàoqiàn	dao4qian4	apologize; make an apology	verb				她要求他道歉。	她要求他道歉。	她要求他[ ]。	她要求他[ ]。	Tā yāoqiú tā dàoqiàn.	Ta1 yao1qiu2 ta1 dao4qian4.	She demanded he apologize.		
+754	可怜	可憐	kělián	ke3lian2	pitiful; poor; pathetic	verb				他很可怜。	他很可憐。	他很[ ]。	他很[ ]。	Tā hěn kělián.	Ta1 hen3 ke3lian2.	He is very pitiful.		
+755	实在	實在	shízài	shi2zai4	honest; in reality; honestly; indeed; certainly	adverb												
+756	骗	騙	piàn	pian4	to cheat; to swindle; deceive	verb		片		我不相信，他在骗我。	我不相信，他在騙我。	我不相信，他在[ ]我。	我不相信，他在[ ]我。	Wǒ bù xiāngxìn, tā zài piàn wǒ.	Wo3 bu4 xiang1xin4, ta1 zai4 pian4 wo3.	I don't believe it--he's deceiving me.		
+757	原谅	原諒	yuánliàng	yuan2liang4	to excuse; forgive; to pardon	verb				我希望你能原谅我。	我希望你能原諒我。	我希望你能[ ]我。	我希望你能[ ]我。	Wǒ xīwàng nǐ néng yuánliàng wǒ.	Wo3 xi1wang4 ni3 neng2 yuan2liang4 wo3.	I hope you can forgive me.		
+758	乱	亂	luàn	luan4	disorder; confusion; arbitrarily	adverb				他的房间很乱。	他的房間很亂。	他的房间很[ ]。	他的房間很[ ]。	Tāde fángjiān hěn luàn.	Ta1de fang2jian1 hen3 luan4.	His room is a mess.		
+759	差不多	差不多	chàbuduō	cha4bu5duo1	almost; about the same	fixed expression				他们差不多一样高。	他們差不多一樣高。	他们[ ]一样高。	他們[ ]一樣高。	Tāmen chàbuduō yīyàng gāo.	Ta1men cha4buduo1 yi1yang4 gao1.	They are about the same height.		
+760	满	滿	mǎn	man3	full; abbreviation for Manchurian	adjective				船上堆满了货物。	船上堆滿了貨物。	船上堆[ ]了货物。	船上堆[ ]了貨物。	Chuán shàng duī mǎn le huòwù.	Chuan2 shang4 dui1 man3 le huo4wu4.	The ship is fully loaded with cargo.		
+761	假	假	jiǎ	jia3	fake; if; borrow	adjective		甲		我 刚刚 休假 回来。	我 剛剛 休假 回來。	我 刚刚 休[ ] 回来。	我 剛剛 休[ ] 回來。	Wǒ gānggāng xiūjià huílái.	Wo3 gang1gang1 xiu1jia4 hui2lai2.	I just came back from my vacation.		
+762	研究	研究	yánjiū	yan2jiu1	to study; to research	verb with nominal function				他们在研究世界地图。	他們在研究世界地圖。	他们在[ ]世界地图。	他們在[ ]世界地圖。	Tāmen zài yánjiū shìjiè dìtú.	Ta1men zai4 yan2jiu1 shi4jie4 di4tu2.	They're studying the world map.		
+763	打扰	打擾	dǎrǎo	da3rao3	disturb	verb				不要打扰我工作！	不要打擾我工作！	不要[ ]我工作！	不要[ ]我工作！	Bùyào dǎrǎo wǒ gōngzuò!	Bu4yao4 da3rao3 wo3 gong1zuo4!	Don't disturb my work!		
+764	正确	正確	zhèngquè	zheng4que4	correct; proper	adjective				这是正确答案。	這是正確答案。	这是[ ]答案。	這是[ ]答案。	Zhè shì zhèngquè dá'àn.	Zhe4 shi4 zheng4que4 da2'an4.	This is the correct answer.		
+765	收	收	shōu	shou1	receive; accept; collect; to harvest	verb				我的收入提高了。	我的收入提高了。	我的[ ]入提高了。	我的[ ]入提高了。	Wǒ de shōurù tígāo le.	Wo3 de shou1ru4 ti2gao1 le.	My income went up.		
+766	秒	秒	miǎo	miao3	second (unit of time or angle)	classifier				这次赛跑他用了13秒。	這次賽跑他用了13秒。	这次赛跑他用了13[ ]。	這次賽跑他用了13[ ]。	Zhè cì sàipǎo tā yòngle shísān miǎo.	Zhe4 ci4 sai4pao3 ta1 yong4le shi2san1 miao3.	He took thirteen seconds to complete the race.		
+767	同时	同時	tóngshí	tong2shi2	at the same time; simultaneously	conjunction				他们同时走了。	他們同時走了。	他们[ ]走了。	他們[ ]走了。	Tāmen tóngshí zǒu le.	Ta1men tong2shi2 zou3 le.	They left at the same time.		
+768	提供	提供	tígōng	ti2gong1	to supply; provide; furnish	verb				她们提供电话服务。	她們提供電話服務。	她们[ ]电话服务。	她們[ ]電話服務。	Tāmen tígōng diànhuà fúwù.	Ta1men ti2gong1 dian4hua4 fu2wu4.	They provide telephone service.		
+769	输	輸	shū	shu1	to transport; to lose (a game, etc.)	verb		书		售货员请我输入卡号密码。	售貨員請我輸入卡號密碼。	售货员请我[ ]入卡号密码。	售貨員請我[ ]入卡號密碼。	Shòuhuòyuán qǐng wǒ shūrù kǎhào mìmǎ.	Shou4huo4yuan2 qing3 wo3 shu1ru4 ka3hao4 mi4ma3.	The salesperson asked me to enter my pin number.		
+770	号码	號碼	hàomǎ	hao4ma3	number	noun				这是我的电话号码。	這是我的電話號碼。	这是我的电话[ ]。	這是我的電話[ ]。	Zhè shì wǒ de diànhuà hàomǎ.	Zhe4 shi4 wo3 de dian4hua4 hao4ma3.	This is my telephone number.		
+771	座	座	zuò	zuo4	seat; base; stand; constellation; (mw for mountains, bridges, tall buildings, etc.);	noun		做，坐		这座城市很大。	這座城市很大。	这[ ]城市很大。	這[ ]城市很大。	Zhè zuò chéngshì hěn dà.	Zhe4 zuo4 cheng2shi4 hen3 da4.	This is a huge city.		
+772	比如	比如	bǐrú	bi3ru2	for example; for instance; such as	verb												
+773	严重	嚴重	yánzhòng	yan2zhong4	grave; serious; critical	adjective				他病得很严重。	他病得很嚴重。	他病得很[ ]。	他病得很[ ]。	Tā bìng de hěn yánzhòng.	Ta1 bing4 de hen3 yan2zhong4.	He was very ill.		
+774	脱	脫	tuō	tuo1	to shed; take off; to escape	verb				她正在脱外套。	她正在脫外套。	她正在[ ]外套。	她正在[ ]外套。	Tā zhèng zài tuō wàitào.	Ta1 zheng4 zai4 tuo1 wai4tao4.	She's taking off her coat.		
+775	陪	陪	péi	pei2	accompany; keep company	verb				爷爷在陪孙女玩。	爺爺在陪孫女玩。	爷爷在[ ]孙女玩。	爺爺在[ ]孫女玩。	Yéye zài péi sūnnǚ wánr.	Ye2ye zai4 pei2 sun1nv3 wan2r.	The grandfather is playing with his granddaughter.		
+776	法律	法律	fǎlǜ	fa3lv4	law; statute	noun				我们必须遵守法律。	我們必須遵守法律。	我们必须遵守[ ]。	我們必須遵守[ ]。	Wǒmen bìxū zūnshǒu fǎlǜ.	Wo3men bi4xu1 zun1shou3 fa3lv4.	We must obey the law.		
+777	值得	值得	zhíde	zhi2de5	be worth; deserve	verb				这枚钻戒值得收藏。	這枚鑽戒值得收藏。	这枚钻戒[ ]收藏。	這枚鑽戒[ ]收藏。	Zhè méi zuànjiè zhíde shōucáng.	Zhe4 mei2 zuan4jie4 zhi2de shou1cang2.	This diamond ring is worth collecting.		
+778	使用	使用	shǐyòng	shi3yong4	to use; employ; apply; administer; manipulate	verb				她能使用这台打印机。	她能使用這台打印機。	她能[ ]这台打印机。	她能[ ]這台打印機。	Tā néng shǐyòng zhè tái dǎyìnjī.	Ta1 neng2 shi3yong4 zhe4 tai2 da3yin4ji1.	She can use this printer.		
+779	方面	方面	fāngmiàn	fang1mian4	aspect; field; side	noun				在学习方面他的成绩很好。	在學習方面他的成績很好。	在学习[ ]他的成绩很好。	在學習[ ]他的成績很好。	Zài xuéxí fāngmiàn tā de chéngjì hěn hǎo.	Zai4 xue2xi2 fang1mian4 ta1 de cheng2ji4 hen3 hao3.	Regarding his studies, his grades are very good.		
+780	原来	原來	yuánlái	yuan2lai2	original; former; as it turns out	adverb				把它恢复到原来的状态。	把它恢復到原來的狀態。	把它恢复到[ ]的状态。	把它恢復到[ ]的狀態。	Bǎ tā huīfù dào yuánlái de zhuàngtài.	Ba3 ta1 hui1fu4 dao4 yuan2lai2 de zhuang4tai4.	Return it to its original state.		
+781	讨论	討論	tǎolùn	tao3lun4	to discuss; discussion; to talk over	verb				他们在讨论这个案子。	他們在討論這個案子。	他们在[ ]这个案子。	他們在[ ]這個案子。	Tāmen zài tǎolùn zhège ànzi.	Ta1men zai4 tao3lun4 zhe4ge an4zi.	They are discussing the case.		
+782	说明	說明	shuōmíng	shuo1ming2	explain; explanation; illustrate; to show	verb				请说明你的观点。	請說明你的觀點。	请[ ]你的观点。	請[ ]你的觀點。	Qǐng shuōmíng nǐ de guāndiǎn.	Qing3 shuo1ming2 ni3 de guan1dian3.	Please explain your point of view.		
+783	仍然	仍然	réngrán	reng2ran2	still; yet	adverb				这个村子的生活条件仍然很原始。	這個村子的生活條件仍然很原始。	这个村子的生活条件[ ]很原始。	這個村子的生活條件[ ]很原始。	Zhège cūnzi de shēnghuó tiáojiàn réngrán hěn yuánshǐ.	Zhe4ge cun1zi de sheng1huo2 tiao2jian4 reng2ran2 hen3 yuan2shi3.	The living conditions in this village are still very primitive.		
+784	动作	動作	dòngzuò	dong4zuo4	movement; motion; action	noun				她的体操动作很标准。	她的體操動作很標準。	她的体操[ ]很标准。	她的體操[ ]很標準。	Tā de tǐcāo dòngzuò hěn biāozhǔn.	Ta1 de ti3cao1 dong4zuo4 hen3 biao1zhun3.	Her gymnastics moves are up to the standard.		
+785	受到	受到	shòudào	shou4dao4	receive (influence, restriction, etc.); be subjected to	verb				我受到了热烈的欢迎。	我受到了熱烈的歡迎。	我[ ]了热烈的欢迎。	我[ ]了熱烈的歡迎。	Wǒ shòudàole rèliè de huānyíng.	Wo3 shou4dao4le re4lie4 de huan1ying2.	I received a warm welcome.		
+786	赶	趕	gǎn	gan3	catch up; overtake; drive away	verb		敢		我及时赶到了车站。	我及時趕到了車站。	我及时[ ]到了车站。	我及時[ ]到了車站。	Wǒ jíshí gǎndàole chēzhàn.	Wo3 ji2shi2 gan3dao4le che1zhan4.	I made it to the station in time.		
+787	怀疑	懷疑	huáiyí	huai2yi2	doubt; to suspect; be skeptical	verb				他怀疑事情出了问题。	他懷疑事情出了問題。	他[ ]事情出了问题。	他[ ]事情出了問題。	Tā huáiyí shìqing chūle wèntí.	Ta1 huai2yi2 shi4qing chu1le wen4ti2.	He suspects something has gone wrong.		
+788	拒绝	拒絕	jùjué	ju4jue2	to refuse; to decline; to reject	verb				他们拒绝和好。	他們拒絕和好。	他们[ ]和好。	他們[ ]和好。	Tāmen jùjué héhǎo.	Ta1men ju4jue2 he2hao3.	They refuse to reconcile.		
+789	演员	演員	yǎnyuán	yan3yuan2	actor or actress; performer	noun				她是女演员。	她是女演員。	她是女[ ]。	她是女[ ]。	Tā shì nǚyǎnyuán.	Ta1 shi4 nv3yan3yuan2.	She's an actress.		
+790	破	破	pò	po4	broken; damaged; to split	verb				那个箱子破了。	那個箱子破了。	那个箱子[ ]了。	那個箱子[ ]了。	Nàge xiāngzi pò le.	Na4ge xiang1zi po4 le.	The trunk is broken.		
+791	因此	因此	yīncǐ	yin1ci3	therefore; thus; that is why; because of this	conjunction				下雨，因此比赛延期了。	下雨，因此比賽延期了。	下雨，[ ]比赛延期了。	下雨，[ ]比賽延期了。	Xiàyǔ, yīncǐ bǐsài yánqī le.	Xia4yu3, yin1ci3 bi3sai4 yan2qi1 le.	The game will be postponed because it's raining.		
+792	答案	答案	dá'àn	da2'an4	answer; solution	noun				请告诉我答案。	請告訴我答案。	请告诉我[ ]。	請告訴我[ ]。	Qǐng gàosu wǒ dá'àn.	Qing3 gao4su wo3 da2'an4.	Please tell me the answer.		
+793	活动	活動	huódòng	huo2dong4	activity; exercise; move about	verb with nominal function				孩子们在这里活动。	孩子們在這裡活動。	孩子们在这里[ ]。	孩子們在這裡[ ]。	Háizimen zài zhèlǐ huódòng.	Hai2zimen zai4 zhe4li3 huo2dong4.	Children are exercising here.		
+794	既然	既然	jìrán	ji4ran2	since; given that; now that	conjunction				既然天晴了，我们把衣服晾了吧。	既然天晴了，我們把衣服晾了吧。	[ ]天晴了，我们把衣服晾了吧。	[ ]天晴了，我們把衣服晾了吧。	Jìrán tiānqíng le, wǒmen bǎ yīfu liàng le ba.	Ji4ran2 tian1qing2 le, wo3men ba3 yi1fu liang4 le ba.	Since the weather became sunny, let's hang our clothes.		
+795	通知	通知	tōngzhī	tong1zhi1	notify; to inform; notice	noun				他通知我去开会。	他通知我去開會。	他[ ]我去开会。	他[ ]我去開會。	Tā tōngzhī wǒ qù kāihuì.	Ta1 tong1zhi1 wo3 qu4 kai1hui4.	He informed me that I should attend the meeting.		
+796	不得不	不得不	bù dé bù	bu4 de2 bu4	have to; have no choice but to; cannot but	adverb												
+797	无论	無論	wúlùn	wu2lun4	no matter what; regardless of whether...	conjunction				无论天气如何，他都去跑步。	無論天氣如何，他都去跑步。	[ ]天气如何，他都去跑步。	[ ]天氣如何，他都去跑步。	Wúlùn tiānqì rúhé, tā dōu qù pǎobù.	Wu2lun4 tian1qi4 ru2he2, ta1 dou1 qu4 pao3bu4.	No matter what the weather, he always goes jogging.		
+798	刀	刀	dāo	dao1	knife; blade (Kangxi radical 18)	noun				我 需要 买 新的 剃须刀。	我 需要 買 新的 剃鬚刀。	我 需要 买 新的 剃须[ ]。	我 需要 買 新的 剃鬚[ ]。	Wǒ xūyào mǎi xīnde tìxūdāo.	Wo3 xu1yao4 mai3 xin1de ti4xu1dao1.	I need to buy a new razor.		
+799	适合	適合	shìhé	shi4he2	to suit; to fit	verb				太极运动适合老年人。	太極運動適合老年人。	太极运动[ ]老年人。	太極運動[ ]老年人。	Tàijí yùndòng shìhé lǎoniánrén.	Tai4ji2 yun4dong4 shi4he2 lao3nian2ren2.	Tai Chi exercises are appropriate for the elderly.		
+800	失望	失望	shīwàng	shi1wang4	disappointed; lose hope	adjective				对不起让你失望了。	對不起讓你失望了。	对不起让你[ ]了。	對不起讓你[ ]了。	Duìbuqǐ ràng nǐ shīwàng le.	Dui4buqi3 rang4 ni3 shi1wang4 le.	I'm sorry to have disappointed you.		
+801	允许	允許	yǔnxǔ	yun3xu3	to permit; allow	verb				她不允许丈夫出门。	她不允許丈夫出門。	她不[ ]丈夫出门。	她不[ ]丈夫出門。	Tā bù yǔnxǔ zhàngfu chūmén.	Ta1 bu4 yun3xu3 zhang4fu chu1men2.	She won't allow her husband to go out.		
+802	意见	意見	yìjiàn	yi4jian4	opinion; view; suggestion; complaint	noun				你有什么意见？	你有什麼意見？	你有什么[ ]？	你有什麼[ ]？	Nǐ yǒu shénme yìjiàn?	Ni3 you3 shen2me yi4jian4?	What's your opinion?		
+803	获得	獲得	huòdé	huo4de2	obtain; acquire; to gain	verb				他获得了一个机会。	他獲得了一個機會。	他[ ]了一个机会。	他[ ]了一個機會。	Tā huòdéle yī gè jīhuì.	Ta1 huo4de2le yi1 ge4 ji1hui4.	He's obtained an opportunity.		
+804	要是	要是	yàoshi	yao4shi5	if; suppose; in case	conjunction		钥匙		要是你不来，我就跟你分手。	要是你不來，我就跟你分手。	[ ]你不来，我就跟你分手。	[ ]你不來，我就跟你分手。	Yàoshi nǐ bù lái, wǒ jiù gēn nǐ fēnshǒu.	Yao4shi ni3 bu4 lai2, wo3 jiu4 gen1 ni3 fen1shou3.	If you don't come, I am going to break up with you.		
+805	邀请	邀請	yāoqǐng	yao1qing3	to invite	verb				她被邀请参加派对。	她被邀請參加派對。	她被[ ]参加派对。	她被[ ]參加派對。	Tā bèi yāoqǐng cānjiā pàiduì.	Ta1 bei4 yao1qing3 can1jia1 pai4dui4.	She was invited to a party.		
+806	尽管	盡管	jǐnguǎn	jin3guan3	despite; although; even though	conjunction				有什么要求尽管说。	有什麼要求儘管說。	有什么要求[ ]说。	有什麼要求儘管說。	Yǒu shénme yāoqiú jǐnguǎn shuō.	You3 shen2me yao1qiu2 jin3guan3 shuo1.	Feel free to ask whatever you want.		
+807	浪费	浪費	làngfèi	lang4fei4	to waste; squander	verb				不能浪费食物。	不能浪費食物。	不能[ ]食物。	不能[ ]食物。	Bù néng làngfèi shíwù.	Bu4 neng2 lang4fei4 shi2wu4.	Don't waste your food.		
+808	失败	失敗	shībài	shi1bai4	be defeated; fail; lose	verb				他投资失败了。	他投資失敗了。	他投资[ ]了。	他投資[ ]了。	Tā tóuzī shībài le.	Ta1 tou2zi1 shi1bai4 le.	His investment was a failure.		
+809	责任	責任	zérèn	ze2ren4	responsibility; blame; duty	noun				儿女有责任赡养父母。	兒女有責任贍養父母。	儿女有[ ]赡养父母。	兒女有[ ]贍養父母。	Érnǚ yǒu zérèn shànyǎng fùmǔ.	Er2nv3 you3 ze2ren4 shan4yang3 fu4mu3.	It's the duty of children to care for their parents.		
+810	美丽	美麗	měilì	mei3li4	beautiful	adjective				她年轻而美丽。	她年輕而美麗。	她年轻而[ ]。	她年輕而[ ]。	Tā niánqīng ér měilì.	Ta1 nian2qing1 er2 mei3li4.	She's young and beautiful.		
+811	压力	壓力	yālì	ya1li4	pressure; stress	noun				他承受着很大的工作压力。	他承受著很大的工作壓力。	他承受着很大的工作[ ]。	他承受著很大的工作[ ]。	Tā chéngshòuzhe hěn dà de gōngzuò yālì.	Ta1 cheng2shou4zhe hen3 da4 de gong1zuo4 ya1li4.	He's under a lot of pressure at work.		
+812	味道	味道	wèidao	wei4dao5	flavor; taste	noun				这道菜的味道很一般。	這道菜的味道很一般。	这道菜的[ ]很一般。	這道菜的[ ]很一般。	Zhè dào cài de wèidao hěn yìbān.	Zhe4 dao4 cai4 de wei4dao hen3 yi4ban1.	The taste of this dish is very ordinary.		
+813	厉害	厲害	lìhai	li4hai5	terrible; formidable; fierce; cool; awesome	adjective		利害		他感冒了，头痛得厉害。	他感冒了，頭痛得厲害。	他感冒了，头痛得[ ]。	他感冒了，頭痛得[ ]。	Tā gǎnmào le, tóu tòngde lìhai.	Ta1 gan3mao4 le, tou2 tong4de li4hai.	He caught a cold and has a bad headache.		
+814	出发	出發	chūfā	chu1fa1	start out; set off	verb				他要出发了。	他要出發了。	他要[ ]了。	他要[ ]了。	Tā yào chūfā le.	Ta1 yao4 chu1fa1 le.	He has to leave.		
+815	兴奋	興奮	xīngfèn	xing1fen4	excitement; be excited	adjective				你为什么如此兴奋？	你為什麼如此興奮？	你为什么如此[ ]？	你為什麼如此[ ]？	Nǐ wèishénme rúcǐ xīngfèn?	Ni3 wei4shen2me ru2ci3 xing1fen4?	Why are you so excited?		
+816	观众	觀眾	guānzhòng	guan1zhong4	spectator; audience	noun				看台上挤满了观众。	看臺上擠滿了觀眾。	看台上挤满了[ ]。	看臺上擠滿了[ ]。	Kàntái shàng jǐmǎn le guānzhòng.	Kan4tai2 shang4 ji3man3 le guan1zhong4.	Spectators crowded the bleachers.		
+817	反对	反對	fǎnduì	fan3dui4	oppose; fight against	verb				NO表示反对。	NO表示反對。	NO表示[ ]。	NO表示[ ]。	NO biǎoshì fǎnduì.	NO biao3shi4 fan3dui4.	No means opposition.		
+818	精彩	精彩	jīngcǎi	jing1cai3	brilliant; spectacular; wonderful	adjective				话剧表演得很精彩。	話劇表演得很精彩。	话剧表演得很[ ]。	話劇表演得很[ ]。	Huàjù biǎoyǎn de hěn jīngcǎi.	Hua4ju4 biao3yan3 de hen3 jing1cai3.	The play was brilliant.		
+819	感情	感情	gǎnqíng	gan3qing2	feeling; emotion; sensation	noun				他们俩的感情很不错。	他們倆的感情很不錯。	他们俩的[ ]很不错。	他們倆的[ ]很不錯。	Tāmen liǎ de gǎnqíng hěn bùcuò.	Ta1men lia3 de gan3qing2 hen3 bu4cuo4.	They have a close relationship.		
+820	演出	演出	yǎnchū	yan3chu1	to act (in a play); to perform; to put on a show; performance	verb with nominal function				演出开始了。	演出開始了。	[ ]开始了。	[ ]開始了。	Yǎnchū kāishǐ le.	Yan3chu1 kai1shi3 le.	The performance has started.		
+821	愉快	愉快	yúkuài	yu2kuai4	happy; cheerful; delightful	adjective				祝我们合作愉快！	祝我們合作愉快！	祝我们合作[ ]！	祝我們合作[ ]！	Zhù wǒmen hézuò yúkuài!	Zhu4 wo3men he2zuo4 yu2kuai4!	Here's wishing that we have a pleasant cooperation!		
+822	开玩笑	開玩笑	kāi wánxiào	kai1 wan2xiao4	joke; play a joke; make fun of	verb				你在开玩笑吧？	你在開玩笑吧？	你在[ ]吧？	你在[ ]吧？	Nǐ zài kāi wánxiào ba?	Ni3 zai4 kai1 wan2xiao4 ba?	Are you kidding?		
+823	杂志	雜志	zázhì	za2zhi4	magazine	noun				新杂志出版了。	新雜誌出版了。	新[ ]出版了。	新雜誌出版了。	Xīn zázhì chūbǎn le.	Xin1 za2zhi4 chu1ban3 le.	The new magazine has been published.		
+824	合适	合適	héshì	he2shi4	suitable; proper; appropriate	adjective				他穿这件衣服很合适。	他穿這件衣服很合適。	他穿这件衣服很[ ]。	他穿這件衣服很[ ]。	Tā chuān zhèjiàn yīfu hěn héshì.	Ta1 chuan1 zhe4jian4 yi1fu hen3 he2shi4.	This shirt fits him well.		
+825	广告	廣告	guǎnggào	guang3gao4	advertisement; a commercial	noun				我们在报纸上登了广告。	我們在報紙上登了廣告。	我们在报纸上登了[ ]。	我們在報紙上登了[ ]。	Wǒmen zài bàozhǐ shang dēngle guǎnggào.	Wo3men zai4 bao4zhi3 shang deng1le guang3gao4.	We placed an advertisement in the newspaper.		
+826	自然	自然	zìrán	zi4ran2	nature; natural	noun				我们要保护自然资源。	我們要保護自然資源。	我们要保护[ ]资源。	我們要保護[ ]資源。	Wǒmen yào bǎohù zìrán zīyuán.	Wo3men yao4 bao3hu4 zi4ran2 zi1yuan2.	We must protect our natural resources.		
+827	深	深	shēn	shen1	deep; profound; dark (of colors)	adjective		伸		这个洞很深。	這個洞很深。	这个洞很[ ]。	這個洞很[ ]。	Zhège dòng hěn shēn.	Zhe4ge dong4 hen3 shen1.	This hole is very deep.		
+828	取	取	qǔ	qu3	to take; get; choose	verb		娶		由于下雨，比赛取消了。	由於下雨，比賽取消了。	由于下雨，比赛[ ]消了。	由於下雨，比賽[ ]消了。	Yóuyú xiàyǔ, bǐsài qǔxiāo le.	You2yu2 xia4yu3, bi3sai4 qu3xiao1 le.	Due to the rain, the game has been canceled.		
+829	短信	短信	duǎnxìn	duan3xin4	text message; SMS	noun				手机一打开，他就接到一连串的短信．	手機一打開，他就接到一連串的短信．	手机一打开，他就接到一连串的[ ]．	手機一打開，他就接到一連串的[ ]．	Shǒujī yī dǎkāi, tā jiù jiē dào yīliánchuàn de duǎnxìn.	Shou3ji1 yi1 da3kai1, ta1 jiu4 jie1 dao4 yi1lian2chuan4 de duan3xin4.	The moment his cell phone was turned on, he received a series of text messages.		
+830	地球	地球	dìqiú	di4qiu2	the Earth; planet	noun				我们要爱护地球。	我們要愛護地球。	我们要爱护[ ]。	我們要愛護[ ]。	Wǒmen yào àihù dìqiú.	Wo3men yao4 ai4hu4 di4qiu2.	We should love and protect our planet.		
+831	帅	帥	shuài	shuai4	handsome; graceful; commander-in-chief	personal name				你 只 是 觉得 他 帅。	你 只 是 覺得 他 帥。	你 只 是 觉得 他 [ ]。	你 只 是 覺得 他 [ ]。	Nǐ zhǐ shì juéde tā shuài.	Ni3 zhi3 shi4 jue2de ta1 shuai4.	You just think he's cute.		
+832	推	推	tuī	tui1	to push; to scrape; to decline; postpone; elect	verb				他在推车。	他在推車。	他在[ ]车。	他在[ ]車。	Tā zài tuīchē.	Ta1 zai4 tui1che1.	He's pushing the car.		
+833	关键	關鍵	guānjiàn	guan1jian4	crucial; key; pivotal	noun				比赛的关键时刻到了。	比賽的關鍵時刻到了。	比赛的[ ]时刻到了。	比賽的[ ]時刻到了。	Bǐsài de guānjiàn shíkè dào le.	Bi3sai4 de guan1jian4 shi2ke4 dao4 le.	The crucial moment in the game has come.		
+834	空	空	kōng	kong1	empty; sky	adjective				还有空房吗？	還有空房嗎？	还有[ ]房吗？	還有[ ]房嗎？	Hái yǒu kòngfáng ma?	Hai2 you3 kong4fang2 ma?	Are there any rooms vacant?		
+835	究竟	究竟	jiūjìng	jiu1jing4	after all; when all is said and done; actually	adverb												
+836	恐怕	恐怕	kǒngpà	kong3pa4	be afraid; to fear; I'm afraid that...	adverb												
+837	躺	躺	tǎng	tang3	recline; lie down (on back or side)	verb				他们躺在草地上休息。	他們躺在草地上休息。	他们[ ]在草地上休息。	他們[ ]在草地上休息。	Tāmen tǎng zài cǎodì shang xiūxi.	Ta1men tang3 zai4 cao3di4 shang xiu1xi.	They're lying on the grass, resting.		
+838	聚会	聚會	jùhuì	ju4hui4	hold a meeting; get together; a party	verb				他们偕同妻子参加了聚会。	他們偕同妻子參加了聚會。	他们偕同妻子参加了[ ]。	他們偕同妻子參加了[ ]。	Tāmen xiétóng qīzi cānjiāle jùhuì.	Ta1men xie2tong2 qi1zi can1jia1le ju4hui4.	They went to the get-together with their wives.		
+839	方向	方向	fāngxiàng	fang1xiang4	direction; orientation	noun				他迷失了方向。	他迷失了方向。	他迷失了[ ]。	他迷失了[ ]。	Tā míshīle fāngxiàng.	Ta1 mi2shi1le fang1xiang4.	He's lost his way.		
+840	幸福	幸福	xìngfú	xing4fu2	happy; blessed; fortunate	adjective with nominal function				他们的生活很幸福。	他們的生活很幸福。	他们的生活很[ ]。	他們的生活很[ ]。	Tāmen de shēnghuó hěn xìngfú.	Ta1men de sheng1huo2 hen3 xing4fu2.	They have happy lives.		
+841	接着	接著	jiēzhe	jie1zhe5	continue; carry on; to catch; follow	conjunction				她放学后接着就回家了。	她放學後接著就回家了。	她放学后[ ]就回家了。	她放學後[ ]就回家了。	Tā fàngxué hòu jiēzhe jiù huíjiā le.	Ta1 fang4xue2 hou4 jie1zhe jiu4 hui2jia1 le.	She went home after classes were over.		
+842	技术	技術	jìshù	ji4shu4	technology; technique; skill	noun				他开车的技术很高。	他開車的技術很高。	他开车的[ ]很高。	他開車的[ ]很高。	Tā kāichē de jìshù hěn gāo.	Ta1 kai1che1 de ji4shu4 hen3 gao1.	His driving skills are very strong.		
+843	困	困	kùn	kun4	sleepy; surround; hard-pressed	verb				在困难的条件下他们完成了任务。	在困難的條件下他們完成了任務。	在[ ]难的条件下他们完成了任务。	在[ ]難的條件下他們完成了任務。	Zài kùnnan de tiáojiàn xià tāmen wánchéngle rènwu.	Zai4 kun4nan de tiao2jian4 xia4 ta1men wan2cheng2le ren4wu.	They accomplished their mission under difficult conditions.		
+844	困难	困難	kùnnan	kun4nan5	difficulty; difficult; problem	adjective with nominal function				现场的营救工作很困难。	現場的營救工作很困難。	现场的营救工作很[ ]。	現場的營救工作很[ ]。	Xiànchǎng de yíngjiù gōngzuò hěn kùnnan.	Xian4chang3 de ying2jiu4 gong1zuo4 hen3 kun4nan.	On-the-scene rescue work is very difficult.		
+845	正好	正好	zhènghǎo	zheng4hao3	just (in time); just right; just enough; happen to; by chance	descriptive				时间正好合适。	時間正好合適。	时间[ ]合适。	時間[ ]合適。	Shíjiān zhènghǎo héshì.	Shi2jian1 zheng4hao3 he2shi4.	This is just the right time.		
+846	提醒	提醒	tíxǐng	ti2xing3	remind; call attention to; warn of	verb				请提醒我去开会。	請提醒我去開會。	请[ ]我去开会。	請[ ]我去開會。	Qǐng tíxǐng wǒ qù kāihuì.	Qing3 ti2xing3 wo3 qu4 kai1hui4.	Please remind me to attend the meeting.		
+847	旅行	旅行	lǚxíng	lv3xing2	travel	verb		履行		男朋友同我一起去旅行。	男朋友同我一起去旅行。	男朋友同我一起去[ ]。	男朋友同我一起去[ ]。	Nánpéngyou tóng wǒ yīqǐ qù lǚxíng.	Nan2peng2you tong2 wo3 yi1qi3 qu4 lv3xing2.	My boyfriend and I travel together.		
+848	激动	激動	jīdòng	ji1dong4	excite; agitate	adjective		机动		他很激动，甚至连话都说不出来了。	他很激動，甚至連話都說不出來了。	他很[ ]，甚至连话都说不出来了。	他很[ ]，甚至連話都說不出來了。	Tā hěn jīdòng, shènzhì lián huà dōu shuō bu chūlái le.	Ta1 hen3 ji1dong4, shen4zhi4 lian2 hua4 dou1 shuo1 bu chu1lai2 le.	He was so excited that he couldn't utter a word.		
+849	骄傲	驕傲	jiāo'ào	jiao1'ao4	proud; arrogant; conceited; take pride in	adjective with nominal function				得奖了，我感到很骄傲。	得獎了，我感到很驕傲。	得奖了，我感到很[ ]。	得獎了，我感到很[ ]。	Déjiǎng le, wǒ gǎndào hěn jiāo'ào.	De2jiang3 le, wo3 gan3dao4 hen3 jiao1'ao4.	I'm very proud of the prize I won.		
+850	毛	毛	máo	mao2	hair; fur; feather; dime (Kangxi radical 82)	personal name				她 穿 橙色的 毛衣。	她 穿 橙色的 毛衣。	她 穿 橙色的 [ ]衣。	她 穿 橙色的 [ ]衣。	Tā chuān chéngsède máoyī.	Ta1 chuan1 cheng2se4de mao2yi1.	She is wearing a orange sweater.		
+851	节	節	jié	jie2	section; part; festival; moral integrity; save; (mw for class periods)	classifier				新 老师 应该 节食。	新 老師 應該 節食。	新 老师 应该 [ ]食。	新 老師 應該 [ ]食。	Xīn lǎoshī yīnggāi jiéshí.	Xin1 lao3shi1 ying1gai1 jie2shi2.	The new teacher should go on a diet.		
+852	许多	許多	xǔduō	xu3duo1	many; a lot; much	numeral				停车场停了许多汽车。	停車場停了許多汽車。	停车场停了[ ]汽车。	停車場停了[ ]汽車。	Tíngchēchǎng tíngle xǔduō qìchē.	Ting2che1chang3 ting2le xu3duo1 qi4che1.	There are a lot of cars parked in the parking lot.		
+853	顺利	順利	shùnlì	shun4li4	go smoothly; without a hitch; successful	adjective as adverbial				她顺利地产下了儿子。	她順利地產下了兒子。	她[ ]地产下了儿子。	她[ ]地產下了兒子。	Tā shùnlì de chǎnxiàle érzi.	Ta1 shun4li4 de chan3xia4le er2zi.	She safely gave birth to a boy.		
+854	职业	職業	zhíyè	zhi2ye4	profession; occupation	noun				她从事教育职业。	她從事教育職業。	她从事教育[ ]。	她從事教育[ ]。	Tā cóngshì jiàoyù zhíyè.	Ta1 cong2shi4 jiao4yu4 zhi2ye4.	She works in the field of education.		
+855	赚	賺	zhuàn	zhuan4	earn; make a profit	verb				我赚了一笔钱。	我賺了一筆錢。	我[ ]了一笔钱。	我[ ]了一筆錢。	Wǒ zhuàn le yī bǐ qián.	Wo3 zhuan4 le yi1 bi3 qian2.	I've made some money.		
+856	地址	地址	dìzhǐ	di4zhi3	address	noun				我的地址是……	我的地址是……	我的[ ]是……	我的[ ]是……	Wǒde dìzhǐ shì ……	Wo3de di4zhi3 shi4 ……	My address is…		
+857	于是	於是	yúshì	yu2shi4	as a result; thus; therefore	conjunction				他完成了工作，于是回家了。	他完成了工作，於是回家了。	他完成了工作，[ ]回家了。	他完成了工作，[ ]回家了。	Tā wánchéngle gōngzuò, yúshì huíjiā le.	Ta1 wan2cheng2le gong1zuo4, yu2shi4 hui2jia1 le.	He finished the work and then went home.		
+858	收拾	收拾	shōushi	shou1shi5	to tidy; put in order; to repair; to settle with; punish	verb				她在收拾餐具。	她在收拾餐具。	她在[ ]餐具。	她在[ ]餐具。	Tā zài shōushi cānjù.	Ta1 zai4 shou1shi can1ju4.	She's putting away the dinnerware.		
+859	周围	周圍	zhōuwéi	zhou1wei2	surroundings; vicinity; environment	directional locality				房子的周围是一片草地。	房子的周圍是一片草地。	房子的[ ]是一片草地。	房子的[ ]是一片草地。	Fángzi de zhōuwéi shì yī piàn cǎodì.	Fang2zi de zhou1wei2 shi4 yi1 pian4 cao3di4.	The house is surrounded by lawn.		
+860	爱情	愛情	àiqíng	ai4qing2	(romantic) love	noun				玫瑰让人联想到爱情。	玫瑰讓人聯想到愛情。	玫瑰让人联想到[ ]。	玫瑰讓人聯想到[ ]。	Méigui ràng rén liánxiǎng dào àiqíng.	Mei2gui rang4 ren2 lian2xiang3 dao4 ai4qing2.	Roses remind people of love.		
+861	尊重	尊重	zūnzhòng	zun1zhong4	esteem; to respect; to value; to honor	verb				每个人都要互相尊重。	每個人都要互相尊重。	每个人都要互相[ ]。	每個人都要互相[ ]。	Měige rén dōu yào hùxiāng zūnzhòng.	Mei3ge ren2 dou1 yao4 hu4xiang1 zun1zhong4.	Everyone should respect each other.		
+862	十分	十分	shífēn	shi2fen1	very; fully; 100%	adverb				十分钟后开会。	十分鐘後開會。	[ ]钟后开会。	[ ]鐘後開會。	Shí fēnzhōng hòu kāihuì.	Shi2 fen1zhong1 hou4 kai1hui4.	The meeting will start in 10 minutes.		
+863	教授	教授	jiàoshòu	jiao4shou4	professor; instruct; to lecture	noun				他是大学教授。	他是大學教授。	他是大学[ ]。	他是大學[ ]。	Tā shì dàxué jiàoshòu.	Ta1 shi4 da4xue2 jiao4shou4.	He's a university professor.		
+864	超过	超過	chāoguò	chao1guo4	surpass; exceed; outstrip	verb				6号超过了所有的选手。	6號超過了所有的選手。	6号[ ]了所有的选手。	6號[ ]了所有的選手。	Liù hào chāoguòle suǒyǒude xuǎnshǒu.	Liu4 hao4 chao1guo4le suo3you3de xuan3shou3.	No. 6 has taken the lead over all the other contestants.		
+865	寄	寄	jì	ji4	send by mail	verb				我去邮局寄信。	我去郵局寄信。	我去邮局[ ]信。	我去郵局[ ]信。	Wǒ qù yóujú jìxìn.	Wo3 qu4 you2ju2 ji4xin4.	I'm going to the post office to mail a letter.		
+866	顺便	順便	shùnbiàn	shun4bian4	conveniently; in passing; on the way	adverb				她工作之余顺便在巴黎游玩。	她工作之餘順便在巴黎遊玩。	她工作之余[ ]在巴黎游玩。	她工作之餘[ ]在巴黎遊玩。	Tā gōngzuò zhī yú shùnbiàn zài Bālí yóuwán.	Ta1 gong1zuo4 zhi1 yu2 shun4bian4 zai4 Ba1li2 you2wan2.	She travels to Paris when she gets time off from work.		
+867	无聊	無聊	wúliáo	wu2liao2	nonsense; bored; silly; stupid	adjective				学习 数学 很 无聊。	學習 數學 很 無聊。	学习 数学 很 [ ]。	學習 數學 很 [ ]。	Xuéxí shùxué hěn wúliáo.	Xue2xi2 shu4xue2 hen3 wu2liao2.	Studying Math is very boring.		
+868	目的	目的	mùdì	mu4di4	purpose; aim; goal	noun				我们到达了目的地。	我們到達了目的地。	我们到达了[ ]地。	我們到達了[ ]地。	Wǒmen dàodále mùdìdì.	Wo3men dao4da2le mu4di4di4.	We've arrived at our destination.		
+869	低	低	dī	di1	low; to lower (one's head); droop	adjective		滴		昨天的气温很低。	昨天的氣溫很低。	昨天的气温很[ ]。	昨天的氣溫很[ ]。	Zuótiān de qìwēn hěn dī.	Zuo2tian1 de qi4wen1 hen3 di1.	The temperature was very low yesterday.		
+870	剩	剩	shèng	sheng4	have as remainder; be left over; surplus	verb				这个月的薪水还有剩余。	這個月的薪水還有剩餘。	这个月的薪水还有[ ]余。	這個月的薪水還有[ ]餘。	Zhège yuè de xīnshui hái yǒu shèngyú.	Zhe4ge yue4 de xin1shui hai2 you3 sheng4yu2.	Some of this month's salary is still left over.		
+871	复杂	復雜	fùzá	fu4za2	complicated; complex	adjective				人体的组织结构很复杂。	人體的組織結構很複雜。	人体的组织结构很[ ]。	人體的組織結構很複雜。	Réntǐ de zǔzhī jiégòu hěn fùzá.	Ren2ti3 de zu3zhi1 jie2gou4 hen3 fu4za2.	The structure of the human body is complicated.		
+872	社会	社會	shèhuì	she4hui4	society	noun				工人为社会服务。	工人為社會服務。	工人为[ ]服务。	工人為[ ]服務。	Gōngrén wèi shèhuì fúwù.	Gong1ren2 wei4 she4hui4 fu2wu4.	Workers serve society.		
+873	故意	故意	gùyì	gu4yi4	deliberately; intentional; on purpose	adverb												
+874	好处	好處	hǎochu	hao3chu5	benefit; advantage	noun				多劳动对身体有好处。	多勞動對身體有好處。	多劳动对身体有[ ]。	多勞動對身體有[ ]。	Duō láodòng duì shēntǐ yǒu hǎochù.	Duo1 lao2dong4 dui4 shen1ti3 you3 hao3chu4.	It's good for one's health to do manual labor.		
+875	竟然	竟然	jìngrán	jing4ran2	unexpectedly; to one's surprise; go so far as to	adverb				你竟然给我打电话。	你竟然給我打電話。	你[ ]给我打电话。	你[ ]給我打電話。	Nǐ jìngrán gěi wǒ dǎ diànhuà.	Ni3 jing4ran2 gei3 wo3 da3 dian4hua4.	What a surprise that you should call me.		
+876	表示	表示	biǎoshì	biao3shi4	express; show; indicate	verb				他对你表示感谢。	他對你表示感謝。	他对你[ ]感谢。	他對你[ ]感謝。	Tā duì nǐ biǎoshì gǎnxiè.	Ta1 dui4 ni3 biao3shi4 gan3xie4.	He expressed his gratitude towards you.		
+877	印象	印象	yìnxiàng	yin4xiang4	impression	noun				我对他印象很深。	我對他印象很深。	我对他[ ]很深。	我對他[ ]很深。	Wǒ duì tā yìnxiàng hěn shēn.	Wo3 dui4 ta1 yin4xiang4 hen3 shen1.	He left a deep impression on me.		
+878	出生	出生	chūshēng	chu1sheng1	be born	verb				这个城市是我出生的地方。	這個城市是我出生的地方。	这个城市是我[ ]的地方。	這個城市是我[ ]的地方。	Zhège chéngshì shì wǒ chūshēng de dìfang.	Zhe4ge cheng2shi4 shi4 wo3 chu1sheng1 de di4fang.	This city is where I was born.		
+879	估计	估計	gūjì	gu1ji4	appraise; estimate	verb				估计晚上会下雨。	估計晚上會下雨。	[ ]晚上会下雨。	[ ]晚上會下雨。	Gūjì wǎnshang huì xiàyǔ.	Gu1ji4 wan3shang hui4 xia4yu3.	I think it will rain tonight.		
+880	地点	地點	dìdiǎn	di4dian3	place; site; location	noun												
+881	轻	輕	qīng	qing1	light; easy; gentle; soft	adjective		青		你 看起来 很 轻松。	你 看起來 很 輕鬆。	你 看起来 很 [ ]松。	你 看起來 很 [ ]鬆。	Nǐ kànqǐlái hěn qīngsōng.	Ni3 kan4qi3lai2 hen3 qing1song1.	You appear to be relaxed.		
+882	轻松	輕鬆	qīngsōng	qing1song1	relaxed; gentle; easygoing	adjective				马轻松地越过了障碍。	馬輕鬆地越過了障礙。	马[ ]地越过了障碍。	馬[ ]地越過了障礙。	Mǎ qīngsōng de yuèguòle zhàng'ài.	Ma3 qing1song1 de yue4guo4le zhang4'ai4.	The horse easily jumped over the barrier.		
+883	作用	作用	zuòyòng	zuo4yong4	action; activity; effect	noun				药开始起作用了。	藥開始起作用了。	药开始起[ ]了。	藥開始起[ ]了。	Yào kāishǐ qǐ zuòyòng le.	Yao4 kai1shi3 qi3 zuo4yong4 le.	The medicine began to take effect.		
+884	举	舉	jǔ	ju3	lift; raise; cite	verb				还不知道选举的结果。	還不知道選舉的結果。	还不知道选[ ]的结果。	還不知道選[ ]的結果。	Hái bù zhīdào xuǎnjǔ de jiéguǒ.	Hai2 bu4 zhi1dao4 xuan3ju3 de jie2guo3.	We don't know the election results yet.		
+885	小伙子	小伙子	xiǎohuǒzi	xiao3huo3zi5	young man; lad; youngster	noun												
+886	著名	著名	zhùmíng	zhu4ming2	famous; well-known; celebration	adjective				他是全国著名的作家。	他是全國著名的作家。	他是全国[ ]的作家。	他是全國[ ]的作家。	Tā shì quánguó zhùmíng de zuòjiā.	Ta1 shi4 quan2guo2 zhu4ming2 de zuo4jia1.	He's a writer known to the whole nation.		
+887	免费	免費	miǎn fèi	mian3 fei4	free (of charge); no cost	verb as adverbial				今天公园免费开放。	今天公園免費開放。	今天公园[ ]开放。	今天公園[ ]開放。	Jīntiān gōngyuán miǎnfèi kāifàng.	Jin1tian1 gong1yuan2 mian3fei4 kai1fang4.	Park admission is free today.		
+888	伤心	傷心	shāngxīn	shang1xin1	sad; grieve; brokenhearted	adjective				莫要太伤心！	莫要太傷心！	莫要太[ ]！	莫要太[ ]！	Mò yào tài shāngxīn!	Mo4 yao4 tai4 shang1xin1!	Don't grieve too much.		
+889	记者	記者	jìzhě	ji4zhe3	reporter; journalist	noun				他是新闻记者。	他是新聞記者。	他是新闻[ ]。	他是新聞[ ]。	Tā shì xīnwén jìzhě.	Ta1 shi4 xin1wen2 ji4zhe3.	He's a news reporter.		
+890	仔细	仔細	zǐxì	zi3xi4	careful; attentive; cautious	adjective as adverbial				医生仔细检查她的身体。	醫生仔細檢查她的身體。	医生[ ]检查她的身体。	醫生[ ]檢查她的身體。	Yīshēng zǐxì jiǎnchá tā de shēntǐ.	Yi1sheng1 zi3xi4 jian3cha2 ta1 de shen1ti3.	The doctor is checking her health carefully.		
+891	巧克力	巧克力	qiǎokèlì	qiao3ke4li4	chocolate	noun				他的嘴上和脸上都沾满了巧克力。	他的嘴上和臉上都沾滿了巧克力。	他的嘴上和脸上都沾满了[ ]。	他的嘴上和臉上都沾滿了[ ]。	Tā de zuǐshàng hé liǎnshàng dōu zhānmǎn le qiǎokèlì.	Ta1 de zui3shang4 he2 lian3shang4 dou1 zhan1man3 le qiao3ke4li4.	His lips and face are covered with chocolate.		
+892	辣	辣	là	la4	hot (spicy)	adjective				辣椒、洋葱和胡萝卜都属于蔬菜类。	辣椒、洋蔥和胡蘿蔔都屬於蔬菜類。	[ ]椒、洋葱和胡萝卜都属于蔬菜类。	[ ]椒、洋蔥和胡蘿蔔都屬於蔬菜類。	Làjiāo、yángcōng hé húluóbo dōu shǔyú shūcàilèi.	La4jiao1、yang2cong1 he2 hu2luo2bo dou1 shu3yu2 shu1cai4lei4.	Peppers, onions and carrots are all vegetables.		
+893	互相	互相	hùxiāng	hu4xiang1	mutually; with each other	adverb				我们需要互相帮助。	我們需要互相幫助。	我们需要[ ]帮助。	我們需要[ ]幫助。	Wǒmen xūyào hùxiāng bāngzhù.	Wo3men xu1yao4 hu4xiang1 bang1zhu4.	We need to help one another.		
+894	厕所	廁所	cèsuǒ	ce4suo3	bathroom; toilet; lavatory	noun				这是男厕所。	這是男廁所。	这是男[ ]。	這是男[ ]。	Zhè shì nán cèsuǒ.	Zhe4 shi4 nan2 ce4suo3.	This is the men's toilet.		
+895	过程	過程	guòchéng	guo4cheng2	course of events; process	noun				它的制造过程很复杂。	它的製造過程很複雜。	它的制造[ ]很复杂。	它的製造[ ]很複雜。	Tā de zhìzào guòchéng hěn fùzá.	Ta1 de zhi4zao4 guo4cheng2 hen3 fu4za2.	The manufacturing process is very complicated.		
+896	申请	申請	shēnqǐng	shen1qing3	apply for; application	verb				请填写申请表。	請填寫申請表。	请填写[ ]表。	請填寫[ ]表。	Qǐng tiánxiě shēnqǐngbiǎo.	Qing3 tian2xie3 shen1qing3biao3.	Please fill in the application form.		
+897	引起	引起	yǐnqǐ	yin3qi3	give rise to; lead to; to cause; arouse	verb				她引起了我的注意。	她引起了我的注意。	她[ ]了我的注意。	她[ ]了我的注意。	Tā yǐnqǐle wǒ de zhùyì.	Ta1 yin3qi3le wo3 de zhu4yi4.	She caught my attention.		
+898	发展	發展	fāzhǎn	fa1zhan3	develop; development; growth	verb with nominal function				最近科技发展很快。	最近科技發展很快。	最近科技[ ]很快。	最近科技[ ]很快。	Zuìjìn kējì fāzhǎn hěn kuài.	Zui4jin4 ke1ji4 fa1zhan3 hen3 kuai4.	Technology has recently been developing rapidly.		
+899	毕业	畢業	bì yè	bi4 ye4	to graduate; to finish school	verb				我今年大学毕业。	我今年大學畢業。	我今年大学[ ]。	我今年大學[ ]。	Wǒ jīnnián dàxué bìyè.	Wo3 jin1nian2 da4xue2 bi4ye4.	I'll graduate from university this year.		
+900	正式	正式	zhèngshì	zheng4shi4	formal; official	adjective as adverbial				比赛正式开始了。	比賽正式開始了。	比赛[ ]开始了。	比賽[ ]開始了。	Bǐsài zhèngshì kāishǐ le.	Bi3sai4 zheng4shi4 kai1shi3 le.	The game officially began.		
+901	厨房	廚房	chúfáng	chu2fang2	kitchen	noun				厨房很干净。	廚房很乾淨。	[ ]很干净。	[ ]很乾淨。	Chúfáng hěn gānjìng.	Chu2fang2 hen3 gan1jing4.	The kitchen is very clean.		
+902	专业	專業	zhuānyè	zhuan1ye4	profession; specialized field of study; major	noun				他是医学专业的学生。	他是醫學專業的學生。	他是医学[ ]的学生。	他是醫學[ ]的學生。	Tā shì yīxué zhuānyè de xuésheng.	Ta1 shi4 yi1xue2 zhuan1ye4 de xue2sheng.	He's a student majoring in medicine.		
+903	吸引	吸引	xīyǐn	xi1yin3	attract (interest, investment, etc.)	verb				磁铁互相吸引。	磁鐵互相吸引。	磁铁互相[ ]。	磁鐵互相[ ]。	Cítiě hùxiāng xīyǐn.	Ci2tie3 hu4xiang1 xi1yin3.	The magnets attract each other.		
+904	心情	心情	xīnqíng	xin1qing2	mood; state of mind	noun				我今天心情不错。	我今天心情不錯。	我今天[ ]不错。	我今天[ ]不錯。	Wǒ jīntiān xīnqíng búcuò.	Wo3 jin1tian1 xin1qing2 bu2cuo4.	I'm in a good mood today.		
+905	祝贺	祝賀	zhùhè	zhu4he4	congratulate	verb				祝贺你毕业了！	祝賀你畢業了！	[ ]你毕业了！	[ ]你畢業了！	Zhùhè nǐ bìyè le!	Zhu4he4 ni3 bi4ye4 le!	Congratulations on your graduation!		
+906	条件	條件	tiáojiàn	tiao2jian4	condition; circumstances; prerequisite	noun				这个村子的生活条件仍然很原始。	這個村子的生活條件仍然很原始。	这个村子的生活[ ]仍然很原始。	這個村子的生活[ ]仍然很原始。	Zhège cūnzi de shēnghuó tiáojiàn réngrán hěn yuánshǐ.	Zhe4ge cun1zi de sheng1huo2 tiao2jian4 reng2ran2 hen3 yuan2shi3.	The living conditions in this village are still very primitive.		
+907	千万	千萬	qiānwàn	qian1wan4	ten million; be sure to; must	numeral				千万不要挑拨夫妻关系。	千萬不要挑撥夫妻關係。	[ ]不要挑拨夫妻关系。	[ ]不要挑撥夫妻關係。	Qiānwàn bùyào tiǎobō fūqī guānxi.	Qian1wan4 bu4yao4 tiao3bo1 fu1qi1 guan1xi.	Never sow discord between husband and wife.		
+908	糖	糖	táng	tang2	sugar; candy; sweets	noun				药片都包着一层糖衣。	藥片都包著一層糖衣。	药片都包着一层[ ]衣。	藥片都包著一層[ ]衣。	Yàopiàn dōu bāozhe yī céng tángyī.	Yao4pian4 dou1 bao1zhe yi1 ceng2 tang2yi1.	All the pills are coated with sugar.		
+909	趟	趟	tàng	tang4	(mw for trips times); trip; row	classifier		烫		她 决定 亲自 去 一 趟。	她 決定 親自 去 一 趟。	她 决定 亲自 去 一 [ ]。	她 決定 親自 去 一 [ ]。	Tā juédìng qīnzì qù yí tàng.	Ta1 jue2ding4 qin1zi4 qu4 yi2 tang4.	She decided to go in person.		
+910	由于	由於	yóuyú	you2yu2	due to; owing to; as a result of; thanks to	conjunction				由于下雨，比赛取消了。	由於下雨，比賽取消了。	[ ]下雨，比赛取消了。	[ ]下雨，比賽取消了。	Yóuyú xiàyǔ, bǐsài qǔxiāo le.	You2yu2 xia4yu3, bi3sai4 qu3xiao1 le.	Due to the rain, the game has been canceled.		
+911	密码	密碼	mìmǎ	mi4ma3	password; secret code	noun				售货员请我输入卡号密码。	售貨員請我輸入卡號密碼。	售货员请我输入卡号[ ]。	售貨員請我輸入卡號[ ]。	Shòuhuòyuán qǐng wǒ shūrù kǎhào mìmǎ.	Shou4huo4yuan2 qing3 wo3 shu1ru4 ka3hao4 mi4ma3.	The salesperson asked me to enter my pin number.		
+912	倍	倍	bèi	bei4	(two, three, etc)-fold; times (multiplier)	classifier		被，背		价格增加了一倍。	價格增加了一倍。	价格增加了一[ ]。	價格增加了一[ ]。	Jiàgé zēngjiāle yí bèi.	Jia4ge2 zeng1jia1le yi2 bei4.	The price doubled.		
+913	擦	擦	cā	ca1	to wipe; to rub; to polish	verb				她在擦口红。	她在擦口紅。	她在[ ]口红。	她在[ ]口紅。	Tā zài cā kǒuhóng.	Ta1 zai4 ca1 kou3hong2.	She's putting on lipstick.		
+914	尤其	尤其	yóuqí	you2qi2	especially; particularly	adverb				我喜欢吃日本菜，尤其是寿司。	我喜歡吃日本菜，尤其是壽司。	我喜欢吃日本菜，[ ]是寿司。	我喜歡吃日本菜，[ ]是壽司。	Wǒ xǐhuan chī Rìběncài, yóuqíshì shòusī.	Wo3 xi3huan chi1 Ri4ben3cai4, you2qi2shi4 shou4si1.	I love Japanese food, especially sushi.		
+915	经验	經驗	jīngyàn	jing1yan4	experience	noun				我没有这方面的经验。	我沒有這方面的經驗。	我没有这方面的[ ]。	我沒有這方面的[ ]。	Wǒ méiyǒu zhè fāngmiàn de jīngyàn.	Wo3 mei2you3 zhe4 fang1mian4 de jing1yan4.	I don't have experience in this field.		
+916	盒子	盒子	hézi	he2zi5	box	noun				他很珍惜这个盒子。	他很珍惜這個盒子。	他很珍惜这个[ ]。	他很珍惜這個[ ]。	Tā hěn zhēnxī zhèige hézi.	Ta1 hen3 zhen1xi1 zhei4ge he2zi.	He treasures this box very much.		
+917	干杯	干杯	gān bēi	gan1 bei1	to drink a toast; cheers!; bottoms up!	verb				来，干杯！	來，乾杯！	来，[ ]！	來，乾杯！	Lái, gānbēi!	Lai2, gan1bei1!	Cheers!		
+918	看法	看法	kànfǎ	kan4fa3	point of view; opinion	noun				他让我们改变了看法。	他讓我們改變了看法。	他让我们改变了[ ]。	他讓我們改變了[ ]。	Tā ràng wǒmen gǎibiànle kànfǎ.	Ta1 rang4 wo3men gai3bian4le kan4fa3.	He made us change our views.		
+919	脏	臟	zāng	zang1	filthy; dirty	adjective				这个 盘子 很 脏。	這個 盤子 很 髒。	这个 盘子 很 [ ]。	這個 盤子 很 髒。	Zhège pánzi hěn zāng.	Zhe4ge pan2zi hen3 zang1.	This plate is very dirty.		
+920	艺术	藝術	yìshù	yi4shu4	art	noun				她是年轻的艺术家。	她是年輕的藝術家。	她是年轻的[ ]家。	她是年輕的[ ]家。	Tā shì niánqīng de yìshùjiā.	Ta1 shi4 nian2qing1 de yi4shu4jia1.	She's a young artist.		
+921	速度	速度	sùdù	su4du4	speed; rate; velocity	noun				他们跑步的速度很平均。	他們跑步的速度很平均。	他们跑步的[ ]很平均。	他們跑步的[ ]很平均。	Tāmen pǎobù de sùdù hěn píngjūn.	Ta1men pao3bu4 de su4du4 hen3 ping2jun1.	They run at an even pace.		
+922	勇敢	勇敢	yǒnggǎn	yong3gan3	brave; courageous	adjective				小男孩很勇敢。	小男孩很勇敢。	小男孩很[ ]。	小男孩很[ ]。	Xiǎo nánhái hěn yǒnggǎn.	Xiao3 nan2hai2 hen3 yong3gan3.	The small boy is very courageous.		
+923	数字	數字	shùzì	shu4zi4	number; numeral; figure; digit	noun				我们有一台数字电视。	我們有一台數字電視。	我们有一台[ ]电视。	我們有一台[ ]電視。	Wǒmen yǒu yì tái shùzì diànshì.	Wo3men you3 yi4 tai2 shu4zi4 dian4shi4.	We have a digital TV.		
+924	暂时	暫時	zànshí	zan4shi2	temporary; transient; for the moment	adverb				爸爸只是暂时离开。	爸爸只是暫時離開。	爸爸只是[ ]离开。	爸爸只是[ ]離開。	Bàba zhǐshì zànshí líkāi.	Ba4ba zhi3shi4 zan4shi2 li2kai1.	My father has just left temporarily.		
+925	优秀	優秀	yōuxiù	you1xiu4	outstanding; excellent	adjective				大家的表现都很优秀。	大家的表現都很優秀。	大家的表现都很[ ]。	大家的表現都很[ ]。	Dàjiā de biǎoxiàn dōu hěn yōuxiù.	Da4jia1 de biao3xian4 dou1 hen3 you1xiu4.	Everyone's performance was excellent.		
+926	笑话	笑話	xiàohua	xiao4hua5	joke; laugh at	noun				他的笑话缓和了紧张的气氛。	他的笑話緩和了緊張的氣氛。	他的[ ]缓和了紧张的气氛。	他的[ ]緩和了緊張的氣氛。	Tāde xiàohuà huǎnhé le jǐnzhāng de qìfēn.	Ta1de xiao4hua4 huan3he2 le jin3zhang1 de qi4fen1.	His jokes eased the tense atmosphere.		
+927	可惜	可惜	kěxī	ke3xi1	it's a pity; regrettable; too bad	verb				可惜他失败了。	可惜他失敗了。	[ ]他失败了。	[ ]他失敗了。	Kěxī tā shībàile.	Ke3xi1 ta1 shi1bai4le.	It's a pity that he failed.		
+928	响	響	xiǎng	xiang3	make a sound; to ring; echo	verb		想		闹钟响了，但是他没醒。	鬧鐘響了，但是他沒醒。	闹钟[ ]了，但是他没醒。	鬧鐘[ ]了，但是他沒醒。	Nàozhōng xiǎng le, dànshì tā méi xǐng.	Nao4zhong1 xiang3 le, dan4shi4 ta1 mei2 xing3.	The alarm clock has rung, but he hasn't yet woken up.		
+929	省	省	shěng	sheng3	to save; economize; omit; province	noun				广州是广东省的首府。	廣州是廣東省的首府。	广州是广东[ ]的首府。	廣州是廣東[ ]的首府。	Guǎngzhōu shì Guǎngdōng Shěng de shǒufǔ.	Guang3zhou1 shi4 Guang3dong1 Sheng3 de shou3fu3.	Guangzhou is the capital city of Guangdong province.		
+930	笨	笨	bèn	ben4	stupid; foolish; silly; dumb; clumsy	adjective				老板 真 笨。	老闆 真 笨。	老板 真 [ ]。	老闆 真 [ ]。	Lǎobǎn zhēn bèn.	Lao3ban3 zhen1 ben4.	The boss is really stupid.		
+931	科学	科學	kēxué	ke1xue2	science; scientific knowledge	noun				科学使人类进步。	科學使人類進步。	[ ]使人类进步。	[ ]使人類進步。	Kēxué shǐ rénlèi jìnbù.	Ke1xue2 shi3 ren2lei4 jin4bu4.	Science has advanced the human race.		
+932	餐厅	餐廳	cāntīng	can1ting1	dining hall; cafeteria; restaurant	noun				这家餐厅的环境很不错。	這家餐廳的環境很不錯。	这家[ ]的环境很不错。	這家[ ]的環境很不錯。	Zhè jiā cāntīng de huánjìng hěn bùcuò.	Zhe4 jia1 can1ting1 de huan2jing4 hen3 bu4cuo4.	The restaurant is quite nice inside.		
+933	各	各	gè	ge4	each; every	pronoun				他们各自工作。	他們各自工作。	他们[ ]自工作。	他們[ ]自工作。	Tāmen gèzì gōngzuò.	Ta1men ge4zi4 gong1zuo4.	Each of them is working.		
+934	距离	距離	jùlí	ju4li2	distance; be apart; away from	noun				我家距离车站1公里。	我家距離車站1公里。	我家[ ]车站1公里。	我家[ ]車站1公里。	Wǒ jiā jùlí chēzhàn yī gōnglǐ.	Wo3 jia1 ju4li2 che1zhan4 yi1 gong1li3.	My home is one kilometer away from the station.		
+935	窗户	窗戶	chuānghu	chuang1hu5	window	noun				你 可以 关 窗户 吗？	你 可以 關 窗戶 嗎？	你 可以 关 [ ] 吗？	你 可以 關 [ ] 嗎？	Nǐ kěyǐ guān chuānghu ma?	Ni3 ke3yi3 guan1 chuang1hu ma?	Can you close the window?		
+936	空气	空氣	kōngqì	kong1qi4	air	noun				野外的空气真好。	野外的空氣真好。	野外的[ ]真好。	野外的[ ]真好。	Yěwài de kōngqì zhēn hǎo.	Ye3wai4 de kong1qi4 zhen1 hao3.	The air in the countryside is really good.		
+937	护士	護士	hùshi	hu4shi5	nurse	noun				她成为一名护士。	她成為一名護士。	她成为一名[ ]。	她成為一名[ ]。	Tā chéngwéi yī míng hùshi.	Ta1 cheng2wei2 yi1 ming2 hu4shi.	She's become a nurse.		
+938	后悔	后悔	hòuhuǐ	hou4hui3	to regret; repent	verb				他做错了事，很后悔。	他做錯了事，很後悔。	他做错了事，很[ ]。	他做錯了事，很後悔。	Tā zuòcuòle shì, hěn hòuhuǐ.	Ta1 zuo4cuo4le shi4, hen3 hou4hui3.	He has done wrong and regrets it very much.		
+939	大约	大約	dàyuē	da4yue1	approximately; about	adverb				这个男孩大约六岁。	這個男孩大約六歲。	这个男孩[ ]六岁。	這個男孩[ ]六歲。	Zhège nánháir dàyuē liù suì.	Zhe4ge nan2hai2r da4yue1 liu4 sui4.	The boy is about six years old.		
+940	内容	內容	nèiróng	nei4rong2	content; substance; details	noun				这本书的内容很难。	這本書的內容很難。	这本书的[ ]很难。	這本書的[ ]很難。	Zhè běn shū de nèiróng hěn nán.	Zhe4 ben3 shu1 de nei4rong2 hen3 nan2.	The content of this book is difficult.		
+941	规定	規定	guīdìng	gui1ding4	regulation; stipulate; fix; set	noun				公司规定不能迟到。	公司規定不能遲到。	公司[ ]不能迟到。	公司[ ]不能遲到。	Gōngsī guīdìng bù néng chídào.	Gong1si1 gui1ding4 bu4 neng2 chi2dao4.	The company rules state that employees must not be late.		
+942	效果	效果	xiàoguǒ	xiao4guo3	effect; result	noun				运动减肥的效果很好。	運動減肥的效果很好。	运动减肥的[ ]很好。	運動減肥的[ ]很好。	Yùndòng jiǎnféi de xiàoguǒ hěn hǎo.	Yun4dong4 jian3fei2 de xiao4guo3 hen3 hao3.	Doing exercise is an effective way to lose weight.		
+943	现金	現金	xiànjīn	xian4jin1	cash	noun				算一算你的钱包有多少现金？	算一算你的錢包有多少現金？	算一算你的钱包有多少[ ]？	算一算你的錢包有多少[ ]？	Suàn yī suàn nǐ de qiánbāo yǒu duōshǎo xiànjīn?	Suan4 yi1 suan4 ni3 de qian2bao1 you3 duo1shao3 xian4jin1?	Count how much cash you've got in your wallet.		
+944	儿童	兒童	értóng	er2tong2	child; children	noun				那里是儿童乐园。	那裏是兒童樂園。	那里是[ ]乐园。	那裏是[ ]樂園。	Nàli shì értóng lèyuán.	Na4li shi4 er2tong2 le4yuan2.	That's a playground over there.		
+945	租	租	zū	zu1	to rent	verb				我想租一套公寓。	我想租一套公寓。	我想[ ]一套公寓。	我想[ ]一套公寓。	Wǒ xiǎng zū yī tào gōngyù.	Wo3 xiang3 zu1 yi1 tao4 gong1yu4.	I want to rent an apartment.		
+946	篇	篇	piān	pian1	sheet; (mw for articles); piece of writing	classifier				他在报纸发表了一篇文章。	他在報紙發表了一篇文章。	他在报纸发表了一[ ]文章。	他在報紙發表了一[ ]文章。	Tā zài bàozhǐ fābiǎole yì piān wénzhāng.	Ta1 zai4 bao4zhi3 fa1biao3le yi4 pian1 wen2zhang1.	He published an article in the newspaper.		
+947	浪漫	浪漫	làngmàn	lang4man4	romantic	adjective				那个爱情故事很浪漫。	那個愛情故事很浪漫。	那个爱情故事很[ ]。	那個愛情故事很[ ]。	Nàge àiqíng gùshi hěn làngmàn.	Na4ge ai4qing2 gu4shi hen3 lang4man4.	That love story is romantic.		
+948	态度	態度	tàidu	tai4du5	manner; bearing; attitude	noun				他的态度很亲切。	他的態度很親切。	他的[ ]很亲切。	他的[ ]很親切。	Tā de tàidu hěn qīnqiè.	Ta1 de tai4du hen3 qin1qie4.	He is very cordial.		
+949	自信	自信	zìxìn	zi4xin4	self-confidence	adjective with nominal function				我自信能完成这份工作。	我自信能完成這份工作。	我[ ]能完成这份工作。	我[ ]能完成這份工作。	Wǒ zìxìn néng wánchéng zhè fèn gōngzuò.	Wo3 zi4xin4 neng2 wan2cheng2 zhe4 fen4 gong1zuo4.	I'm confident of completing the job.		
+950	吃惊	吃驚	chī jīng	chi1 jing1	be startled; be shocked; be amazed	adjective				这个消息令人吃惊。	這個消息令人吃驚。	这个消息令人[ ]。	這個消息令人[ ]。	Zhège xiāoxi lìngrén chījīng.	Zhe4ge xiao1xi ling4ren2 chi1jing1.	The news is surprising.		
+951	熟悉	熟悉	shúxī	shu2xi1	familiar with; know well	verb				我对这个事情不熟悉。	我對這個事情不熟悉。	我对这个事情不[ ]。	我對這個事情不[ ]。	Wǒ duì zhèige shìqing bù shúxī.	Wo3 dui4 zhei4ge shi4qing bu4 shu2xi1.	I'm not familiar with this matter.		
+952	按照	按照	ànzhào	an4zhao4	according to; in accordance with; in light of	preposition				一切都按照计划进行。	一切都按照計劃進行。	一切都[ ]计划进行。	一切都[ ]計劃進行。	Yíqiè dōu ànzhào jìhuà jìnxíng.	Yi2qie4 dou1 an4zhao4 ji4hua4 jin4xing2.	Everything is underway according to plan.		
+953	世纪	世紀	shìjì	shi4ji4	century	noun		事迹		人类已经进入21世纪。	人類已經進入21世紀。	人类已经进入21[ ]。	人類已經進入21[ ]。	Rénlèi yǐjing jìnrù èrshíyī shìjì.	Ren2lei4 yi3jing jin4ru4 er4shi2yi1 shi4ji4.	Mankind has entered the twenty first century.		
+954	回忆	回憶	huíyì	hui2yi4	to recall; recollect	verb				把美好的回忆留在心中。	把美好的回憶留在心中。	把美好的[ ]留在心中。	把美好的[ ]留在心中。	Bǎ měihǎo de huíyì liú zài xīnzhōng.	Ba3 mei3hao3 de hui2yi4 liu2 zai4 xin1zhong1.	Hold your beautiful memories in your heart.		
+955	相同	相同	xiāngtóng	xiang1tong2	identical; same; alike	adjective				她们穿着相同的衣服。	她們穿著相同的衣服。	她们穿着[ ]的衣服。	她們穿著[ ]的衣服。	Tāmen chuānzhe xiāngtóng de yīfu.	Ta1men chuan1zhe xiang1tong2 de yi1fu.	They're wearing identical clothes.		
+956	重点	重點	zhòngdiǎn	zhong4dian3	emphasis; main point	noun				政府重点发展经济。	政府重點發展經濟。	政府[ ]发展经济。	政府[ ]發展經濟。	Zhèngfǔ zhòngdiǎn fāzhǎn jīngjì.	Zheng4fu3 zhong4dian3 fa1zhan3 jing1ji4.	The government focus is on economic development.		
+957	教育	教育	jiàoyù	jiao4yu4	education	verb with nominal function				她教育孩子们。	她教育孩子們。	她[ ]孩子们。	她[ ]孩子們。	Tā jiàoyù háizimen.	Ta1 jiao4yu4 hai2zimen.	She teaches children.		
+958	受不了	受不了	shòu bu liǎo	shou4 bu5 liao3	cannot endure; unbearable; can't stand	fixed expression				我受不了了。	我受不了了。	我[ ]了。	我[ ]了。	Wǒ shòubuliǎo le.	Wo3 shou4buliao3 le.	I can't stand it anymore.		
+959	皮肤	皮膚	pífū	pi2fu1	skin	noun				她的面部皮肤很好。	她的面部皮膚很好。	她的面部[ ]很好。	她的面部[ ]很好。	Tā de miànbù pífū hěn hǎo.	Ta1 de mian4bu4 pi2fu1 hen3 hao3.	She has a wonderful facial complexion.		
+960	区别	區別	qūbié	qu1bie2	difference; distinguish	noun				不同的颜色一眼就能区别出来。	不同的顔色一眼就能區別出來。	不同的颜色一眼就能[ ]出来。	不同的顔色一眼就能[ ]出來。	Bùtóng de yánsè yīyǎn jiù néng qūbié chūlái.	Bu4tong2 de yan2se4 yi1yan3 jiu4 neng2 qu1bie2 chu1lai2.	You can differentiate between different colors with one glance.		
+961	左右	左右	zuǒyòu	zuo3you4	about; approximate; around; (left and right); control	numeral				请不要左右我！	請不要左右我！	请不要[ ]我！	請不要[ ]我！	Qǐng búyào zuǒyòu wǒ!	Qing3 bu2yao4 zuo3you4 wo3!	Please don't control me!		
+962	阳光	陽光	yángguāng	yang2guang1	sunshine; sunlight	noun				阳光照在树叶上。	陽光照在樹葉上。	[ ]照在树叶上。	[ ]照在樹葉上。	Yángguāng zhào zài shùyè shàng.	Yang2guang1 zhao4 zai4 shu4ye4 shang4.	The sun is shining on the tree leaves.		
+963	页	頁	yè	ye4	page; leaf (Kangxi radical 181)	classifier		夜		他把书翻到下一页。	他把書翻到下一頁。	他把书翻到下一[ ]。	他把書翻到下一[ ]。	Tā bǎ shū fān dào xià yī yè.	Ta1 ba3 shu1 fan1 dao4 xia4 yi1 ye4.	He turned to the next page.		
+964	文章	文章	wénzhāng	wen2zhang1	article; essay	verb with nominal function				他在报纸发表了一篇文章。	他在報紙發表了一篇文章。	他在报纸发表了一篇[ ]。	他在報紙發表了一篇[ ]。	Tā zài bàozhǐ fābiǎole yì piān wénzhāng.	Ta1 zai4 bao4zhi3 fa1biao3le yi4 pian1 wen2zhang1.	He published an article in the newspaper.		
+965	语言	語言	yǔyán	yu3yan2	language	noun				你会说几种语言？	你會說幾種語言？	你会说几种[ ]？	你會說幾種[ ]？	Nǐ huì shuō jǐ zhǒng yǔyán?	Ni3 hui4 shuo1 ji3 zhong3 yu3yan2?	How many languages do you speak?		
+966	标准	標准	biāozhǔn	biao1zhun3	(an official) standard; norm; criterion	noun				她的体操动作很标准。	她的體操動作很標準。	她的体操动作很[ ]。	她的體操動作很標準。	Tā de tǐcāo dòngzuò hěn biāozhǔn.	Ta1 de ti3cao1 dong4zuo4 hen3 biao1zhun3.	Her gymnastics moves are up to the standard.		
+967	管理	管理	guǎnlǐ	guan3li3	supervise; manage	verb with nominal function				我管理这个部门。	我管理這個部門。	我[ ]这个部门。	我[ ]這個部門。	Wǒ guǎnlǐ zhège bùmén.	Wo3 guan3li3 zhe4ge bu4men2.	I'm in charge of this department.		
+968	误会	誤會	wùhuì	wu4hui4	to misunderstand; to mistake	verb with nominal function				这次误会破坏了他们的感情。	這次誤會破壞了他們的感情。	这次[ ]破坏了他们的感情。	這次[ ]破壞了他們的感情。	Zhècì wùhuì pòhuài le tāmen de gǎnqíng.	Zhe4ci4 wu4hui4 po4huai4 le ta1men de gan3qing2.	This misunderstanding ruined their love.		
+969	桥	橋	qiáo	qiao2	bridge	noun		瞧		这座大桥连接起两岸的交通。	這座大橋連接起兩岸的交通。	这座大[ ]连接起两岸的交通。	這座大[ ]連接起兩岸的交通。	Zhèi zuò dàqiáo liánjiē qǐ Liǎng'àn de jiāotōng.	Zhei4 zuo4 da4qiao2 lian2jie1 qi3 Liang3'an4 de jiao1tong1.	This bridge links traffic from both sides.		
+970	举行	舉行	jǔxíng	ju3xing2	convene; to hold (a meeting, ceremony, etc.)	verb				2008年的奥运会在北京举行。	2008年的奧運會在北京舉行。	2008年的奥运会在北京[ ]。	2008年的奧運會在北京[ ]。	Èr líng líng bā nián de Àoyùnhuì zài Běijīng jǔxíng.	Er4 ling2 ling2 ba1 nian2 de Ao4yun4hui4 zai4 Bei3jing1 ju3xing2.	The 2008 Olympic Games were held in Beijing.		
+971	肚子	肚子	dùzi	du4zi5	belly; abdomen; stomach	noun				他肚子痛。	他肚子痛。	他[ ]痛。	他[ ]痛。	Tā dùzi tòng.	Ta1 du4zi tong4.	He has a stomachache.		
+972	不仅	不僅	bùjǐn	bu4jin3	not only; not just	conjunction				成功的标准不仅仅是财富。	成功的標準不僅僅是財富。	成功的标准[ ]仅是财富。	成功的標準[ ]僅是財富。	Chénggōng de biāozhǔn bù jǐnjǐn shì cáifù.	Cheng2gong1 de biao1zhun3 bu4 jin3jin3 shi4 cai2fu4.	Wealth is not the only criterion of success.		
+973	饼干	餅干	bǐnggān	bing3gan1	biscuit; cracker; cookie	noun				她正在吃饼干。	她正在吃餅乾。	她正在吃[ ]。	她正在吃餅乾。	Tā zhèng zài chī bǐnggān.	Ta1 zheng4 zai4 chi1 bing3gan1.	She is eating cookies.		
+974	国际	國際	guójì	guo2ji4	international	noun				这部手机可以拨打国际电话。	這部手機可以撥打國際電話。	这部手机可以拨打[ ]电话。	這部手機可以撥打[ ]電話。	Zhè bù shǒujī kěyǐ bōdǎ guójì diànhuà.	Zhe4 bu4 shou3ji1 ke3yi3 bo1da3 guo2ji4 dian4hua4.	This cell phone can make international calls.		
+975	信心	信心	xìnxīn	xin4xin1	confidence; faith (in sb. or sth.)	noun				我们具有必胜的信心。	我們具有必勝的信心。	我们具有必胜的[ ]。	我們具有必勝的[ ]。	Wǒmen jùyǒu bìshèng de xìnxīn.	Wo3men ju4you3 bi4sheng4 de xin4xin1.	We're confident of victory.		
+976	抬	抬	tái	tai2	to lift; to raise (with both palms up); carry (together)	verb		台		他们把柜子抬上车。	他們把櫃子抬上車。	他们把柜子[ ]上车。	他們把櫃子[ ]上車。	Tāmen bǎ guìzi táishàng chē.	Ta1men ba3 gui4zi tai2shang4 che1.	They are carrying/moving the cabinet onto the vehicle.		
+977	竞争	競爭	jìngzhēng	jing4zheng1	compete	verb with nominal function				比赛中双方竞争得很激烈。	比賽中雙方競爭得很激烈。	比赛中双方[ ]得很激烈。	比賽中雙方[ ]得很激烈。	Bǐsài zhōng shuāngfāng jìngzhēng de hěn jīliè.	Bi3sai4 zhong1 shuang1fang1 jing4zheng1 de hen3 ji1lie4.	Both sides competed fiercely in the game.		
+978	汤	湯	tāng	tang1	soup; broth	noun				我叫汤姆。	我叫湯姆。	我叫[ ]姆。	我叫[ ]姆。	Wǒ jiào Tāngmǔ.	Wo3 jiao4 Tang1mu3.	I'm Tom.		
+979	作家	作家	zuòjiā	zuo4jia1	author; writer	noun				我是一个作家。	我是一個作家。	我是一个[ ]。	我是一個[ ]。	Wǒ shì yí gè zuòjiā.	Wo3 shi4 yi2 ge4 zuo4jia1.	I'm a writer.		
+980	诚实	誠實	chéngshí	cheng2shi2	honest; honorable	adjective				他很诚实，从来不说谎。	他很誠實，從來不說謊。	他很[ ]，从来不说谎。	他很[ ]，從來不說謊。	Tā hěn chéngshí, cónglái bù shuōhuǎng.	Ta1 hen3 cheng2shi2, cong2lai2 bu4 shuo1huang3.	He's very honest, and never lies.		
+981	顾客	顧客	gùkè	gu4ke4	customer; client	noun				超市里的食品可以任顾客挑选。	超市裏的食品可以任顧客挑選。	超市里的食品可以任[ ]挑选。	超市裏的食品可以任[ ]挑選。	Chāoshì lǐ de shípǐn kěyǐ rèn gùkè tiāoxuǎn.	Chao1shi4 li3 de shi2pin3 ke3yi3 ren4 gu4ke4 tiao1xuan3.	Customers can select any of the foods in the supermarket they wish to.		
+982	存	存	cún	cun2	exist; to deposit; to store	verb				我存了一万元。	我存了一萬元。	我[ ]了一万元。	我[ ]了一萬元。	Wǒ cúnle yíwàn yuán.	Wo3 cun2le yi2wan4 yuan2.	I saved 10,000 yuan.		
+983	香	香	xiāng	xiang1	fragrant; savory (Kangxi radical 186)	noun				香港是一个国际大都市。	香港是一個國際大都市。	[ ]港是一个国际大都市。	[ ]港是一個國際大都市。	Xiānggǎng shì yī gè guójì dàdūshì.	Xiang1gang3 shi4 yi1 ge4 guo2ji4 da4du1shi4.	Hong Kong is an international metropolis.		
+984	打扮	打扮	dǎban	da3ban5	dress up; put on make up	verb				她打扮得很妖艳。	她打扮得很妖豔。	她[ ]得很妖艳。	她[ ]得很妖豔。	Tā dǎban de hěn yāoyàn.	Ta1 da3ban de hen3 yao1yan4.	She's dolled up gorgeously but coquettishly.		
+985	交流	交流	jiāoliú	jiao1liu2	communicate; exchange; give and take; interaction; to alternate	verb with nominal function				文化交流很重要。	文化交流很重要。	文化[ ]很重要。	文化[ ]很重要。	Wénhuà jiāoliú hěn zhòngyào.	Wen2hua4 jiao1liu2 hen3 zhong4yao4.	Cultural exchange is important.		
+986	年龄	年齡	niánlíng	nian2ling2	(a person's) age	noun				儿子已经到了上学的年龄。	兒子已經到了上學的年齡。	儿子已经到了上学的[ ]。	兒子已經到了上學的[ ]。	Érzi yǐjīng dàole shàngxué de niánlíng.	Er2zi yi3jing1 dao4le shang4xue2 de nian2ling2.	My son is old enough to start school.		
+987	小说	小說	xiǎoshuō	xiao3shuo1	novel; fiction	noun				我喜欢看小说。	我喜歡看小說。	我喜欢看[ ]。	我喜歡看[ ]。	Wǒ xǐhuan kàn xiǎoshuō.	Wo3 xi3huan kan4 xiao3shuo1.	I like reading novels.		
+988	符合	符合	fúhé	fu2he2	in keeping with; in accordance with; conform	verb				这个决定符合现在的情况。	這個決定符合現在的情況。	这个决定[ ]现在的情况。	這個決定[ ]現在的情況。	Zhèige juédìng fúhé xiànzài de qíngkuàng.	Zhei4ge jue2ding4 fu2he2 xian4zai4 de qing2kuang4.	This decision is in line with the current situation.		
+989	交通	交通	jiāotōng	jiao1tong1	traffic; transportation	noun				这座大桥连接起两岸的交通。	這座大橋連接起兩岸的交通。	这座大桥连接起两岸的[ ]。	這座大橋連接起兩岸的[ ]。	Zhèi zuò dàqiáo liánjiē qǐ Liǎng'àn de jiāotōng.	Zhei4 zuo4 da4qiao2 lian2jie1 qi3 Liang3'an4 de jiao1tong1.	This bridge links traffic from both sides.		
+990	共同	共同	gòngtóng	gong4tong2	together; common; joint	adverb				我们共同努力吧。	我們共同努力吧。	我们[ ]努力吧。	我們[ ]努力吧。	Wǒmen gòngtóng nǔlì ba.	Wo3men gong4tong2 nu3li4 ba.	Let's make a joint effort.		
+991	稍微	稍微	shāowēi	shao1wei1	a little bit; slightly	adverb												
+992	增加	增加	zēngjiā	zeng1jia1	to increase; to raise; add	verb				我的收入增加了。	我的收入增加了。	我的收入[ ]了。	我的收入[ ]了。	Wǒ de shōurù zēngjiā le.	Wo3 de shou1ru4 zeng1jia1 le.	My income has increased.		
+993	敲	敲	qiāo	qiao1	knock; blackmail	verb				他在敲打键盘。	他在敲打鍵盤。	他在[ ]打键盘。	他在[ ]打鍵盤。	Tā zài qiāodǎ jiànpán.	Ta1 zai4 qiao1da3 jian4pan2.	He's typing on the keyboard.		
+994	适应	適應	shìyìng	shi4ying4	to suit; to fit; adapt	verb				你一定能适应新工作。	你一定能適應新工作。	你一定能[ ]新工作。	你一定能[ ]新工作。	Nǐ yídìng néng shìyìng xīn gōngzuò.	Ni3 yi2ding4 neng2 shi4ying4 xin1 gong1zuo4.	You should surely be able to adapt yourself to the new work.		
+995	苦	苦	kǔ	ku3	bitter; miserable	adjective				英国的 啤酒 比较 苦。	英國的 啤酒 比較 苦。	英国的 啤酒 比较 [ ]。	英國的 啤酒 比較 [ ]。	Yīngguóde píjiǔ bǐjiào kǔ.	Ying1guo2de pi2jiu3 bi3jiao4 ku3.	English beer is rather bitter.		
+996	辛苦	辛苦	xīnkǔ	xin1ku3	hard; exhausting; toilsome; laborious	adjective				他的工作很辛苦。	他的工作很辛苦。	他的工作很[ ]。	他的工作很[ ]。	Tā de gōngzuò hěn xīnkǔ.	Ta1 de gong1zuo4 hen3 xin1ku3.	His job is very arduous.		
+997	然而	然而	rán'ér	ran2'er2	however; yet; but	conjunction				他来了，然而又走了。	他來了，然而又走了。	他来了，[ ]又走了。	他來了，[ ]又走了。	Tā lái le, rán'ér yòu zǒu le.	Ta1 lai2 le, ran2'er2 you4 zou3 le.	He came but then left.		
+998	耐心	耐心	nàixīn	nai4xin1	to be patient	adjective as adverbial				他在耐心地等待。	他在耐心地等待。	他在[ ]地等待。	他在[ ]地等待。	Tā zài nàixīn de děngdài.	Ta1 zai4 nai4xin1 de deng3dai4.	He's waiting patiently.		
+999	将来	將來	jiānglái	jiang1lai2	the future	time word				我将来想当医生。	我將來想當醫生。	我[ ]想当医生。	我[ ]想當醫生。	Wǒ jiānglái xiǎng dāng yīshēng.	Wo3 jiang1lai2 xiang3 dang1 yi1sheng1.	I want to be a doctor in the future.		
+1000	沙发	沙發	shāfā	sha1fa1	sofa	noun				这张沙发是朱红色的。	這張沙發是朱紅色的。	这张[ ]是朱红色的。	這張[ ]是朱紅色的。	Zhè zhāng shāfā shì zhūhóngsè de.	Zhe4 zhang1 sha1fa1 shi4 zhu1hong2se4 de.	This sofa is bright red.		
