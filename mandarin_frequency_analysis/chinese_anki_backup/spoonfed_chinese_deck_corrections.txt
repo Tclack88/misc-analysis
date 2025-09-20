@@ -1,0 +1,437 @@
+Spoonfed feedback Corrections (hanzi, pinyin words, duplicates) and better translations
+
+这张票3天内有效。 (I must have already corrected this, changing 月 to 天)
+Should be days, not months
+
+二的两倍是四 
+"two doubled is four" it's a bit more accurate
+
+"I'm about to send e-mails to my friends."
+Sentence just has mail, not email
+
+我们看见孩子上了车。
+I listened really hard and only heard 我, not 我们
+
+我在公园遇到了Ken. 
+By contrast to the above I heard, 我们, not 我
+
+你相信有上帝吗？
+Duplicates, slight difference in English
+
+问问他会不会说日语。I hear 我 right in the beginning, so rather than it be "ask him if...", the translation is better as "I asked him..."
+
+明天下午之前我将把它完成. 将 is given, but the audio says 会
+
+那对夫妻很幸福。 should specify it's a married couple as opposed to a young dating couple
+
+下班时间，地铁里的人超级多 "super many people"
+
+他在欣赏这幅作品
+maybe important to specify its a work of art or literature
+
+起床的时间到了
+it's time to get out of bed. The time to get out of bed has arrived
+
+他以牺牲自己的健康为代价完成了这项工作。
+Maybe say: "he completes the job at the expense of his health"
+
+我和她外出了几个月
+Audio cut off, fix or remove
+
+我今天有空
+Audio cut off, fix or remove
+
+This one is mistranslated
+他们讨论起来，沟通彼此想法Zhètiáo zuànshí xiàngliàn fēicháng áng'guì.
+This diamond necklace is very very expensive.
+
+我很喜欢吃蛋糕
+Audio is ta, not wo
+
+唯一比无论什么资源都珍贵的是土地
+Audio doesn't fully match
+
+你其实没必要带伞
+Audio cut off
+
+我妹妹嫁给了一个医生。
+Two audio sentences spoken together in same file
+
+他端着啤酒走过来
+Translation says "he came over with a tray of beer", but nothing implies a tray, so maybe just "he came over with beer" is a better translation
+
+危险的行为应受到惩罚
+"dangerous behavior" is α more accurate and general translation I think
+
+我们捉到了一只兔子
+(audio says zhua, should be zhuo)
+
+学生不该忽略自己的身份
+Pinyin gives hūlvè, should be hūlüè
+
+中国人普遍都爱吃包子。
+In English, it says "baozi" but it should probably be translated to an English word "steamed buns"
+
+耐心地坚持下去，这些事急不来
+A better translation should be "stay patient. These things take time", currently the translation is "don't worry, these things take time" which even though it gives the idea, it implies one of the words has something to do with worry, which it does not.
+
+金窝银窝不如自己的狗窝
+The literal meaning should be given as it is significantly different from the given meaning
+
+A他的发音怎么样?
+B好。他在英国学习过,所以他有英国口音。
+Not just 好, but 很好
+Also, at this point, the new word seems to be
+优雅, which would be good to include here
+
+种瓜得瓜，种豆得豆
+The literal meaning should be given (Plant melons and you get melons; sow beans and you get beans)
+
+弹吉他的那个男孩是我弟弟
+First character here, the pinyin says dàn but it sounds like (and I believe is) tán
+
+我没有拜访他，因为我感冒了
+Translation says "I didn't call on him because... " which is a very uncommon idiom. Better to say "I didn't visit him because..."
+
+他们嫉妒我们的成功。
+Two words are swapped (both characters and pinyin)
+嫉妒 is spoken as 妒嫉
+
+你认识这位老师吗？
+Extra audio, presumably a separate sentence asking if someone know their student
+
+地上有很多土
+Is it really dust? Seems like dirt/soil
+Dust is more 灰尘
+
+据最少的估计，也要花3000日元。
+Translation says 30,000 yen, it's 3000
+
+
+总统获得国会充份的支持。
+Repeat card. One has English as president received the other as president was granted. Regardless, this is a duplicate card
+
+难怪她表示不想再见到他了。因为他们分手了。
+表示 here seems to suggest she expressed she didn't eat to see him, not that she didn't show up. Translation can be improved to
+No wonder she said she didn't want to see him again.Because they broke up.
+
+政府按照步骤进行改革
+Translation says the gov carried out the reform step By step. I think a better translation is the gov followed steps to carry out the reform. There's no "step by step" connotation I can see
+
+他坚信他的汽车有些问题。
+Translation given is "he confirmed something is wrong with his car". I think it should be "he firmly believes something is wrong with his car"
+
+这辆车保养起来很贵。
+Opinion: maintaining > running
+
+他请假了
+Translation says "he went on leave"
+I think it should be "he asked for leave"
+
+董事长召开了董事会。
+Beginning of sentence is slightly cut off
+
+肉炖得很烂
+Says it was stewed until it was soft. But it's more like bad soft (mushy)
+
+他向父亲反省了自己的错误。
+"Reflected on his mistakes" is better. Nothing implies remorse
+
+这里的夏天很热，另外，冬天很干燥。
+Says "summers are humid" but it should be "summers are hot"
+
+无可否认她非常有能力
+Efficient? More like capable
+
+他更改了他的计画表
+Should be
+他更改了他的计划表。
+
+政府应该改善贪污腐败的问题
+Deal with =>Improve
+
+不要指望别人为你着想
+"Don't expect others to think for you" Should be
+"Don't expect others to think of you". Very subtle
+着想 means think of/be considerate of. The previous meaning implies others making decisions for you
+
+我的学生们英语发音不好。
+Should specify "My students' *English* pronunciation is not good."
+
+让他跳舞岂不是很难。
+Shouldn't this be a question? And shouldn't this question be :
+Wouldn't it be difficult getting him to dance?
+
+自行车从右侧超过汽车是不合法的
+Audio doesn't match. Same idea But not the same
+Audio gives:  自行车在汽车的右侧行驶是不合法的
+
+在有些国家乌鸦是不详的象征。
+Says "ominous symbol". I think it should be "symbol of the unknown"
+
+市场里的桃子很新鲜。
+Peaches, not pears
+
+昨天教育部规划了考试范围
+Announced => planned
+
+当它运转了，他们才看起来放心了。
+It's not very clear about what's "in motion", the context is essentially a machine working. Suggest changing the translation, to something like: "When it worked, they seemed relieved." and hunting "it" is like a machine
+
+他无法忍耐她的做法，骂了她。
+Suggest: he had no patience with her way of doing things... It's truer to the actual meaning
+
+公司员工想要争取加薪
+They don't just want a raise. They want to go fight for a pay raise
+
+残疾并不是不幸的遭遇。
+Recommend: Being disabled doesn't have to be a misfortune experience.
+
+市场里的桃子很新鲜
+Peaches, not pears
+
+他们约好星期天去登山
+Hiking. Not climbing (implies rock climbing)
+
+我们从不支持恐怖主义
+Countenance? Just say "stand for"
+
+皮筋具有弹性。
+Audio Sounds like saying "Kan xin" rather than "tan xin"
+
+你觉得她最想要什么纪念品
+Slight audio cutoff in the beginning
+
+我会帮你应急处理一下
+Better translation:
+I'll help you deal with emergencies.
+
+这顶红帽子很衬她的裙子。
+Is it dress or skirt? Does it matter?
+
+我不小心闪了腰
+Suggest: sprained instead of injured
+
+李明考上了医学博士
+The sentence should involve a medical doctor not just the PhD
+
+牧场里养了很多牛
+Farm => pasture or ranch
+
+我父亲一直很冷静
+Suggest "calm" instead of "cool", while it fits, it might be misconstrued as cool, the synonym of "awesome"
+
+他们信奉基督教
+Is it protestantism or Christianity?
+
+我父亲逐渐好转了
+Confusing. Should just be "my father is getting better gradually"
+
+成千上万的人对这个广告很失望
+Deceived? I think you meant dissapointed
+
+警察在附近巡逻
+Nothing indicates they're patrolling a neighborhood, just "nearby"
+
+建筑工人正在修路
+Repairing a road not building)
+
+我做事该果断
+More like "I should do things decisively"
+
+我们给Robert取了个绰号叫“Bob”。
+Pinyin correction:
+wǒmen gěi Robert qǔ le ge chuòhào jiào "Bob".
+
+他把其他对手淘汰了
+"He eliminated the other opponents"
+Is a better translation. There's nothing that indicates there's a race, and 淘汰 has more of a meaning of eliminate from a game or contest
+
+他觉得电视节目的内容太庸俗
+Audio says 我觉得... But text says 他觉得...
+
+他不惜用私人时间来工作
+Suggest: "he doesn't hesitate using his personal time to work"
+
+她趴在草丛中
+Not crouching (that's like squatting but still in feet), more like lying on stomach. She's lying down (on her stomach) on the grass
+
+我在网上申请了一个新账号
+Not just any account, a bank account
+
+目前，我妹妹在一家超市当收银员
+cashier, not an assistant
+
+他做法的背后，别有目的
+
+美国总统在白宫办公
+Instead of "deals with national affairs", it's more accurate just to say "works" (with the implication that 办公 implies that work is at an office)
+
+他能胜任这份工作
+"he is qualified for the job" is a better translation
+
+花园被木栅栏围了起来
+Error in pinyin, mùshān should be mùzhà
+
+他参加募捐
+Not fundraising, suggest: collecting donations
+
+过河拆桥
+Suggest editing this to give the literal meaning and then explain... As per pleco:
+Lit. pull down the bridge after crossing the river—ignore one's benefactor once his help is no longer needed; kick down the ladder; burn one's bridges or boats... Also, fix pinyin. cā should be chāi
+
+水壶里没有水。
+It's more of a kettle or pitcher, not a bottle
+
+她在封纸箱
+Cardboard box
+
+它住在洞穴里
+I think a cave, not a burrow
+
+劳工酝酿罢工。
+Better: Laborers are planning to strike
+(because 酝酿 means brewing, figuratively in this case a strike is brewing)
+
+卧室里有一组柜子
+I think 卧室 is bedroom, not living room
+
+我的爱好是打羽毛球
+Tone: the audio clearly says 打 as dá, but pinyin gives dǎ
+
+她把书翻到下一页
+Redundant
+
+她在弹奏新曲子
+Pinyin error: dàn zòu should be tánzòu
+
+我明天就可以还清债款了
+Pinyin error: háiqīng should be huánqīng
+
+这片树林很茂密
+Sounds like "shuye" instead of "shulin"
+
+我明天就可以还清债款了
+Pinyin error, háiqīng should be huánqīng
+
+这真是一个奇观。
+Miracle? More like a spectacular sight (spectacle)
+
+她未必能够戒烟。
+Never is too strong. More like: "she may be unable to quit smoking"
+
+他去郊外写生。
+写生 is stills, as opposed to doodling, so maybe better to say: "he went to the suburbs to sketch still life's"
+
+这家商场正在打折扣卖衣服
+Mall Or shopping center, not just a store
+
+他正坐在会议室
+Missing 里 (you can hear it in the audio)
+
+自行车在汽车的右侧行驶是不合法的
+Pinyin very wrong
+Correct: zìxíngchē zài qìchē de yòu cè xíngshǐ shì bùhéfǎ de.
+
+他站在街角
+Slight pinyin error, jiējiǎ => jiējiǎo
+
+她正在搓洗衣服
+Check me in this, but I think more specifically, the clothes are being hand-washed. If that's the case, then the distinction should be clear here
+
+葡萄可以用来酿酒。
+用来 is better translated to "can be used for... ", perhaps the English can be swapped for the one in the next, very similar card which is 葡萄可以酿酒
+
+下雨了，要不然可以去郊游。
+Nothing about a picnic here, so just an excursion or outing
+
+这枚钻戒的形状很特别
+Diamond ring, not just diamond
+
+我们面前的这幢高楼是什么
+chuáng should be zhuàng
+
+她在粉刷墙壁。
+Plastering, not painting
+
+初次穿着前要先清洗
+Fix pinyin zhe to zhuó
+
+她戴着耳机听音乐
+Audio says 我 instead of 她
+
+她的爱好是弹钢琴
+small pinyin error. dàngāngqín - > tángāngqín
+
+他献花给妈妈。
+Not "sent flowers", more like presented a bouquet. "Sent flowers" usually means a third party service is paid to do it where here, the giver is present
+
+他伸直了他的手臂。
+"He extended his arm" , (nothing specifically indicates it's the right arm.)
+
+据最少的估计，也要花3000日元
+Tiniest of errors. English is wrong and says "thirty thousand" instead of"three thousand"
+
+我们是同辈
+Remove "of the family", just: "we are the same generation"
+
+今天是卅一日。
+Audio says "今天是三十一日" So doesn't use the 卅 character at all. Recommend change audio to match what's written or vice versa
+
+蜜蜂正在采花蜜
+Bees collect "nectar", not honey. English part cN be improved
+
+你向我保证说到做到。
+Slight Audio mismatch. Written is 你，spoken is 他/她 (as a result translation changes can be made to reflect this change)
+Like "He promised me he'll do what he says he'll do.
+"
+
+过河拆桥
+Pinyin error. chāi, not cā
+
+我们在任何公司都应该是执行者。
+HUGE difference in what is spoken and what is written
+
+10月1日是中国的国庆日。
+节， not 日
+
+我收到了一张请帖。
+Audio in front and end cut off. Rerecord or delete
+
+她在涂抹胭脂
+Translation is off. Doesn't mention anything about lipstick or powder.
+More like: "she's putting on blush"
+
+天气冷，小心别冻坏了。
+Nothing about catching a cold. Better translation: "it's cold outside, careful not to freeze to death"
+
+援救人员为了找到孩子，仔细搜索了那个区域。
+I don't understand the translation to "beat an area", so how about this instead:
+"In order to find the child, the rescuers carefully searched the area"
+
+他年轻的时候穷困潦倒
+Pinyin error:
+qióngkūn lǎo dǎo, Should be qióngkùn liáodǎo
+
+他在木桩上劈柴。
+To be more accurate, this isn't a stump like what's leftover after a tree is cut down with the roots. It's a log that has been jammed into the ground afterwards. Like a fastened pole/log
+
+凡尔赛宫金碧辉煌。
+The palace of Versailles is splendid/dazzling
+
+她老是吹嘘自己是个游泳健将。
+Pinyin error. chuīshī -> chuīxū
+jiàn jiāng -> jiànjiàng
+
+要解开谋杀背后潜藏之谜！
+Pinyin error. mèi -> mí
+
+那是幢高楼，不是吗？
+Pinyin error:  chuáng - >zhuàng
+
+系上您的安全带。
+Pinyin error:  xìshàng - >jìshàng
+
+长笛是很悦耳的乐器。
+Slightly better translation (more one-to-one)
+"The flute is a very beautiful sounding instrument."
